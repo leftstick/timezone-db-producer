@@ -1,0 +1,14 @@
+{
+  "name": "timezone-db-producer",
+  "version": "1.0.0",
+  "description": "处理生成时区数据库",
+  "scripts": {
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@gitlab.dfocus.co:6230/common-service/timezone-db-producer.git"
+  },
+  "author": "",
+  "license": "MIT"
+}

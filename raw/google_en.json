@@ -1,0 +1,1751 @@
+[
+  ["Pacific/Niue", "(GMT-11:00) Niue Time", [], "-ic", "Niue Time"],
+  [
+    "Pacific/Pago_Pago",
+    "(GMT-11:00) Samoa Standard Time",
+    ["Pacific/Midway", "Pacific/Samoa", "US/Samoa"],
+    "-ic",
+    "American Samoa Time"
+  ],
+  [
+    "Pacific/Honolulu",
+    "(GMT-10:00) Hawaii-Aleutian Standard Time",
+    ["Pacific/Johnston", "US/Hawaii"],
+    "-go",
+    "Honolulu Time"
+  ],
+  ["Pacific/Rarotonga", "(GMT-10:00) Cook Islands Standard Time", [], "-go", "Cook Islands Time"],
+  ["Pacific/Tahiti", "(GMT-10:00) Tahiti Time", [], "-go", "Tahiti Time"],
+  ["Pacific/Marquesas", "(GMT-09:30) Marquesas Time", [], "-fu", "Marquesas Time"],
+  [
+    "America/Adak",
+    "(GMT-09:00) Hawaii-Aleutian Time (Adak)",
+    ["America/Atka", "US/Aleutian"],
+    "-f0{ezd6c{-go{f3980{-f0{falmc{-go{feho0{-f0{flu2c{-go{fpq40{-f0{fx2ic{-go{g16c0{-f0{g8iqc{-go{gces0{-f0{gjr6c{-go{gnn80{-f0{guzmc{-go{gyvo0{-f0",
+    "Adak Time"
+  ],
+  ["Pacific/Gambier", "(GMT-09:00) Gambier Time", [], "-f0", "Gambier Time"],
+  [
+    "America/Anchorage",
+    "(GMT-08:00) Alaska Time - Anchorage",
+    ["AST", "US/Alaska"],
+    "-dc{ezd4o{-f0{f396c{-dc{falko{-f0{fehmc{-dc{flu0o{-f0{fpq2c{-dc{fx2go{-f0{g16ac{-dc{g8ioo{-f0{gceqc{-dc{gjr4o{-f0{gnn6c{-dc{guzko{-f0{gyvmc{-dc",
+    "Anchorage Time"
+  ],
+  [
+    "America/Juneau",
+    "(GMT-08:00) Alaska Time - Juneau",
+    [],
+    "-dc{ezd4o{-f0{f396c{-dc{falko{-f0{fehmc{-dc{flu0o{-f0{fpq2c{-dc{fx2go{-f0{g16ac{-dc{g8ioo{-f0{gceqc{-dc{gjr4o{-f0{gnn6c{-dc{guzko{-f0{gyvmc{-dc",
+    "Juneau Time"
+  ],
+  [
+    "America/Metlakatla",
+    "(GMT-08:00) Alaska Time - Metlakatla",
+    [],
+    "-dc{ezd4o{-f0{f396c{-dc{falko{-dc{fcz4o{-f0{fehmc{-dc{flu0o{-f0{fpq2c{-dc{fx2go{-f0{g16ac{-dc{g8ioo{-f0{gceqc{-dc{gjr4o{-f0{gnn6c{-dc{guzko{-f0{gyvmc{-dc",
+    "Metlakatla Time"
+  ],
+  [
+    "America/Nome",
+    "(GMT-08:00) Alaska Time - Nome",
+    [],
+    "-dc{ezd4o{-f0{f396c{-dc{falko{-f0{fehmc{-dc{flu0o{-f0{fpq2c{-dc{fx2go{-f0{g16ac{-dc{g8ioo{-f0{gceqc{-dc{gjr4o{-f0{gnn6c{-dc{guzko{-f0{gyvmc{-dc",
+    "Nome Time"
+  ],
+  [
+    "America/Sitka",
+    "(GMT-08:00) Alaska Time - Sitka",
+    [],
+    "-dc{ezd4o{-f0{f396c{-dc{falko{-f0{fehmc{-dc{flu0o{-f0{fpq2c{-dc{fx2go{-f0{g16ac{-dc{g8ioo{-f0{gceqc{-dc{gjr4o{-f0{gnn6c{-dc{guzko{-f0{gyvmc{-dc",
+    "Sitka Time"
+  ],
+  [
+    "America/Yakutat",
+    "(GMT-08:00) Alaska Time - Yakutat",
+    [],
+    "-dc{ezd4o{-f0{f396c{-dc{falko{-f0{fehmc{-dc{flu0o{-f0{fpq2c{-dc{fx2go{-f0{g16ac{-dc{g8ioo{-f0{gceqc{-dc{gjr4o{-f0{gnn6c{-dc{guzko{-f0{gyvmc{-dc",
+    "Yakutat Time"
+  ],
+  ["Pacific/Pitcairn", "(GMT-08:00) Pitcairn Time", [], "-dc", "Pitcairn Islands Time"],
+  ["America/Creston", "(GMT-07:00) Mountain Standard Time - Creston", [], "-bo", "Creston Time"],
+  [
+    "America/Dawson",
+    "(GMT-07:00) Pacific Time - Dawson",
+    [],
+    "-bo{ezd30{-dc{f394o{-bo{falj0{-dc{fehko{-bo{fltz0{-dc{fpq0o{-bo{fx2f0{-dc{g168o{-bo{g8in0{-dc{gceoo{-bo{gjr30{-dc{gnn4o{-bo{guzj0{-dc{gyvko{-bo",
+    "Dawson Time"
+  ],
+  [
+    "America/Dawson_Creek",
+    "(GMT-07:00) Mountain Standard Time - Dawson Creek",
+    [],
+    "-bo",
+    "Dawson Creek Time"
+  ],
+  [
+    "America/Fort_Nelson",
+    "(GMT-07:00) Mountain Standard Time - Fort Nelson",
+    [],
+    "-bo",
+    "Fort Nelson Time"
+  ],
+  ["America/Hermosillo", "(GMT-07:00) Mexican Pacific Standard Time", [], "-bo", "Hermosillo Time"],
+  [
+    "America/Los_Angeles",
+    "(GMT-07:00) Pacific Time - Los Angeles",
+    ["PST", "US/Pacific", "US/Pacific-New"],
+    "-bo{ezd30{-dc{f394o{-bo{falj0{-dc{fehko{-bo{fltz0{-dc{fpq0o{-bo{fx2f0{-dc{g168o{-bo{g8in0{-dc{gceoo{-bo{gjr30{-dc{gnn4o{-bo{guzj0{-dc{gyvko{-bo",
+    "Los Angeles Time"
+  ],
+  [
+    "America/Phoenix",
+    "(GMT-07:00) Mountain Standard Time - Phoenix",
+    ["PNT", "US/Arizona"],
+    "-bo",
+    "Phoenix Time"
+  ],
+  [
+    "America/Tijuana",
+    "(GMT-07:00) Pacific Time - Tijuana",
+    ["America/Ensenada", "America/Santa_Isabel", "Mexico/BajaNorte"],
+    "-bo{ezd30{-dc{f394o{-bo{falj0{-dc{fehko{-bo{fltz0{-dc{fpq0o{-bo{fx2f0{-dc{g168o{-bo{g8in0{-dc{gceoo{-bo{gjr30{-dc{gnn4o{-bo{guzj0{-dc{gyvko{-bo",
+    "Tijuana Time"
+  ],
+  [
+    "America/Vancouver",
+    "(GMT-07:00) Pacific Time - Vancouver",
+    ["Canada/Pacific"],
+    "-bo{ezd30{-dc{f394o{-bo{falj0{-dc{fehko{-bo{fltz0{-dc{fpq0o{-bo{fx2f0{-dc{g168o{-bo{g8in0{-dc{gceoo{-bo{gjr30{-dc{gnn4o{-bo{guzj0{-dc{gyvko{-bo",
+    "Vancouver Time"
+  ],
+  [
+    "America/Whitehorse",
+    "(GMT-07:00) Pacific Time - Whitehorse",
+    ["Canada/Yukon"],
+    "-bo{ezd30{-dc{f394o{-bo{falj0{-dc{fehko{-bo{fltz0{-dc{fpq0o{-bo{fx2f0{-dc{g168o{-bo{g8in0{-dc{gceoo{-bo{gjr30{-dc{gnn4o{-bo{guzj0{-dc{gyvko{-bo",
+    "Whitehorse Time"
+  ],
+  ["America/Belize", "(GMT-06:00) Central Standard Time - Belize", [], "-a0", "Belize Time"],
+  [
+    "America/Boise",
+    "(GMT-06:00) Mountain Time - Boise",
+    [],
+    "-a0{ezd1c{-bo{f3930{-a0{falhc{-bo{fehj0{-a0{fltxc{-bo{fppz0{-a0{fx2dc{-bo{g1670{-a0{g8ilc{-bo{gcen0{-a0{gjr1c{-bo{gnn30{-a0{guzhc{-bo{gyvj0{-a0",
+    "Boise Time"
+  ],
+  [
+    "America/Cambridge_Bay",
+    "(GMT-06:00) Mountain Time - Cambridge Bay",
+    [],
+    "-a0{ezd1c{-bo{f3930{-a0{falhc{-bo{fehj0{-a0{fltxc{-bo{fppz0{-a0{fx2dc{-bo{g1670{-a0{g8ilc{-bo{gcen0{-a0{gjr1c{-bo{gnn30{-a0{guzhc{-bo{gyvj0{-a0",
+    "Cambridge Bay Time"
+  ],
+  [
+    "America/Chihuahua",
+    "(GMT-06:00) Mexican Pacific Time - Chihuahua",
+    [],
+    "-a0{ez59c{-bo{f3wf0{-a0{fadpc{-bo{ffcn0{-a0{flm5c{-bo{fql30{-a0{fwulc{-bo{g1tj0{-a0{g8atc{-bo{gd1z0{-a0{gjj9c{-bo{goaf0{-a0{gurpc{-bo{gzqn0{-a0",
+    "Chihuahua Time"
+  ],
+  [
+    "America/Costa_Rica",
+    "(GMT-06:00) Central Standard Time - Costa Rica",
+    [],
+    "-a0",
+    "Costa Rica Time"
+  ],
+  [
+    "America/Denver",
+    "(GMT-06:00) Mountain Time - Denver",
+    ["America/Shiprock", "Navajo", "US/Mountain"],
+    "-a0{ezd1c{-bo{f3930{-a0{falhc{-bo{fehj0{-a0{fltxc{-bo{fppz0{-a0{fx2dc{-bo{g1670{-a0{g8ilc{-bo{gcen0{-a0{gjr1c{-bo{gnn30{-a0{guzhc{-bo{gyvj0{-a0",
+    "Denver Time"
+  ],
+  [
+    "America/Edmonton",
+    "(GMT-06:00) Mountain Time - Edmonton",
+    ["Canada/Mountain"],
+    "-a0{ezd1c{-bo{f3930{-a0{falhc{-bo{fehj0{-a0{fltxc{-bo{fppz0{-a0{fx2dc{-bo{g1670{-a0{g8ilc{-bo{gcen0{-a0{gjr1c{-bo{gnn30{-a0{guzhc{-bo{gyvj0{-a0",
+    "Edmonton Time"
+  ],
+  [
+    "America/El_Salvador",
+    "(GMT-06:00) Central Standard Time - El Salvador",
+    [],
+    "-a0",
+    "El Salvador Time"
+  ],
+  [
+    "America/Guatemala",
+    "(GMT-06:00) Central Standard Time - Guatemala",
+    [],
+    "-a0",
+    "Guatemala Time"
+  ],
+  [
+    "America/Inuvik",
+    "(GMT-06:00) Mountain Time - Inuvik",
+    [],
+    "-a0{ezd1c{-bo{f3930{-a0{falhc{-bo{fehj0{-a0{fltxc{-bo{fppz0{-a0{fx2dc{-bo{g1670{-a0{g8ilc{-bo{gcen0{-a0{gjr1c{-bo{gnn30{-a0{guzhc{-bo{gyvj0{-a0",
+    "Inuvik Time"
+  ],
+  ["America/Managua", "(GMT-06:00) Central Standard Time - Managua", [], "-a0", "Nicaragua Time"],
+  [
+    "America/Mazatlan",
+    "(GMT-06:00) Mexican Pacific Time - Mazatlan",
+    ["Mexico/BajaSur"],
+    "-a0{ez59c{-bo{f3wf0{-a0{fadpc{-bo{ffcn0{-a0{flm5c{-bo{fql30{-a0{fwulc{-bo{g1tj0{-a0{g8atc{-bo{gd1z0{-a0{gjj9c{-bo{goaf0{-a0{gurpc{-bo{gzqn0{-a0",
+    "Mazatlan Time"
+  ],
+  [
+    "America/Ojinaga",
+    "(GMT-06:00) Mountain Time - Ojinaga",
+    [],
+    "-a0{ezd1c{-bo{f3930{-a0{falhc{-bo{fehj0{-a0{fltxc{-bo{fppz0{-a0{fx2dc{-bo{g1670{-a0{g8ilc{-bo{gcen0{-a0{gjr1c{-bo{gnn30{-a0{guzhc{-bo{gyvj0{-a0",
+    "Ojinaga Time"
+  ],
+  [
+    "America/Regina",
+    "(GMT-06:00) Central Standard Time - Regina",
+    ["Canada/East-Saskatchewan", "Canada/Saskatchewan"],
+    "-a0",
+    "Regina Time"
+  ],
+  [
+    "America/Swift_Current",
+    "(GMT-06:00) Central Standard Time - Swift Current",
+    [],
+    "-a0",
+    "Swift Current Time"
+  ],
+  [
+    "America/Tegucigalpa",
+    "(GMT-06:00) Central Standard Time - Tegucigalpa",
+    [],
+    "-a0",
+    "Honduras Time"
+  ],
+  [
+    "America/Yellowknife",
+    "(GMT-06:00) Mountain Time - Yellowknife",
+    [],
+    "-a0{ezd1c{-bo{f3930{-a0{falhc{-bo{fehj0{-a0{fltxc{-bo{fppz0{-a0{fx2dc{-bo{g1670{-a0{g8ilc{-bo{gcen0{-a0{gjr1c{-bo{gnn30{-a0{guzhc{-bo{gyvj0{-a0",
+    "Yellowknife Time"
+  ],
+  [
+    "Pacific/Easter",
+    "(GMT-06:00) Easter Island Time",
+    ["Chile/EasterIsland"],
+    "-a0{ewrio{-8c{f56t0{-a0{f7zyo{-8c{ffcd0{-a0{fk3io{-8c{fqkt0{-a0{fvbyo{-8c{g1t90{-a0{g6keo{-8c{gd1p0{-a0{ghsuo{-8c{goa50{-a0{gt1ao{-8c{gzqd0{-a0",
+    "Easter Time"
+  ],
+  ["Pacific/Galapagos", "(GMT-06:00) Galapagos Time", [], "-a0", "Galapagos Time"],
+  [
+    "America/Atikokan",
+    "(GMT-05:00) Eastern Standard Time - Atikokan",
+    ["America/Coral_Harbour"],
+    "-8c",
+    "Atikokan Time"
+  ],
+  [
+    "America/Bahia_Banderas",
+    "(GMT-05:00) Central Time - Bahia Banderas",
+    [],
+    "-8c{ez57o{-a0{f3wdc{-8c{fadno{-a0{ffclc{-8c{flm3o{-a0{fql1c{-8c{fwujo{-a0{g1thc{-8c{g8aro{-a0{gd1xc{-8c{gjj7o{-a0{goadc{-8c{gurno{-a0{gzqlc{-8c",
+    "Bahia Banderas Time"
+  ],
+  ["America/Bogota", "(GMT-05:00) Colombia Standard Time", [], "-8c", "Colombia Time"],
+  ["America/Cancun", "(GMT-05:00) Eastern Standard Time - Cancun", [], "-8c", "Cancun Time"],
+  [
+    "America/Chicago",
+    "(GMT-05:00) Central Time - Chicago",
+    ["CST", "US/Central"],
+    "-8c{ezczo{-a0{f391c{-8c{falfo{-a0{fehhc{-8c{fltvo{-a0{fppxc{-8c{fx2bo{-a0{g165c{-8c{g8ijo{-a0{gcelc{-8c{gjqzo{-a0{gnn1c{-8c{guzfo{-a0{gyvhc{-8c",
+    "Chicago Time"
+  ],
+  ["America/Eirunepe", "(GMT-05:00) Acre Standard Time - Eirunepe", [], "-8c", "Eirunepe Time"],
+  ["America/Guayaquil", "(GMT-05:00) Ecuador Time", [], "-8c", "Ecuador Time"],
+  [
+    "America/Indiana/Knox",
+    "(GMT-05:00) Central Time - Knox, Indiana",
+    ["America/Knox_IN", "US/Indiana-Starke"],
+    "-8c{ezczo{-a0{f391c{-8c{falfo{-a0{fehhc{-8c{fltvo{-a0{fppxc{-8c{fx2bo{-a0{g165c{-8c{g8ijo{-a0{gcelc{-8c{gjqzo{-a0{gnn1c{-8c{guzfo{-a0{gyvhc{-8c",
+    "Knox, Indiana Time"
+  ],
+  [
+    "America/Indiana/Tell_City",
+    "(GMT-05:00) Central Time - Tell City, Indiana",
+    [],
+    "-8c{ezczo{-a0{f391c{-8c{falfo{-a0{fehhc{-8c{fltvo{-a0{fppxc{-8c{fx2bo{-a0{g165c{-8c{g8ijo{-a0{gcelc{-8c{gjqzo{-a0{gnn1c{-8c{guzfo{-a0{gyvhc{-8c",
+    "Tell City, Indiana Time"
+  ],
+  [
+    "America/Jamaica",
+    "(GMT-05:00) Eastern Standard Time - Jamaica",
+    ["Jamaica"],
+    "-8c",
+    "Jamaica Time"
+  ],
+  ["America/Lima", "(GMT-05:00) Peru Standard Time", [], "-8c", "Peru Time"],
+  [
+    "America/Matamoros",
+    "(GMT-05:00) Central Time - Matamoros",
+    [],
+    "-8c{ezczo{-a0{f391c{-8c{falfo{-a0{fehhc{-8c{fltvo{-a0{fppxc{-8c{fx2bo{-a0{g165c{-8c{g8ijo{-a0{gcelc{-8c{gjqzo{-a0{gnn1c{-8c{guzfo{-a0{gyvhc{-8c",
+    "Matamoros Time"
+  ],
+  [
+    "America/Menominee",
+    "(GMT-05:00) Central Time - Menominee",
+    [],
+    "-8c{ezczo{-a0{f391c{-8c{falfo{-a0{fehhc{-8c{fltvo{-a0{fppxc{-8c{fx2bo{-a0{g165c{-8c{g8ijo{-a0{gcelc{-8c{gjqzo{-a0{gnn1c{-8c{guzfo{-a0{gyvhc{-8c",
+    "Menominee Time"
+  ],
+  [
+    "America/Merida",
+    "(GMT-05:00) Central Time - Merida",
+    [],
+    "-8c{ez57o{-a0{f3wdc{-8c{fadno{-a0{ffclc{-8c{flm3o{-a0{fql1c{-8c{fwujo{-a0{g1thc{-8c{g8aro{-a0{gd1xc{-8c{gjj7o{-a0{goadc{-8c{gurno{-a0{gzqlc{-8c",
+    "Merida Time"
+  ],
+  [
+    "America/Mexico_City",
+    "(GMT-05:00) Central Time - Mexico City",
+    ["Mexico/General"],
+    "-8c{ez57o{-a0{f3wdc{-8c{fadno{-a0{ffclc{-8c{flm3o{-a0{fql1c{-8c{fwujo{-a0{g1thc{-8c{g8aro{-a0{gd1xc{-8c{gjj7o{-a0{goadc{-8c{gurno{-a0{gzqlc{-8c",
+    "Mexico City Time"
+  ],
+  [
+    "America/Monterrey",
+    "(GMT-05:00) Central Time - Monterrey",
+    [],
+    "-8c{ez57o{-a0{f3wdc{-8c{fadno{-a0{ffclc{-8c{flm3o{-a0{fql1c{-8c{fwujo{-a0{g1thc{-8c{g8aro{-a0{gd1xc{-8c{gjj7o{-a0{goadc{-8c{gurno{-a0{gzqlc{-8c",
+    "Monterrey Time"
+  ],
+  [
+    "America/North_Dakota/Beulah",
+    "(GMT-05:00) Central Time - Beulah, North Dakota",
+    [],
+    "-8c{ezczo{-a0{f391c{-8c{falfo{-a0{fehhc{-8c{fltvo{-a0{fppxc{-8c{fx2bo{-a0{g165c{-8c{g8ijo{-a0{gcelc{-8c{gjqzo{-a0{gnn1c{-8c{guzfo{-a0{gyvhc{-8c",
+    "Beulah, North Dakota Time"
+  ],
+  [
+    "America/North_Dakota/Center",
+    "(GMT-05:00) Central Time - Center, North Dakota",
+    [],
+    "-8c{ezczo{-a0{f391c{-8c{falfo{-a0{fehhc{-8c{fltvo{-a0{fppxc{-8c{fx2bo{-a0{g165c{-8c{g8ijo{-a0{gcelc{-8c{gjqzo{-a0{gnn1c{-8c{guzfo{-a0{gyvhc{-8c",
+    "Center, North Dakota Time"
+  ],
+  [
+    "America/North_Dakota/New_Salem",
+    "(GMT-05:00) Central Time - New Salem, North Dakota",
+    [],
+    "-8c{ezczo{-a0{f391c{-8c{falfo{-a0{fehhc{-8c{fltvo{-a0{fppxc{-8c{fx2bo{-a0{g165c{-8c{g8ijo{-a0{gcelc{-8c{gjqzo{-a0{gnn1c{-8c{guzfo{-a0{gyvhc{-8c",
+    "New Salem, North Dakota Time"
+  ],
+  [
+    "America/Panama",
+    "(GMT-05:00) Eastern Standard Time - Panama",
+    ["America/Cayman"],
+    "-8c",
+    "Panama Time"
+  ],
+  [
+    "America/Rainy_River",
+    "(GMT-05:00) Central Time - Rainy River",
+    [],
+    "-8c{ezczo{-a0{f391c{-8c{falfo{-a0{fehhc{-8c{fltvo{-a0{fppxc{-8c{fx2bo{-a0{g165c{-8c{g8ijo{-a0{gcelc{-8c{gjqzo{-a0{gnn1c{-8c{guzfo{-a0{gyvhc{-8c",
+    "Rainy River Time"
+  ],
+  [
+    "America/Rankin_Inlet",
+    "(GMT-05:00) Central Time - Rankin Inlet",
+    [],
+    "-8c{ezczo{-a0{f391c{-8c{falfo{-a0{fehhc{-8c{fltvo{-a0{fppxc{-8c{fx2bo{-a0{g165c{-8c{g8ijo{-a0{gcelc{-8c{gjqzo{-a0{gnn1c{-8c{guzfo{-a0{gyvhc{-8c",
+    "Rankin Inlet Time"
+  ],
+  [
+    "America/Resolute",
+    "(GMT-05:00) Central Time - Resolute",
+    [],
+    "-8c{ezczo{-a0{f391c{-8c{falfo{-a0{fehhc{-8c{fltvo{-a0{fppxc{-8c{fx2bo{-a0{g165c{-8c{g8ijo{-a0{gcelc{-8c{gjqzo{-a0{gnn1c{-8c{guzfo{-a0{gyvhc{-8c",
+    "Resolute Time"
+  ],
+  [
+    "America/Rio_Branco",
+    "(GMT-05:00) Acre Standard Time - Rio Branco",
+    ["America/Porto_Acre", "Brazil/Acre"],
+    "-8c",
+    "Rio Branco Time"
+  ],
+  [
+    "America/Winnipeg",
+    "(GMT-05:00) Central Time - Winnipeg",
+    ["Canada/Central"],
+    "-8c{ezczo{-a0{f391c{-8c{falfo{-a0{fehhc{-8c{fltvo{-a0{fppxc{-8c{fx2bo{-a0{g165c{-8c{g8ijo{-a0{gcelc{-8c{gjqzo{-a0{gnn1c{-8c{guzfo{-a0{gyvhc{-8c",
+    "Winnipeg Time"
+  ],
+  [
+    "America/Asuncion",
+    "(GMT-04:00) Paraguay Time",
+    [],
+    "-6o{ey9yo{-50{f3od0{-6o{f9q6o{-50{fewt0{-6o{fkymo{-50{fq590{-6o{fw72o{-50{g1lh0{-6o{g7fio{-50{gctx0{-6o{ginyo{-50{go2d0{-6o{gtweo{-50{gzat0{-6o",
+    "Paraguay Time"
+  ],
+  ["America/Barbados", "(GMT-04:00) Atlantic Standard Time - Barbados", [], "-6o", "Barbados Time"],
+  [
+    "America/Blanc-Sablon",
+    "(GMT-04:00) Atlantic Standard Time - Blanc-Sablon",
+    [],
+    "-6o",
+    "Blanc-Sablon Time"
+  ],
+  [
+    "America/Boa_Vista",
+    "(GMT-04:00) Amazon Standard Time - Boa Vista",
+    [],
+    "-6o",
+    "Boa Vista Time"
+  ],
+  [
+    "America/Campo_Grande",
+    "(GMT-04:00) Amazon Time - Campo Grande",
+    [],
+    "-6o{eypio{-50{f2lh0{-6o{falao{-50{fdtx0{-6o",
+    "Campo Grande Time"
+  ],
+  ["America/Caracas", "(GMT-04:00) Venezuela Time", [], "-6o", "Venezuela Time"],
+  [
+    "America/Cuiaba",
+    "(GMT-04:00) Amazon Time - Cuiaba",
+    [],
+    "-6o{eypio{-50{f2lh0{-6o{falao{-50{fdtx0{-6o",
+    "Cuiaba Time"
+  ],
+  [
+    "America/Curacao",
+    "(GMT-04:00) Atlantic Standard Time - Curaçao",
+    ["America/Aruba", "America/Kralendijk", "America/Lower_Princes"],
+    "-6o",
+    "Curaçao Time"
+  ],
+  [
+    "America/Detroit",
+    "(GMT-04:00) Eastern Time - Detroit",
+    ["US/Michigan"],
+    "-6o{ezcy0{-8c{f38zo{-6o{fale0{-8c{fehfo{-6o{fltu0{-8c{fppvo{-6o{fx2a0{-8c{g163o{-6o{g8ii0{-8c{gcejo{-6o{gjqy0{-8c{gnmzo{-6o{guze0{-8c{gyvfo{-6o",
+    "Detroit Time"
+  ],
+  [
+    "America/Grand_Turk",
+    "(GMT-04:00) Eastern Time - Grand Turk",
+    [],
+    "-6o{f38zo{-6o{fale0{-8c{fehfo{-6o{fltu0{-8c{fppvo{-6o{fx2a0{-8c{g163o{-6o{g8ii0{-8c{gcejo{-6o{gjqy0{-8c{gnmzo{-6o{guze0{-8c{gyvfo{-6o",
+    "Turks \u0026 Caicos Islands Time"
+  ],
+  ["America/Guyana", "(GMT-04:00) Guyana Time", [], "-6o", "Guyana Time"],
+  [
+    "America/Havana",
+    "(GMT-04:00) Cuba Time",
+    ["Cuba"],
+    "-6o{ezcwc{-8c{f38wc{-6o{falcc{-8c{fehcc{-6o{fltsc{-8c{fppsc{-6o{fx28c{-8c{g160c{-6o{g8igc{-8c{gcegc{-6o{gjqwc{-8c{gnmwc{-6o{guzcc{-8c{gyvcc{-6o",
+    "Cuba Time"
+  ],
+  [
+    "America/Indiana/Indianapolis",
+    "(GMT-04:00) Eastern Time - Indianapolis",
+    ["America/Fort_Wayne", "America/Indianapolis", "US/East-Indiana"],
+    "-6o{ezcy0{-8c{f38zo{-6o{fale0{-8c{fehfo{-6o{fltu0{-8c{fppvo{-6o{fx2a0{-8c{g163o{-6o{g8ii0{-8c{gcejo{-6o{gjqy0{-8c{gnmzo{-6o{guze0{-8c{gyvfo{-6o",
+    "Indianapolis Time"
+  ],
+  [
+    "America/Indiana/Marengo",
+    "(GMT-04:00) Eastern Time - Marengo, Indiana",
+    [],
+    "-6o{ezcy0{-8c{f38zo{-6o{fale0{-8c{fehfo{-6o{fltu0{-8c{fppvo{-6o{fx2a0{-8c{g163o{-6o{g8ii0{-8c{gcejo{-6o{gjqy0{-8c{gnmzo{-6o{guze0{-8c{gyvfo{-6o",
+    "Marengo, Indiana Time"
+  ],
+  [
+    "America/Indiana/Petersburg",
+    "(GMT-04:00) Eastern Time - Petersburg, Indiana",
+    [],
+    "-6o{ezcy0{-8c{f38zo{-6o{fale0{-8c{fehfo{-6o{fltu0{-8c{fppvo{-6o{fx2a0{-8c{g163o{-6o{g8ii0{-8c{gcejo{-6o{gjqy0{-8c{gnmzo{-6o{guze0{-8c{gyvfo{-6o",
+    "Petersburg, Indiana Time"
+  ],
+  [
+    "America/Indiana/Vevay",
+    "(GMT-04:00) Eastern Time - Vevay, Indiana",
+    [],
+    "-6o{ezcy0{-8c{f38zo{-6o{fale0{-8c{fehfo{-6o{fltu0{-8c{fppvo{-6o{fx2a0{-8c{g163o{-6o{g8ii0{-8c{gcejo{-6o{gjqy0{-8c{gnmzo{-6o{guze0{-8c{gyvfo{-6o",
+    "Vevay, Indiana Time"
+  ],
+  [
+    "America/Indiana/Vincennes",
+    "(GMT-04:00) Eastern Time - Vincennes, Indiana",
+    [],
+    "-6o{ezcy0{-8c{f38zo{-6o{fale0{-8c{fehfo{-6o{fltu0{-8c{fppvo{-6o{fx2a0{-8c{g163o{-6o{g8ii0{-8c{gcejo{-6o{gjqy0{-8c{gnmzo{-6o{guze0{-8c{gyvfo{-6o",
+    "Vincennes, Indiana Time"
+  ],
+  [
+    "America/Indiana/Winamac",
+    "(GMT-04:00) Eastern Time - Winamac, Indiana",
+    [],
+    "-6o{ezcy0{-8c{f38zo{-6o{fale0{-8c{fehfo{-6o{fltu0{-8c{fppvo{-6o{fx2a0{-8c{g163o{-6o{g8ii0{-8c{gcejo{-6o{gjqy0{-8c{gnmzo{-6o{guze0{-8c{gyvfo{-6o",
+    "Winamac, Indiana Time"
+  ],
+  [
+    "America/Iqaluit",
+    "(GMT-04:00) Eastern Time - Iqaluit",
+    [],
+    "-6o{ezcy0{-8c{f38zo{-6o{fale0{-8c{fehfo{-6o{fltu0{-8c{fppvo{-6o{fx2a0{-8c{g163o{-6o{g8ii0{-8c{gcejo{-6o{gjqy0{-8c{gnmzo{-6o{guze0{-8c{gyvfo{-6o",
+    "Iqaluit Time"
+  ],
+  [
+    "America/Kentucky/Louisville",
+    "(GMT-04:00) Eastern Time - Louisville",
+    ["America/Louisville"],
+    "-6o{ezcy0{-8c{f38zo{-6o{fale0{-8c{fehfo{-6o{fltu0{-8c{fppvo{-6o{fx2a0{-8c{g163o{-6o{g8ii0{-8c{gcejo{-6o{gjqy0{-8c{gnmzo{-6o{guze0{-8c{gyvfo{-6o",
+    "Louisville Time"
+  ],
+  [
+    "America/Kentucky/Monticello",
+    "(GMT-04:00) Eastern Time - Monticello, Kentucky",
+    [],
+    "-6o{ezcy0{-8c{f38zo{-6o{fale0{-8c{fehfo{-6o{fltu0{-8c{fppvo{-6o{fx2a0{-8c{g163o{-6o{g8ii0{-8c{gcejo{-6o{gjqy0{-8c{gnmzo{-6o{guze0{-8c{gyvfo{-6o",
+    "Monticello, Kentucky Time"
+  ],
+  ["America/La_Paz", "(GMT-04:00) Bolivia Time", [], "-6o", "Bolivia Time"],
+  [
+    "America/Manaus",
+    "(GMT-04:00) Amazon Standard Time - Manaus",
+    ["Brazil/West"],
+    "-6o",
+    "Manaus Time"
+  ],
+  [
+    "America/Martinique",
+    "(GMT-04:00) Atlantic Standard Time - Martinique",
+    [],
+    "-6o",
+    "Martinique Time"
+  ],
+  [
+    "America/Nassau",
+    "(GMT-04:00) Eastern Time - Nassau",
+    [],
+    "-6o{ezcy0{-8c{f38zo{-6o{fale0{-8c{fehfo{-6o{fltu0{-8c{fppvo{-6o{fx2a0{-8c{g163o{-6o{g8ii0{-8c{gcejo{-6o{gjqy0{-8c{gnmzo{-6o{guze0{-8c{gyvfo{-6o",
+    "Bahamas Time"
+  ],
+  [
+    "America/New_York",
+    "(GMT-04:00) Eastern Time - New York",
+    ["US/Eastern"],
+    "-6o{ezcy0{-8c{f38zo{-6o{fale0{-8c{fehfo{-6o{fltu0{-8c{fppvo{-6o{fx2a0{-8c{g163o{-6o{g8ii0{-8c{gcejo{-6o{gjqy0{-8c{gnmzo{-6o{guze0{-8c{gyvfo{-6o",
+    "New York Time"
+  ],
+  [
+    "America/Nipigon",
+    "(GMT-04:00) Eastern Time - Nipigon",
+    [],
+    "-6o{ezcy0{-8c{f38zo{-6o{fale0{-8c{fehfo{-6o{fltu0{-8c{fppvo{-6o{fx2a0{-8c{g163o{-6o{g8ii0{-8c{gcejo{-6o{gjqy0{-8c{gnmzo{-6o{guze0{-8c{gyvfo{-6o",
+    "Nipigon Time"
+  ],
+  [
+    "America/Pangnirtung",
+    "(GMT-04:00) Eastern Time - Pangnirtung",
+    [],
+    "-6o{ezcy0{-8c{f38zo{-6o{fale0{-8c{fehfo{-6o{fltu0{-8c{fppvo{-6o{fx2a0{-8c{g163o{-6o{g8ii0{-8c{gcejo{-6o{gjqy0{-8c{gnmzo{-6o{guze0{-8c{gyvfo{-6o",
+    "Pangnirtung Time"
+  ],
+  [
+    "America/Port-au-Prince",
+    "(GMT-04:00) Eastern Time - Port-au-Prince",
+    [],
+    "-6o{ezcy0{-8c{f38zo{-6o{fale0{-8c{fehfo{-6o{fltu0{-8c{fppvo{-6o{fx2a0{-8c{g163o{-6o{g8ii0{-8c{gcejo{-6o{gjqy0{-8c{gnmzo{-6o{guze0{-8c{gyvfo{-6o",
+    "Haiti Time"
+  ],
+  [
+    "America/Port_of_Spain",
+    "(GMT-04:00) Atlantic Standard Time - Port of Spain",
+    [
+      "America/Anguilla",
+      "America/Antigua",
+      "America/Dominica",
+      "America/Grenada",
+      "America/Guadeloupe",
+      "America/Marigot",
+      "America/Montserrat",
+      "America/St_Barthelemy",
+      "America/St_Kitts",
+      "America/St_Lucia",
+      "America/St_Thomas",
+      "America/St_Vincent",
+      "America/Tortola",
+      "America/Virgin"
+    ],
+    "-6o",
+    "Trinidad \u0026 Tobago Time"
+  ],
+  [
+    "America/Porto_Velho",
+    "(GMT-04:00) Amazon Standard Time - Porto Velho",
+    [],
+    "-6o",
+    "Porto Velho Time"
+  ],
+  [
+    "America/Puerto_Rico",
+    "(GMT-04:00) Atlantic Standard Time - Puerto Rico",
+    ["PRT"],
+    "-6o",
+    "Puerto Rico Time"
+  ],
+  [
+    "America/Santiago",
+    "(GMT-04:00) Chile Time",
+    ["Chile/Continental"],
+    "-6o{ewrio{-50{f56t0{-6o{f7zyo{-50{ffcd0{-6o{fk3io{-50{fqkt0{-6o{fvbyo{-50{g1t90{-6o{g6keo{-50{gd1p0{-6o{ghsuo{-50{goa50{-6o{gt1ao{-50{gzqd0{-6o",
+    "Chile Time"
+  ],
+  [
+    "America/Santo_Domingo",
+    "(GMT-04:00) Atlantic Standard Time - Santo Domingo",
+    [],
+    "-6o",
+    "Dominican Republic Time"
+  ],
+  [
+    "America/Thunder_Bay",
+    "(GMT-04:00) Eastern Time - Thunder Bay",
+    [],
+    "-6o{ezcy0{-8c{f38zo{-6o{fale0{-8c{fehfo{-6o{fltu0{-8c{fppvo{-6o{fx2a0{-8c{g163o{-6o{g8ii0{-8c{gcejo{-6o{gjqy0{-8c{gnmzo{-6o{guze0{-8c{gyvfo{-6o",
+    "Thunder Bay Time"
+  ],
+  [
+    "America/Toronto",
+    "(GMT-04:00) Eastern Time - Toronto",
+    ["America/Montreal", "Canada/Eastern"],
+    "-6o{ezcy0{-8c{f38zo{-6o{fale0{-8c{fehfo{-6o{fltu0{-8c{fppvo{-6o{fx2a0{-8c{g163o{-6o{g8ii0{-8c{gcejo{-6o{gjqy0{-8c{gnmzo{-6o{guze0{-8c{gyvfo{-6o",
+    "Toronto Time"
+  ],
+  [
+    "America/Araguaina",
+    "(GMT-03:00) Brasilia Standard Time - Araguaina",
+    [],
+    "-50",
+    "Araguaina Time"
+  ],
+  [
+    "America/Argentina/Buenos_Aires",
+    "(GMT-03:00) Argentina Standard Time - Buenos Aires",
+    ["America/Buenos_Aires"],
+    "-50",
+    "Buenos Aires Time"
+  ],
+  [
+    "America/Argentina/Catamarca",
+    "(GMT-03:00) Argentina Standard Time - Catamarca",
+    ["America/Argentina/ComodRivadavia", "America/Catamarca"],
+    "-50",
+    "Catamarca Time"
+  ],
+  [
+    "America/Argentina/Cordoba",
+    "(GMT-03:00) Argentina Standard Time - Cordoba",
+    ["America/Cordoba", "America/Rosario"],
+    "-50",
+    "Cordoba Time"
+  ],
+  [
+    "America/Argentina/Jujuy",
+    "(GMT-03:00) Argentina Standard Time - Jujuy",
+    ["America/Jujuy"],
+    "-50",
+    "Jujuy Time"
+  ],
+  [
+    "America/Argentina/La_Rioja",
+    "(GMT-03:00) Argentina Standard Time - La Rioja",
+    [],
+    "-50",
+    "La Rioja Time"
+  ],
+  [
+    "America/Argentina/Mendoza",
+    "(GMT-03:00) Argentina Standard Time - Mendoza",
+    ["America/Mendoza"],
+    "-50",
+    "Mendoza Time"
+  ],
+  [
+    "America/Argentina/Rio_Gallegos",
+    "(GMT-03:00) Argentina Standard Time - Rio Gallegos",
+    [],
+    "-50",
+    "Rio Gallegos Time"
+  ],
+  [
+    "America/Argentina/Salta",
+    "(GMT-03:00) Argentina Standard Time - Salta",
+    [],
+    "-50",
+    "Salta Time"
+  ],
+  [
+    "America/Argentina/San_Juan",
+    "(GMT-03:00) Argentina Standard Time - San Juan",
+    [],
+    "-50",
+    "San Juan Time"
+  ],
+  [
+    "America/Argentina/San_Luis",
+    "(GMT-03:00) Western Argentina Standard Time",
+    [],
+    "-50",
+    "San Luis Time"
+  ],
+  [
+    "America/Argentina/Tucuman",
+    "(GMT-03:00) Argentina Standard Time - Tucuman",
+    [],
+    "-50",
+    "Tucuman Time"
+  ],
+  [
+    "America/Argentina/Ushuaia",
+    "(GMT-03:00) Argentina Standard Time - Ushuaia",
+    [],
+    "-50",
+    "Ushuaia Time"
+  ],
+  ["America/Bahia", "(GMT-03:00) Brasilia Standard Time - Bahia", [], "-50", "Bahia Time"],
+  ["America/Belem", "(GMT-03:00) Brasilia Standard Time - Belem", [], "-50", "Belem Time"],
+  ["America/Cayenne", "(GMT-03:00) French Guiana Time", [], "-50", "French Guiana Time"],
+  [
+    "America/Fortaleza",
+    "(GMT-03:00) Brasilia Standard Time - Fortaleza",
+    [],
+    "-50",
+    "Fortaleza Time"
+  ],
+  [
+    "America/Glace_Bay",
+    "(GMT-03:00) Atlantic Time - Glace Bay",
+    [],
+    "-50{ezcwc{-6o{f38y0{-50{falcc{-6o{fehe0{-50{fltsc{-6o{fppu0{-50{fx28c{-6o{g1620{-50{g8igc{-6o{gcei0{-50{gjqwc{-6o{gnmy0{-50{guzcc{-6o{gyve0{-50",
+    "Glace Bay Time"
+  ],
+  [
+    "America/Goose_Bay",
+    "(GMT-03:00) Atlantic Time - Goose Bay",
+    [],
+    "-50{ezcwc{-6o{f38y0{-50{falcc{-6o{fehe0{-50{fltsc{-6o{fppu0{-50{fx28c{-6o{g1620{-50{g8igc{-6o{gcei0{-50{gjqwc{-6o{gnmy0{-50{guzcc{-6o{gyve0{-50",
+    "Goose Bay Time"
+  ],
+  [
+    "America/Halifax",
+    "(GMT-03:00) Atlantic Time - Halifax",
+    ["Canada/Atlantic"],
+    "-50{ezcwc{-6o{f38y0{-50{falcc{-6o{fehe0{-50{fltsc{-6o{fppu0{-50{fx28c{-6o{g1620{-50{g8igc{-6o{gcei0{-50{gjqwc{-6o{gnmy0{-50{guzcc{-6o{gyve0{-50",
+    "Halifax Time"
+  ],
+  ["America/Maceio", "(GMT-03:00) Brasilia Standard Time - Maceio", [], "-50", "Maceio Time"],
+  [
+    "America/Moncton",
+    "(GMT-03:00) Atlantic Time - Moncton",
+    [],
+    "-50{ezcwc{-6o{f38y0{-50{falcc{-6o{fehe0{-50{fltsc{-6o{fppu0{-50{fx28c{-6o{g1620{-50{g8igc{-6o{gcei0{-50{gjqwc{-6o{gnmy0{-50{guzcc{-6o{gyve0{-50",
+    "Moncton Time"
+  ],
+  ["America/Montevideo", "(GMT-03:00) Uruguay Standard Time", [], "-50", "Uruguay Time"],
+  ["America/Paramaribo", "(GMT-03:00) Suriname Time", [], "-50", "Suriname Time"],
+  ["America/Punta_Arenas", "(GMT-03:00) Punta Arenas Time", [], "-50", "Punta Arenas Time"],
+  ["America/Recife", "(GMT-03:00) Brasilia Standard Time - Recife", [], "-50", "Recife Time"],
+  ["America/Santarem", "(GMT-03:00) Brasilia Standard Time - Santarem", [], "-50", "Santarem Time"],
+  [
+    "America/Sao_Paulo",
+    "(GMT-03:00) Brasilia Time",
+    ["BET", "Brazil/East"],
+    "-50{eyph0{-3c{f2lfc{-50{fal90{-3c{fdtvc{-50",
+    "Sao Paulo Time"
+  ],
+  [
+    "America/Thule",
+    "(GMT-03:00) Atlantic Time - Thule",
+    [],
+    "-50{ezcwc{-6o{f38y0{-50{falcc{-6o{fehe0{-50{fltsc{-6o{fppu0{-50{fx28c{-6o{g1620{-50{g8igc{-6o{gcei0{-50{gjqwc{-6o{gnmy0{-50{guzcc{-6o{gyve0{-50",
+    "Thule Time"
+  ],
+  ["Antarctica/Palmer", "(GMT-03:00) Palmer Time", [], "-50", "Palmer Time"],
+  ["Antarctica/Rothera", "(GMT-03:00) Rothera Time", [], "-50", "Rothera Time"],
+  [
+    "Atlantic/Bermuda",
+    "(GMT-03:00) Atlantic Time - Bermuda",
+    [],
+    "-50{ezcwc{-6o{f38y0{-50{falcc{-6o{fehe0{-50{fltsc{-6o{fppu0{-50{fx28c{-6o{g1620{-50{g8igc{-6o{gcei0{-50{gjqwc{-6o{gnmy0{-50{guzcc{-6o{gyve0{-50",
+    "Bermuda Time"
+  ],
+  [
+    "Atlantic/Stanley",
+    "(GMT-03:00) Falkland Islands Standard Time",
+    [],
+    "-50",
+    "Falkland Islands (Islas Malvinas) Time"
+  ],
+  [
+    "America/St_Johns",
+    "(GMT-02:30) Newfoundland Time",
+    ["CNT", "Canada/Newfoundland"],
+    "-46{ezcvi{-5u{f38x6{-46{falbi{-5u{fehd6{-46{fltri{-5u{fppt6{-46{fx27i{-5u{g1616{-46{g8ifi{-5u{gceh6{-46{gjqvi{-5u{gnmx6{-46{guzbi{-5u{gyvd6{-46",
+    "St. John’s Time"
+  ],
+  [
+    "America/Godthab",
+    "(GMT-02:00) West Greenland Time",
+    [],
+    "-3c{ez4xo{-50{f3o9o{-3c{faddo{-50{ff4ho{-3c{fllto{-50{fqcxo{-3c{fwu9o{-50{g1ldo{-3c{g8aho{-50{gctto{-3c{gjixo{-50{go29o{-3c{gurdo{-50{gziho{-3c",
+    "Nuuk Time"
+  ],
+  [
+    "America/Miquelon",
+    "(GMT-02:00) St. Pierre \u0026 Miquelon Time",
+    [],
+    "-3c{ezcuo{-50{f38wc{-3c{falao{-50{fehcc{-3c{fltqo{-50{fppsc{-3c{fx26o{-50{g160c{-3c{g8ieo{-50{gcegc{-3c{gjquo{-50{gnmwc{-3c{guzao{-50{gyvcc{-3c",
+    "St. Pierre \u0026 Miquelon Time"
+  ],
+  [
+    "America/Noronha",
+    "(GMT-02:00) Fernando de Noronha Standard Time",
+    ["Brazil/DeNoronha"],
+    "-3c",
+    "Noronha Time"
+  ],
+  [
+    "Atlantic/South_Georgia",
+    "(GMT-02:00) South Georgia Time",
+    [],
+    "-3c",
+    "South Georgia \u0026 South Sandwich Islands Time"
+  ],
+  ["Atlantic/Cape_Verde", "(GMT-01:00) Cape Verde Standard Time", [], "-1o", "Cape Verde Time"],
+  [
+    "Africa/Abidjan",
+    "(GMT+00:00) Greenwich Mean Time - Abidjan",
+    [
+      "Africa/Bamako",
+      "Africa/Banjul",
+      "Africa/Conakry",
+      "Africa/Dakar",
+      "Africa/Freetown",
+      "Africa/Lome",
+      "Africa/Nouakchott",
+      "Africa/Ouagadougou",
+      "Africa/Timbuktu",
+      "Atlantic/St_Helena"
+    ],
+    "0",
+    "Côte d’Ivoire Time"
+  ],
+  ["Africa/Accra", "(GMT+00:00) Greenwich Mean Time - Accra", [], "0", "Ghana Time"],
+  ["Africa/Bissau", "(GMT+00:00) Greenwich Mean Time - Bissau", [], "0", "Guinea-Bissau Time"],
+  ["Africa/Monrovia", "(GMT+00:00) Greenwich Mean Time - Monrovia", [], "0", "Liberia Time"],
+  [
+    "Africa/Sao_Tome",
+    "(GMT+00:00) Greenwich Mean Time - São Tomé",
+    [],
+    "0{f141o{1o{fcdlo{0",
+    "São Tomé \u0026 Príncipe Time"
+  ],
+  [
+    "America/Danmarkshavn",
+    "(GMT+00:00) Greenwich Mean Time - Danmarkshavn",
+    [],
+    "0",
+    "Danmarkshavn Time"
+  ],
+  [
+    "America/Scoresbysund",
+    "(GMT+00:00) East Greenland Time",
+    [],
+    "0{ez4xo{-1o{f3o9o{0{faddo{-1o{ff4ho{0{fllto{-1o{fqcxo{0{fwu9o{-1o{g1ldo{0{g8aho{-1o{gctto{0{gjixo{-1o{go29o{0{gurdo{-1o{gziho{0",
+    "Ittoqqortoormiit Time"
+  ],
+  [
+    "Atlantic/Azores",
+    "(GMT+00:00) Azores Time",
+    [],
+    "0{ez4xo{-1o{f3o9o{0{faddo{-1o{ff4ho{0{fllto{-1o{fqcxo{0{fwu9o{-1o{g1ldo{0{g8aho{-1o{gctto{0{gjixo{-1o{go29o{0{gurdo{-1o{gziho{0",
+    "Azores Time"
+  ],
+  [
+    "Atlantic/Reykjavik",
+    "(GMT+00:00) Greenwich Mean Time - Reykjavik",
+    ["Iceland"],
+    "0",
+    "Iceland Time"
+  ],
+  [
+    "Etc/GMT",
+    "(GMT+00:00) Greenwich Mean Time",
+    [
+      "Etc/GMT+0",
+      "Etc/GMT-0",
+      "Etc/GMT0",
+      "Etc/Greenwich",
+      "GMT",
+      "GMT+0",
+      "GMT-0",
+      "GMT0",
+      "Greenwich"
+    ],
+    "0",
+    "GMT"
+  ],
+  ["UTC", "(GMT+00:00) Coordinated Universal Time", [], "0", "GMT"],
+  [
+    "Africa/Algiers",
+    "(GMT+01:00) Central European Standard Time - Algiers",
+    [],
+    "1o",
+    "Algeria Time"
+  ],
+  [
+    "Africa/Casablanca",
+    "(GMT+01:00) Morocco Time",
+    [],
+    "1o{ez4zc{0{f3obc{1o{f56rc{0{f69nc{1o{fg7fc{0{fhabc{1o{fr0bc{0{fs37c{1o{g20zc{0{g33vc{1o{gctvc{0{ge4jc{1o{gnujc{0{goxfc{1o{gyv7c{0{gzy3c{1o",
+    "Morocco Time"
+  ],
+  [
+    "Africa/El_Aaiun",
+    "(GMT+01:00) Western Sahara Time",
+    [],
+    "1o{ez4zc{0{f3obc{1o{f56rc{0{f69nc{1o{fg7fc{0{fhabc{1o{fr0bc{0{fs37c{1o{g20zc{0{g33vc{1o{gctvc{0{ge4jc{1o{gnujc{0{goxfc{1o{gyv7c{0{gzy3c{1o",
+    "Western Sahara Time"
+  ],
+  [
+    "Africa/Lagos",
+    "(GMT+01:00) West Africa Standard Time - Lagos",
+    [
+      "Africa/Bangui",
+      "Africa/Brazzaville",
+      "Africa/Douala",
+      "Africa/Kinshasa",
+      "Africa/Libreville",
+      "Africa/Luanda",
+      "Africa/Malabo",
+      "Africa/Niamey",
+      "Africa/Porto-Novo"
+    ],
+    "1o",
+    "Nigeria Time"
+  ],
+  ["Africa/Ndjamena", "(GMT+01:00) West Africa Standard Time - Ndjamena", [], "1o", "Chad Time"],
+  ["Africa/Tunis", "(GMT+01:00) Central European Standard Time - Tunis", [], "1o", "Tunisia Time"],
+  [
+    "Atlantic/Canary",
+    "(GMT+01:00) Western European Time - Canary",
+    [],
+    "1o{ez4xo{0{f3o9o{1o{faddo{0{ff4ho{1o{fllto{0{fqcxo{1o{fwu9o{0{g1ldo{1o{g8aho{0{gctto{1o{gjixo{0{go29o{1o{gurdo{0{gziho{1o",
+    "Canary Time"
+  ],
+  [
+    "Atlantic/Faroe",
+    "(GMT+01:00) Western European Time - Faroe",
+    ["Atlantic/Faeroe"],
+    "1o{ez4xo{0{f3o9o{1o{faddo{0{ff4ho{1o{fllto{0{fqcxo{1o{fwu9o{0{g1ldo{1o{g8aho{0{gctto{1o{gjixo{0{go29o{1o{gurdo{0{gziho{1o",
+    "Faroe Islands Time"
+  ],
+  [
+    "Atlantic/Madeira",
+    "(GMT+01:00) Western European Time - Madeira",
+    [],
+    "1o{ez4xo{0{f3o9o{1o{faddo{0{ff4ho{1o{fllto{0{fqcxo{1o{fwu9o{0{g1ldo{1o{g8aho{0{gctto{1o{gjixo{0{go29o{1o{gurdo{0{gziho{1o",
+    "Madeira Time"
+  ],
+  [
+    "Europe/Dublin",
+    "(GMT+01:00) Ireland Time",
+    ["Eire"],
+    "1o{ez4xo{0{f3o9o{1o{faddo{0{ff4ho{1o{fllto{0{fqcxo{1o{fwu9o{0{g1ldo{1o{g8aho{0{gctto{1o{gjixo{0{go29o{1o{gurdo{0{gziho{1o",
+    "Ireland Time"
+  ],
+  [
+    "Europe/Lisbon",
+    "(GMT+01:00) Western European Time - Lisbon",
+    ["Portugal"],
+    "1o{ez4xo{0{f3o9o{1o{faddo{0{ff4ho{1o{fllto{0{fqcxo{1o{fwu9o{0{g1ldo{1o{g8aho{0{gctto{1o{gjixo{0{go29o{1o{gurdo{0{gziho{1o",
+    "Portugal Time"
+  ],
+  [
+    "Europe/London",
+    "(GMT+01:00) United Kingdom Time",
+    ["Europe/Belfast", "Europe/Guernsey", "Europe/Isle_of_Man", "Europe/Jersey", "GB", "GB-Eire"],
+    "1o{ez4xo{0{f3o9o{1o{faddo{0{ff4ho{1o{fllto{0{fqcxo{1o{fwu9o{0{g1ldo{1o{g8aho{0{gctto{1o{gjixo{0{go29o{1o{gurdo{0{gziho{1o",
+    "United Kingdom Time"
+  ],
+  [
+    "Africa/Cairo",
+    "(GMT+02:00) Eastern European Standard Time - Cairo",
+    ["ART", "Egypt"],
+    "3c",
+    "Egypt Time"
+  ],
+  [
+    "Africa/Ceuta",
+    "(GMT+02:00) Central European Time - Ceuta",
+    [],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "Ceuta Time"
+  ],
+  [
+    "Africa/Johannesburg",
+    "(GMT+02:00) South Africa Standard Time",
+    ["Africa/Maseru", "Africa/Mbabane"],
+    "3c",
+    "South Africa Time"
+  ],
+  [
+    "Africa/Khartoum",
+    "(GMT+02:00) Central Africa Time - Khartoum",
+    [],
+    "50{ez830{3c",
+    "Sudan Time"
+  ],
+  [
+    "Africa/Maputo",
+    "(GMT+02:00) Central Africa Time - Maputo",
+    [
+      "Africa/Blantyre",
+      "Africa/Bujumbura",
+      "Africa/Gaborone",
+      "Africa/Harare",
+      "Africa/Kigali",
+      "Africa/Lubumbashi",
+      "Africa/Lusaka",
+      "CAT"
+    ],
+    "3c",
+    "Mozambique Time"
+  ],
+  [
+    "Africa/Tripoli",
+    "(GMT+02:00) Eastern European Standard Time - Tripoli",
+    ["Libya"],
+    "3c",
+    "Libya Time"
+  ],
+  [
+    "Africa/Windhoek",
+    "(GMT+02:00) Central Africa Time - Windhoek",
+    [],
+    "1o{exepo{3c{eyz8o{3c",
+    "Namibia Time"
+  ],
+  [
+    "Antarctica/Troll",
+    "(GMT+02:00) Troll Time",
+    [],
+    "3c{ez4xo{0{f3o9o{3c{faddo{0{ff4ho{3c{fllto{0{fqcxo{3c{fwu9o{0{g1ldo{3c{g8aho{0{gctto{3c{gjixo{0{go29o{3c{gurdo{0{gziho{3c",
+    "Troll Time"
+  ],
+  [
+    "Europe/Amsterdam",
+    "(GMT+02:00) Central European Time - Amsterdam",
+    [],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "Netherlands Time"
+  ],
+  [
+    "Europe/Andorra",
+    "(GMT+02:00) Central European Time - Andorra",
+    [],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "Andorra Time"
+  ],
+  [
+    "Europe/Belgrade",
+    "(GMT+02:00) Central European Time - Belgrade",
+    ["Europe/Ljubljana", "Europe/Podgorica", "Europe/Sarajevo", "Europe/Skopje", "Europe/Zagreb"],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "Serbia Time"
+  ],
+  [
+    "Europe/Berlin",
+    "(GMT+02:00) Central European Time - Berlin",
+    [],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "Germany Time"
+  ],
+  [
+    "Europe/Brussels",
+    "(GMT+02:00) Central European Time - Brussels",
+    [],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "Belgium Time"
+  ],
+  [
+    "Europe/Budapest",
+    "(GMT+02:00) Central European Time - Budapest",
+    [],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "Hungary Time"
+  ],
+  [
+    "Europe/Copenhagen",
+    "(GMT+02:00) Central European Time - Copenhagen",
+    [],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "Denmark Time"
+  ],
+  [
+    "Europe/Gibraltar",
+    "(GMT+02:00) Central European Time - Gibraltar",
+    [],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "Gibraltar Time"
+  ],
+  [
+    "Europe/Kaliningrad",
+    "(GMT+02:00) Eastern European Standard Time - Kaliningrad",
+    [],
+    "3c",
+    "Kaliningrad Time"
+  ],
+  [
+    "Europe/Luxembourg",
+    "(GMT+02:00) Central European Time - Luxembourg",
+    [],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "Luxembourg Time"
+  ],
+  [
+    "Europe/Madrid",
+    "(GMT+02:00) Central European Time - Madrid",
+    [],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "Spain Time"
+  ],
+  [
+    "Europe/Malta",
+    "(GMT+02:00) Central European Time - Malta",
+    [],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "Malta Time"
+  ],
+  [
+    "Europe/Monaco",
+    "(GMT+02:00) Central European Time - Monaco",
+    [],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "Monaco Time"
+  ],
+  [
+    "Europe/Oslo",
+    "(GMT+02:00) Central European Time - Oslo",
+    ["Arctic/Longyearbyen", "Atlantic/Jan_Mayen"],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "Norway Time"
+  ],
+  [
+    "Europe/Paris",
+    "(GMT+02:00) Central European Time - Paris",
+    ["ECT"],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "France Time"
+  ],
+  [
+    "Europe/Prague",
+    "(GMT+02:00) Central European Time - Prague",
+    ["Europe/Bratislava"],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "Czechia Time"
+  ],
+  [
+    "Europe/Rome",
+    "(GMT+02:00) Central European Time - Rome",
+    ["Europe/San_Marino", "Europe/Vatican"],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "Italy Time"
+  ],
+  [
+    "Europe/Stockholm",
+    "(GMT+02:00) Central European Time - Stockholm",
+    [],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "Sweden Time"
+  ],
+  [
+    "Europe/Tirane",
+    "(GMT+02:00) Central European Time - Tirane",
+    [],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "Albania Time"
+  ],
+  [
+    "Europe/Vienna",
+    "(GMT+02:00) Central European Time - Vienna",
+    [],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "Austria Time"
+  ],
+  [
+    "Europe/Warsaw",
+    "(GMT+02:00) Central European Time - Warsaw",
+    ["Poland"],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "Poland Time"
+  ],
+  [
+    "Europe/Zurich",
+    "(GMT+02:00) Central European Time - Zurich",
+    ["Europe/Busingen", "Europe/Vaduz"],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "Switzerland Time"
+  ],
+  ["Africa/Juba", "(GMT+03:00) East Africa Time - Juba", [], "50", "South Sudan Time"],
+  [
+    "Africa/Nairobi",
+    "(GMT+03:00) East Africa Time - Nairobi",
+    [
+      "Africa/Addis_Ababa",
+      "Africa/Asmara",
+      "Africa/Asmera",
+      "Africa/Dar_es_Salaam",
+      "Africa/Djibouti",
+      "Africa/Kampala",
+      "Africa/Mogadishu",
+      "EAT",
+      "Indian/Antananarivo",
+      "Indian/Comoro",
+      "Indian/Mayotte"
+    ],
+    "50",
+    "Kenya Time"
+  ],
+  ["Antarctica/Syowa", "(GMT+03:00) Syowa Time", [], "50", "Syowa Time"],
+  [
+    "Asia/Amman",
+    "(GMT+03:00) Eastern European Time - Amman",
+    [],
+    "50{ez2ko{3c{f3too{50{fab0o{3c{ff24o{50{fljgo{3c{fqako{50{fwzoo{3c{g1j0o{50{g884o{3c{gcz8o{50{gjgko{3c{go7oo{50{gup0o{3c{gzg4o{50",
+    "Jordan Time"
+  ],
+  ["Asia/Baghdad", "(GMT+03:00) Arabian Standard Time - Baghdad", [], "50", "Iraq Time"],
+  [
+    "Asia/Beirut",
+    "(GMT+03:00) Eastern European Time - Beirut",
+    [],
+    "50{ez4r0{3c{f3o4o{50{fad70{3c{ff4co{50{flln0{3c{fqcso{50{fwu30{3c{g1l8o{50{g8ab0{3c{gctoo{50{gjir0{3c{go24o{50{gur70{3c{gzico{50",
+    "Lebanon Time"
+  ],
+  [
+    "Asia/Damascus",
+    "(GMT+03:00) Eastern European Time - Damascus",
+    [],
+    "50{ez2j0{3c{f3too{50{faaz0{3c{ff24o{50{fljf0{3c{fqako{50{fwzn0{3c{g1j0o{50{g8830{3c{gcrgo{50{gjgj0{3c{go7oo{50{guoz0{3c{gzg4o{50",
+    "Syria Time"
+  ],
+  [
+    "Asia/Famagusta",
+    "(GMT+03:00) Famagusta Time",
+    [],
+    "50{ez4xo{3c{f3o9o{50{faddo{3c{ff4ho{50{fllto{3c{fqcxo{50{fwu9o{3c{g1ldo{50{g8aho{3c{gctto{50{gjixo{3c{go29o{50{gurdo{3c{gziho{50",
+    "Famagusta Time"
+  ],
+  [
+    "Asia/Gaza",
+    "(GMT+03:00) Eastern European Time - Gaza",
+    [],
+    "50{ez3oo{3c{f3n2c{50{fac4o{3c{ff24o{50{flkko{3c{fqako{50{fx0so{3c{g1j0o{50{g898o{3c{gcrgo{50{gjhoo{3c{go7oo{50{guq4o{3c{gzg4o{50",
+    "Gaza Time"
+  ],
+  [
+    "Asia/Hebron",
+    "(GMT+03:00) Eastern European Time - Hebron",
+    [],
+    "50{ez3oo{3c{f3n2c{50{fac4o{3c{ff24o{50{flkko{3c{fqako{50{fx0so{3c{g1j0o{50{g898o{3c{gcrgo{50{gjhoo{3c{go7oo{50{guq4o{3c{gzg4o{50",
+    "Hebron Time"
+  ],
+  [
+    "Asia/Jerusalem",
+    "(GMT+03:00) Israel Time",
+    ["Asia/Tel_Aviv", "Israel"],
+    "50{ez4uc{3c{f3m00{50{fadac{3c{ff280{50{fllqc{3c{fqao0{50{fwu6c{3c{g1j40{50{g8aec{3c{gcrk0{50{gjiuc{3c{go000{50{gurac{3c{gzg80{50",
+    "Israel Time"
+  ],
+  [
+    "Asia/Nicosia",
+    "(GMT+03:00) Eastern European Time - Nicosia",
+    ["Europe/Nicosia"],
+    "50{ez4xo{3c{f3o9o{50{faddo{3c{ff4ho{50{fllto{3c{fqcxo{50{fwu9o{3c{g1ldo{50{g8aho{3c{gctto{50{gjixo{3c{go29o{50{gurdo{3c{gziho{50",
+    "Nicosia Time"
+  ],
+  ["Asia/Qatar", "(GMT+03:00) Arabian Standard Time - Qatar", ["Asia/Bahrain"], "50", "Qatar Time"],
+  [
+    "Asia/Riyadh",
+    "(GMT+03:00) Arabian Standard Time - Riyadh",
+    ["Asia/Aden", "Asia/Kuwait"],
+    "50",
+    "Saudi Arabia Time"
+  ],
+  [
+    "Europe/Athens",
+    "(GMT+03:00) Eastern European Time - Athens",
+    [],
+    "50{ez4xo{3c{f3o9o{50{faddo{3c{ff4ho{50{fllto{3c{fqcxo{50{fwu9o{3c{g1ldo{50{g8aho{3c{gctto{50{gjixo{3c{go29o{50{gurdo{3c{gziho{50",
+    "Greece Time"
+  ],
+  [
+    "Europe/Bucharest",
+    "(GMT+03:00) Eastern European Time - Bucharest",
+    [],
+    "50{ez4xo{3c{f3o9o{50{faddo{3c{ff4ho{50{fllto{3c{fqcxo{50{fwu9o{3c{g1ldo{50{g8aho{3c{gctto{50{gjixo{3c{go29o{50{gurdo{3c{gziho{50",
+    "Romania Time"
+  ],
+  [
+    "Europe/Chisinau",
+    "(GMT+03:00) Eastern European Time - Chisinau",
+    ["Europe/Tiraspol"],
+    "50{ez4w0{3c{f3o80{50{fadc0{3c{ff4g0{50{flls0{3c{fqcw0{50{fwu80{3c{g1lc0{50{g8ag0{3c{gcts0{50{gjiw0{3c{go280{50{gurc0{3c{gzig0{50",
+    "Moldova Time"
+  ],
+  [
+    "Europe/Helsinki",
+    "(GMT+03:00) Eastern European Time - Helsinki",
+    ["Europe/Mariehamn"],
+    "50{ez4xo{3c{f3o9o{50{faddo{3c{ff4ho{50{fllto{3c{fqcxo{50{fwu9o{3c{g1ldo{50{g8aho{3c{gctto{50{gjixo{3c{go29o{50{gurdo{3c{gziho{50",
+    "Finland Time"
+  ],
+  ["Europe/Istanbul", "(GMT+03:00) Turkey Time", ["Asia/Istanbul", "Turkey"], "50", "Turkey Time"],
+  [
+    "Europe/Kiev",
+    "(GMT+03:00) Eastern European Time - Kiev",
+    [],
+    "50{ez4xo{3c{f3o9o{50{faddo{3c{ff4ho{50{fllto{3c{fqcxo{50{fwu9o{3c{g1ldo{50{g8aho{3c{gctto{50{gjixo{3c{go29o{50{gurdo{3c{gziho{50",
+    "Ukraine Time"
+  ],
+  ["Europe/Kirov", "(GMT+03:00) Kirov Time", [], "50", "Kirov Time"],
+  ["Europe/Minsk", "(GMT+03:00) Moscow Standard Time - Minsk", [], "50", "Belarus Time"],
+  ["Europe/Moscow", "(GMT+03:00) Moscow Standard Time - Moscow", ["W-SU"], "50", "Moscow Time"],
+  [
+    "Europe/Riga",
+    "(GMT+03:00) Eastern European Time - Riga",
+    [],
+    "50{ez4xo{3c{f3o9o{50{faddo{3c{ff4ho{50{fllto{3c{fqcxo{50{fwu9o{3c{g1ldo{50{g8aho{3c{gctto{50{gjixo{3c{go29o{50{gurdo{3c{gziho{50",
+    "Latvia Time"
+  ],
+  [
+    "Europe/Simferopol",
+    "(GMT+03:00) Moscow Standard Time - Simferopol",
+    [],
+    "50",
+    "Simferopol Time"
+  ],
+  [
+    "Europe/Sofia",
+    "(GMT+03:00) Eastern European Time - Sofia",
+    [],
+    "50{ez4xo{3c{f3o9o{50{faddo{3c{ff4ho{50{fllto{3c{fqcxo{50{fwu9o{3c{g1ldo{50{g8aho{3c{gctto{50{gjixo{3c{go29o{50{gurdo{3c{gziho{50",
+    "Bulgaria Time"
+  ],
+  [
+    "Europe/Tallinn",
+    "(GMT+03:00) Eastern European Time - Tallinn",
+    [],
+    "50{ez4xo{3c{f3o9o{50{faddo{3c{ff4ho{50{fllto{3c{fqcxo{50{fwu9o{3c{g1ldo{50{g8aho{3c{gctto{50{gjixo{3c{go29o{50{gurdo{3c{gziho{50",
+    "Estonia Time"
+  ],
+  [
+    "Europe/Uzhgorod",
+    "(GMT+03:00) Eastern European Time - Uzhhorod",
+    [],
+    "50{ez4xo{3c{f3o9o{50{faddo{3c{ff4ho{50{fllto{3c{fqcxo{50{fwu9o{3c{g1ldo{50{g8aho{3c{gctto{50{gjixo{3c{go29o{50{gurdo{3c{gziho{50",
+    "Uzhhorod Time"
+  ],
+  [
+    "Europe/Vilnius",
+    "(GMT+03:00) Eastern European Time - Vilnius",
+    [],
+    "50{ez4xo{3c{f3o9o{50{faddo{3c{ff4ho{50{fllto{3c{fqcxo{50{fwu9o{3c{g1ldo{50{g8aho{3c{gctto{50{gjixo{3c{go29o{50{gurdo{3c{gziho{50",
+    "Lithuania Time"
+  ],
+  [
+    "Europe/Zaporozhye",
+    "(GMT+03:00) Eastern European Time - Zaporozhye",
+    [],
+    "50{ez4xo{3c{f3o9o{50{faddo{3c{ff4ho{50{fllto{3c{fqcxo{50{fwu9o{3c{g1ldo{50{g8aho{3c{gctto{50{gjixo{3c{go29o{50{gurdo{3c{gziho{50",
+    "Zaporozhye Time"
+  ],
+  ["Asia/Baku", "(GMT+04:00) Azerbaijan Standard Time", [], "6o", "Azerbaijan Time"],
+  [
+    "Asia/Dubai",
+    "(GMT+04:00) Gulf Standard Time",
+    ["Asia/Muscat"],
+    "6o",
+    "United Arab Emirates Time"
+  ],
+  ["Asia/Tbilisi", "(GMT+04:00) Georgia Standard Time", [], "6o", "Georgia Time"],
+  ["Asia/Yerevan", "(GMT+04:00) Armenia Standard Time", ["NET"], "6o", "Armenia Time"],
+  ["Europe/Astrakhan", "(GMT+04:00) Astrakhan Time", [], "6o", "Astrakhan Time"],
+  ["Europe/Samara", "(GMT+04:00) Samara Standard Time", [], "6o", "Samara Time"],
+  ["Europe/Saratov", "(GMT+04:00) Saratov Time", [], "6o", "Saratov Time"],
+  ["Europe/Ulyanovsk", "(GMT+04:00) Ulyanovsk Time", [], "6o", "Ulyanovsk Time"],
+  ["Europe/Volgograd", "(GMT+04:00) Volgograd Standard Time", [], "50{fadac{6o", "Volgograd Time"],
+  ["Indian/Mahe", "(GMT+04:00) Seychelles Time", [], "6o", "Seychelles Time"],
+  ["Indian/Mauritius", "(GMT+04:00) Mauritius Standard Time", [], "6o", "Mauritius Time"],
+  ["Indian/Reunion", "(GMT+04:00) Réunion Time", [], "6o", "Réunion Time"],
+  ["Asia/Kabul", "(GMT+04:30) Afghanistan Time", [], "7i", "Afghanistan Time"],
+  [
+    "Asia/Tehran",
+    "(GMT+04:30) Iran Time",
+    ["Iran"],
+    "7i{exzki{5u{f3kq6{7i{f994i{5u{feua6{7i{fkioi{5u{fq3u6{7i{fvs8i{5u{g1ei6{7i{g72wi{5u{gco26{7i{gicgi{5u{gnxm6{7i{gtm0i{5u{gz766{7i",
+    "Iran Time"
+  ],
+  ["Antarctica/Mawson", "(GMT+05:00) Mawson Time", [], "8c", "Mawson Time"],
+  ["Asia/Aqtau", "(GMT+05:00) West Kazakhstan Time - Aqtau", [], "8c", "Aqtau Time"],
+  ["Asia/Aqtobe", "(GMT+05:00) West Kazakhstan Time - Aqtobe", [], "8c", "Aqtobe Time"],
+  [
+    "Asia/Ashgabat",
+    "(GMT+05:00) Turkmenistan Standard Time",
+    ["Asia/Ashkhabad"],
+    "8c",
+    "Turkmenistan Time"
+  ],
+  ["Asia/Atyrau", "(GMT+05:00) West Kazakhstan Time - Atyrau", [], "8c", "Atyrau Time"],
+  ["Asia/Dushanbe", "(GMT+05:00) Tajikistan Time", [], "8c", "Tajikistan Time"],
+  ["Asia/Karachi", "(GMT+05:00) Pakistan Standard Time", ["PLT"], "8c", "Pakistan Time"],
+  ["Asia/Oral", "(GMT+05:00) West Kazakhstan Time - Oral", [], "8c", "Oral Time"],
+  [
+    "Asia/Qyzylorda",
+    "(GMT+05:00) West Kazakhstan Time - Qyzylorda",
+    [],
+    "a0{fc120{8c",
+    "Qyzylorda Time"
+  ],
+  [
+    "Asia/Samarkand",
+    "(GMT+05:00) Uzbekistan Standard Time - Samarkand",
+    [],
+    "8c",
+    "Samarkand Time"
+  ],
+  ["Asia/Tashkent", "(GMT+05:00) Uzbekistan Standard Time - Tashkent", [], "8c", "Uzbekistan Time"],
+  ["Asia/Yekaterinburg", "(GMT+05:00) Yekaterinburg Standard Time", [], "8c", "Yekaterinburg Time"],
+  [
+    "Indian/Kerguelen",
+    "(GMT+05:00) French Southern \u0026 Antarctic Time",
+    [],
+    "8c",
+    "French Southern Territories Time"
+  ],
+  ["Indian/Maldives", "(GMT+05:00) Maldives Time", [], "8c", "Maldives Time"],
+  ["Asia/Colombo", "(GMT+05:30) India Standard Time - Colombo", [], "96", "Sri Lanka Time"],
+  [
+    "Asia/Kolkata",
+    "(GMT+05:30) India Standard Time - Kolkata",
+    ["Asia/Calcutta"],
+    "96",
+    "India Time"
+  ],
+  ["Asia/Kathmandu", "(GMT+05:45) Nepal Time", ["Asia/Katmandu"], "9l", "Nepal Time"],
+  ["Antarctica/Vostok", "(GMT+06:00) Vostok Time", [], "a0", "Vostok Time"],
+  ["Asia/Almaty", "(GMT+06:00) East Kazakhstan Time - Almaty", [], "a0", "Almaty Time"],
+  ["Asia/Bishkek", "(GMT+06:00) Kyrgyzstan Time", [], "a0", "Kyrgyzstan Time"],
+  [
+    "Asia/Dhaka",
+    "(GMT+06:00) Bangladesh Standard Time",
+    ["Asia/Dacca", "BST"],
+    "a0",
+    "Bangladesh Time"
+  ],
+  ["Asia/Omsk", "(GMT+06:00) Omsk Standard Time", [], "a0", "Omsk Time"],
+  ["Asia/Qostanay", "(GMT+06:00) East Kazakhstan Time - Kostanay", [], "a0", "Kostanay Time"],
+  ["Asia/Thimphu", "(GMT+06:00) Bhutan Time", ["Asia/Thimbu"], "a0", "Bhutan Time"],
+  ["Asia/Urumqi", "(GMT+06:00) Urumqi Time", ["Asia/Kashgar"], "a0", "Urumqi Time"],
+  [
+    "Indian/Chagos",
+    "(GMT+06:00) Indian Ocean Time",
+    [],
+    "a0",
+    "British Indian Ocean Territory Time"
+  ],
+  ["Asia/Yangon", "(GMT+06:30) Myanmar Time", ["Asia/Rangoon"], "au", "Myanmar (Burma) Time"],
+  ["Indian/Cocos", "(GMT+06:30) Cocos Islands Time", [], "au", "Cocos (Keeling) Islands Time"],
+  ["Antarctica/Davis", "(GMT+07:00) Davis Time", [], "bo", "Davis Time"],
+  [
+    "Asia/Bangkok",
+    "(GMT+07:00) Indochina Time - Bangkok",
+    ["Asia/Phnom_Penh", "Asia/Vientiane"],
+    "bo",
+    "Thailand Time"
+  ],
+  ["Asia/Barnaul", "(GMT+07:00) Barnaul Time", [], "bo", "Barnaul Time"],
+  [
+    "Asia/Ho_Chi_Minh",
+    "(GMT+07:00) Indochina Time - Ho Chi Minh City",
+    ["Asia/Saigon"],
+    "bo",
+    "Vietnam Time"
+  ],
+  ["Asia/Hovd", "(GMT+07:00) Hovd Standard Time", [], "bo", "Hovd Time"],
+  ["Asia/Jakarta", "(GMT+07:00) Western Indonesia Time - Jakarta", [], "bo", "Jakarta Time"],
+  [
+    "Asia/Krasnoyarsk",
+    "(GMT+07:00) Krasnoyarsk Standard Time - Krasnoyarsk",
+    [],
+    "bo",
+    "Krasnoyarsk Time"
+  ],
+  [
+    "Asia/Novokuznetsk",
+    "(GMT+07:00) Krasnoyarsk Standard Time - Novokuznetsk",
+    [],
+    "bo",
+    "Novokuznetsk Time"
+  ],
+  ["Asia/Novosibirsk", "(GMT+07:00) Novosibirsk Standard Time", [], "bo", "Novosibirsk Time"],
+  ["Asia/Pontianak", "(GMT+07:00) Western Indonesia Time - Pontianak", [], "bo", "Pontianak Time"],
+  ["Asia/Tomsk", "(GMT+07:00) Tomsk Time", [], "bo", "Tomsk Time"],
+  ["Indian/Christmas", "(GMT+07:00) Christmas Island Time", [], "bo", "Christmas Island Time"],
+  [
+    "Antarctica/Casey",
+    "(GMT+08:00) Australian Western Standard Time - Casey",
+    [],
+    "ic{f38cc{dc",
+    "Casey Time"
+  ],
+  ["Asia/Brunei", "(GMT+08:00) Brunei Darussalam Time", [], "dc", "Brunei Time"],
+  ["Asia/Choibalsan", "(GMT+08:00) Choibalsan Standard Time", [], "dc", "Choibalsan Time"],
+  ["Asia/Hong_Kong", "(GMT+08:00) Hong Kong Standard Time", ["Hongkong"], "dc", "Hong Kong Time"],
+  ["Asia/Irkutsk", "(GMT+08:00) Irkutsk Standard Time", [], "dc", "Irkutsk Time"],
+  ["Asia/Kuala_Lumpur", "(GMT+08:00) Malaysia Time - Kuala Lumpur", [], "dc", "Malaysia Time"],
+  ["Asia/Kuching", "(GMT+08:00) Malaysia Time - Kuching", [], "dc", "Kuching Time"],
+  ["Asia/Macau", "(GMT+08:00) China Standard Time - Macao", ["Asia/Macao"], "dc", "Macao Time"],
+  [
+    "Asia/Makassar",
+    "(GMT+08:00) Central Indonesia Time",
+    ["Asia/Ujung_Pandang"],
+    "dc",
+    "Makassar Time"
+  ],
+  ["Asia/Manila", "(GMT+08:00) Philippine Standard Time", [], "dc", "Philippines Time"],
+  [
+    "Asia/Shanghai",
+    "(GMT+08:00) China Standard Time - Shanghai",
+    ["Asia/Chongqing", "Asia/Chungking", "Asia/Harbin", "CTT", "PRC"],
+    "dc",
+    "China Time"
+  ],
+  ["Asia/Singapore", "(GMT+08:00) Singapore Standard Time", ["Singapore"], "dc", "Singapore Time"],
+  ["Asia/Taipei", "(GMT+08:00) Taipei Standard Time", ["ROC"], "dc", "Taiwan Time"],
+  [
+    "Asia/Ulaanbaatar",
+    "(GMT+08:00) Ulaanbaatar Standard Time",
+    ["Asia/Ulan_Bator"],
+    "dc",
+    "Ulaanbaatar Time"
+  ],
+  [
+    "Australia/Perth",
+    "(GMT+08:00) Australian Western Standard Time - Perth",
+    ["Australia/West"],
+    "dc",
+    "Perth Time"
+  ],
+  [
+    "Australia/Eucla",
+    "(GMT+08:45) Australian Central Western Standard Time",
+    [],
+    "el",
+    "Eucla Time"
+  ],
+  ["Asia/Chita", "(GMT+09:00) Yakutsk Standard Time - Chita", [], "f0", "Chita Time"],
+  ["Asia/Dili", "(GMT+09:00) East Timor Time", [], "f0", "Timor-Leste Time"],
+  ["Asia/Jayapura", "(GMT+09:00) Eastern Indonesia Time", [], "f0", "Jayapura Time"],
+  ["Asia/Khandyga", "(GMT+09:00) Yakutsk Standard Time - Khandyga", [], "f0", "Khandyga Time"],
+  [
+    "Asia/Pyongyang",
+    "(GMT+09:00) Korean Standard Time - Pyongyang",
+    [],
+    "e6{f4xd0{f0",
+    "North Korea Time"
+  ],
+  ["Asia/Seoul", "(GMT+09:00) Korean Standard Time - Seoul", ["ROK"], "f0", "South Korea Time"],
+  ["Asia/Tokyo", "(GMT+09:00) Japan Standard Time", ["JST", "Japan"], "f0", "Japan Time"],
+  ["Asia/Yakutsk", "(GMT+09:00) Yakutsk Standard Time - Yakutsk", [], "f0", "Yakutsk Time"],
+  ["Pacific/Palau", "(GMT+09:00) Palau Time", [], "f0", "Palau Time"],
+  [
+    "Australia/Adelaide",
+    "(GMT+09:30) Central Australia Time - Adelaide",
+    ["Australia/South"],
+    "fu{ey9fi{hi{f3vni{fu{f9pni{hi{ffbvi{fu{fky3i{hi{fqkbi{fu{fw6ji{hi{g1sri{fu{g7ezi{hi{gd17i{fu{ginfi{hi{go9ni{fu{gtvvi{hi{gzpvi{fu",
+    "Adelaide Time"
+  ],
+  [
+    "Australia/Broken_Hill",
+    "(GMT+09:30) Central Australia Time - Broken Hill",
+    ["Australia/Yancowinna"],
+    "fu{ey9fi{hi{f3vni{fu{f9pni{hi{ffbvi{fu{fky3i{hi{fqkbi{fu{fw6ji{hi{g1sri{fu{g7ezi{hi{gd17i{fu{ginfi{hi{go9ni{fu{gtvvi{hi{gzpvi{fu",
+    "Broken Hill Time"
+  ],
+  [
+    "Australia/Darwin",
+    "(GMT+09:30) Australian Central Standard Time",
+    ["ACT", "Australia/North"],
+    "fu",
+    "Darwin Time"
+  ],
+  [
+    "Antarctica/DumontDUrville",
+    "(GMT+10:00) Dumont-d’Urville Time",
+    [],
+    "go",
+    "Dumont d’Urville Time"
+  ],
+  ["Asia/Ust-Nera", "(GMT+10:00) Vladivostok Standard Time - Ust-Nera", [], "go", "Ust-Nera Time"],
+  [
+    "Asia/Vladivostok",
+    "(GMT+10:00) Vladivostok Standard Time - Vladivostok",
+    [],
+    "go",
+    "Vladivostok Time"
+  ],
+  [
+    "Australia/Brisbane",
+    "(GMT+10:00) Australian Eastern Standard Time - Brisbane",
+    ["Australia/Queensland"],
+    "go",
+    "Brisbane Time"
+  ],
+  [
+    "Australia/Currie",
+    "(GMT+10:00) Eastern Australia Time - Currie",
+    [],
+    "go{ey9eo{ic{f3vmo{go{f9pmo{ic{ffbuo{go{fky2o{ic{fqkao{go{fw6io{ic{g1sqo{go{g7eyo{ic{gd16o{go{gineo{ic{go9mo{go{gtvuo{ic{gzpuo{go",
+    "Currie Time"
+  ],
+  [
+    "Australia/Hobart",
+    "(GMT+10:00) Eastern Australia Time - Hobart",
+    ["Australia/Tasmania"],
+    "go{ey9eo{ic{f3vmo{go{f9pmo{ic{ffbuo{go{fky2o{ic{fqkao{go{fw6io{ic{g1sqo{go{g7eyo{ic{gd16o{go{gineo{ic{go9mo{go{gtvuo{ic{gzpuo{go",
+    "Hobart Time"
+  ],
+  [
+    "Australia/Lindeman",
+    "(GMT+10:00) Australian Eastern Standard Time - Lindeman",
+    [],
+    "go",
+    "Lindeman Time"
+  ],
+  [
+    "Australia/Melbourne",
+    "(GMT+10:00) Eastern Australia Time - Melbourne",
+    ["Australia/Victoria"],
+    "go{ey9eo{ic{f3vmo{go{f9pmo{ic{ffbuo{go{fky2o{ic{fqkao{go{fw6io{ic{g1sqo{go{g7eyo{ic{gd16o{go{gineo{ic{go9mo{go{gtvuo{ic{gzpuo{go",
+    "Melbourne Time"
+  ],
+  [
+    "Australia/Sydney",
+    "(GMT+10:00) Eastern Australia Time - Sydney",
+    ["AET", "Australia/ACT", "Australia/Canberra", "Australia/NSW"],
+    "go{ey9eo{ic{f3vmo{go{f9pmo{ic{ffbuo{go{fky2o{ic{fqkao{go{fw6io{ic{g1sqo{go{g7eyo{ic{gd16o{go{gineo{ic{go9mo{go{gtvuo{ic{gzpuo{go",
+    "Sydney Time"
+  ],
+  ["Pacific/Chuuk", "(GMT+10:00) Chuuk Time", ["Pacific/Truk", "Pacific/Yap"], "go", "Chuuk Time"],
+  ["Pacific/Guam", "(GMT+10:00) Chamorro Standard Time", ["Pacific/Saipan"], "go", "Guam Time"],
+  ["Pacific/Port_Moresby", "(GMT+10:00) Papua New Guinea Time", [], "go", "Port Moresby Time"],
+  [
+    "Australia/Lord_Howe",
+    "(GMT+10:30) Lord Howe Time",
+    ["Australia/LHI"],
+    "hi{ey9du{ic{f3vl0{hi{f9plu{ic{ffbt0{hi{fky1u{ic{fqk90{hi{fw6hu{ic{g1sp0{hi{g7exu{ic{gd150{hi{gindu{ic{go9l0{hi{gtvtu{ic{gzpt0{hi",
+    "Lord Howe Time"
+  ],
+  ["Antarctica/Macquarie", "(GMT+11:00) Macquarie Island Time", [], "ic", "Macquarie Time"],
+  ["Asia/Magadan", "(GMT+11:00) Magadan Standard Time", [], "ic", "Magadan Time"],
+  ["Asia/Sakhalin", "(GMT+11:00) Sakhalin Standard Time", [], "ic", "Sakhalin Time"],
+  ["Asia/Srednekolymsk", "(GMT+11:00) Srednekolymsk Time", [], "ic", "Srednekolymsk Time"],
+  ["Pacific/Bougainville", "(GMT+11:00) Bougainville Time", [], "ic", "Bougainville Time"],
+  ["Pacific/Efate", "(GMT+11:00) Vanuatu Standard Time", [], "ic", "Vanuatu Time"],
+  [
+    "Pacific/Guadalcanal",
+    "(GMT+11:00) Solomon Islands Time",
+    ["SST"],
+    "ic",
+    "Solomon Islands Time"
+  ],
+  ["Pacific/Kosrae", "(GMT+11:00) Kosrae Time", [], "ic", "Kosrae Time"],
+  ["Pacific/Norfolk", "(GMT+11:00) Norfolk Island Time", [], "ic", "Norfolk Island Time"],
+  ["Pacific/Noumea", "(GMT+11:00) New Caledonia Standard Time", [], "ic", "New Caledonia Time"],
+  ["Pacific/Pohnpei", "(GMT+11:00) Ponape Time", ["Pacific/Ponape"], "ic", "Pohnpei Time"],
+  ["Asia/Anadyr", "(GMT+12:00) Anadyr Standard Time", [], "k0", "Anadyr Time"],
+  [
+    "Asia/Kamchatka",
+    "(GMT+12:00) Petropavlovsk-Kamchatski Standard Time",
+    [],
+    "k0",
+    "Kamchatka Time"
+  ],
+  [
+    "Pacific/Auckland",
+    "(GMT+12:00) New Zealand Time",
+    ["Antarctica/McMurdo", "Antarctica/South_Pole", "NST", "NZ"],
+    "k0{ey1jc{lo{f3vjc{k0{f9hrc{lo{ffbrc{k0{fkq7c{lo{fqk7c{k0{fvync{lo{g1snc{k0{g773c{lo{gd13c{k0{gifjc{lo{go9jc{k0{gtnzc{lo{gzprc{k0",
+    "New Zealand Time"
+  ],
+  [
+    "Pacific/Fiji",
+    "(GMT+12:00) Fiji Time",
+    [],
+    "k0{ezc7c{lo{f1hzc{k0{faknc{lo{fcqfc{k0{flt3c{lo{fo6nc{k0{fx1jc{lo{fzf3c{k0{g8hrc{lo{ganjc{k0{gjq7c{lo{glvzc{k0{guync{lo{gx4fc{k0",
+    "Fiji Time"
+  ],
+  ["Pacific/Funafuti", "(GMT+12:00) Tuvalu Time", [], "k0", "Tuvalu Time"],
+  [
+    "Pacific/Kwajalein",
+    "(GMT+12:00) Marshall Islands Time - Kwajalein",
+    ["Kwajalein"],
+    "k0",
+    "Kwajalein Time"
+  ],
+  [
+    "Pacific/Majuro",
+    "(GMT+12:00) Marshall Islands Time - Majuro",
+    [],
+    "k0",
+    "Marshall Islands Time"
+  ],
+  ["Pacific/Nauru", "(GMT+12:00) Nauru Time", [], "k0", "Nauru Time"],
+  ["Pacific/Tarawa", "(GMT+12:00) Gilbert Islands Time", [], "k0", "Tarawa Time"],
+  ["Pacific/Wake", "(GMT+12:00) Wake Island Time", [], "k0", "Wake Time"],
+  [
+    "Pacific/Wallis",
+    "(GMT+12:00) Wallis \u0026 Futuna Time",
+    [],
+    "k0",
+    "Wallis \u0026 Futuna Time"
+  ],
+  [
+    "Pacific/Chatham",
+    "(GMT+12:45) Chatham Time",
+    ["NZ-CHAT"],
+    "l9{ey1jc{mx{f3vjc{l9{f9hrc{mx{ffbrc{l9{fkq7c{mx{fqk7c{l9{fvync{mx{g1snc{l9{g773c{mx{gd13c{l9{gifjc{mx{go9jc{l9{gtnzc{mx{gzprc{l9",
+    "Chatham Time"
+  ],
+  [
+    "Pacific/Apia",
+    "(GMT+13:00) Apia Time",
+    ["MIT"],
+    "lo{ey1jc{nc{f3vjc{lo{f9hrc{nc{ffbrc{lo{fkq7c{nc{fqk7c{lo{fvync{nc{g1snc{lo{g773c{nc{gd13c{lo{gifjc{nc{go9jc{lo{gtnzc{nc{gzprc{lo",
+    "Samoa Time"
+  ],
+  ["Pacific/Enderbury", "(GMT+13:00) Phoenix Islands Time", [], "lo", "Enderbury Time"],
+  ["Pacific/Fakaofo", "(GMT+13:00) Tokelau Time", [], "lo", "Tokelau Time"],
+  ["Pacific/Tongatapu", "(GMT+13:00) Tonga Standard Time", [], "lo", "Tonga Time"],
+  ["Pacific/Kiritimati", "(GMT+14:00) Line Islands Time", [], "nc", "Kiritimati Time"]
+]

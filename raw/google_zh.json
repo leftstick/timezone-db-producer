@@ -1,0 +1,1475 @@
+[
+  ["Pacific/Niue", "(GMT-11:00) 纽埃时间", [], "-ic", "纽埃时间"],
+  [
+    "Pacific/Pago_Pago",
+    "(GMT-11:00) 萨摩亚标准时间",
+    ["Pacific/Midway", "Pacific/Samoa", "US/Samoa"],
+    "-ic",
+    "美属萨摩亚时间"
+  ],
+  [
+    "Pacific/Honolulu",
+    "(GMT-10:00) 夏威夷-阿留申标准时间",
+    ["Pacific/Johnston", "US/Hawaii"],
+    "-go",
+    "檀香山时间"
+  ],
+  ["Pacific/Rarotonga", "(GMT-10:00) 库克群岛标准时间", [], "-go", "库克群岛时间"],
+  ["Pacific/Tahiti", "(GMT-10:00) 塔希提岛时间", [], "-go", "塔希提时间"],
+  ["Pacific/Marquesas", "(GMT-09:30) 马克萨斯群岛时间", [], "-fu", "马克萨斯时间"],
+  [
+    "America/Adak",
+    "(GMT-09:00) 夏威夷-阿留申时间（埃达克）",
+    ["America/Atka", "US/Aleutian"],
+    "-f0{ezd6c{-go{f3980{-f0{falmc{-go{feho0{-f0{flu2c{-go{fpq40{-f0{fx2ic{-go{g16c0{-f0{g8iqc{-go{gces0{-f0{gjr6c{-go{gnn80{-f0{guzmc{-go{gyvo0{-f0",
+    "埃达克时间"
+  ],
+  ["Pacific/Gambier", "(GMT-09:00) 甘比尔时间", [], "-f0", "甘比尔时间"],
+  [
+    "America/Anchorage",
+    "(GMT-08:00) 阿拉斯加时间 - 安克雷奇",
+    ["AST", "US/Alaska"],
+    "-dc{ezd4o{-f0{f396c{-dc{falko{-f0{fehmc{-dc{flu0o{-f0{fpq2c{-dc{fx2go{-f0{g16ac{-dc{g8ioo{-f0{gceqc{-dc{gjr4o{-f0{gnn6c{-dc{guzko{-f0{gyvmc{-dc",
+    "安克雷奇时间"
+  ],
+  [
+    "America/Juneau",
+    "(GMT-08:00) 阿拉斯加时间 - 朱诺",
+    [],
+    "-dc{ezd4o{-f0{f396c{-dc{falko{-f0{fehmc{-dc{flu0o{-f0{fpq2c{-dc{fx2go{-f0{g16ac{-dc{g8ioo{-f0{gceqc{-dc{gjr4o{-f0{gnn6c{-dc{guzko{-f0{gyvmc{-dc",
+    "朱诺时间"
+  ],
+  [
+    "America/Metlakatla",
+    "(GMT-08:00) 阿拉斯加时间 - 梅特拉卡特拉",
+    [],
+    "-dc{ezd4o{-f0{f396c{-dc{falko{-dc{fcz4o{-f0{fehmc{-dc{flu0o{-f0{fpq2c{-dc{fx2go{-f0{g16ac{-dc{g8ioo{-f0{gceqc{-dc{gjr4o{-f0{gnn6c{-dc{guzko{-f0{gyvmc{-dc",
+    "梅特拉卡特拉时间"
+  ],
+  [
+    "America/Nome",
+    "(GMT-08:00) 阿拉斯加时间 - 诺姆",
+    [],
+    "-dc{ezd4o{-f0{f396c{-dc{falko{-f0{fehmc{-dc{flu0o{-f0{fpq2c{-dc{fx2go{-f0{g16ac{-dc{g8ioo{-f0{gceqc{-dc{gjr4o{-f0{gnn6c{-dc{guzko{-f0{gyvmc{-dc",
+    "诺姆时间"
+  ],
+  [
+    "America/Sitka",
+    "(GMT-08:00) 阿拉斯加时间 - 锡特卡",
+    [],
+    "-dc{ezd4o{-f0{f396c{-dc{falko{-f0{fehmc{-dc{flu0o{-f0{fpq2c{-dc{fx2go{-f0{g16ac{-dc{g8ioo{-f0{gceqc{-dc{gjr4o{-f0{gnn6c{-dc{guzko{-f0{gyvmc{-dc",
+    "锡特卡时间"
+  ],
+  [
+    "America/Yakutat",
+    "(GMT-08:00) 阿拉斯加时间 - 亚库塔特",
+    [],
+    "-dc{ezd4o{-f0{f396c{-dc{falko{-f0{fehmc{-dc{flu0o{-f0{fpq2c{-dc{fx2go{-f0{g16ac{-dc{g8ioo{-f0{gceqc{-dc{gjr4o{-f0{gnn6c{-dc{guzko{-f0{gyvmc{-dc",
+    "亚库塔特时间"
+  ],
+  ["Pacific/Pitcairn", "(GMT-08:00) 皮特凯恩时间", [], "-dc", "皮特凯恩群岛时间"],
+  ["America/Creston", "(GMT-07:00) 北美山区标准时间 - 克雷斯顿", [], "-bo", "克雷斯顿时间"],
+  [
+    "America/Dawson",
+    "(GMT-07:00) 北美太平洋时间 - 道森",
+    [],
+    "-bo{ezd30{-dc{f394o{-bo{falj0{-dc{fehko{-bo{fltz0{-dc{fpq0o{-bo{fx2f0{-dc{g168o{-bo{g8in0{-dc{gceoo{-bo{gjr30{-dc{gnn4o{-bo{guzj0{-dc{gyvko{-bo",
+    "道森时间"
+  ],
+  [
+    "America/Dawson_Creek",
+    "(GMT-07:00) 北美山区标准时间 - 道森克里克",
+    [],
+    "-bo",
+    "道森克里克时间"
+  ],
+  ["America/Fort_Nelson", "(GMT-07:00) 北美山区标准时间 - 纳尔逊堡", [], "-bo", "纳尔逊堡时间"],
+  ["America/Hermosillo", "(GMT-07:00) 墨西哥太平洋标准时间", [], "-bo", "埃莫西约时间"],
+  [
+    "America/Los_Angeles",
+    "(GMT-07:00) 北美太平洋时间 - 洛杉矶",
+    ["PST", "US/Pacific", "US/Pacific-New"],
+    "-bo{ezd30{-dc{f394o{-bo{falj0{-dc{fehko{-bo{fltz0{-dc{fpq0o{-bo{fx2f0{-dc{g168o{-bo{g8in0{-dc{gceoo{-bo{gjr30{-dc{gnn4o{-bo{guzj0{-dc{gyvko{-bo",
+    "洛杉矶时间"
+  ],
+  [
+    "America/Phoenix",
+    "(GMT-07:00) 北美山区标准时间 - 凤凰城",
+    ["PNT", "US/Arizona"],
+    "-bo",
+    "凤凰城时间"
+  ],
+  [
+    "America/Tijuana",
+    "(GMT-07:00) 北美太平洋时间 - 蒂华纳",
+    ["America/Ensenada", "America/Santa_Isabel", "Mexico/BajaNorte"],
+    "-bo{ezd30{-dc{f394o{-bo{falj0{-dc{fehko{-bo{fltz0{-dc{fpq0o{-bo{fx2f0{-dc{g168o{-bo{g8in0{-dc{gceoo{-bo{gjr30{-dc{gnn4o{-bo{guzj0{-dc{gyvko{-bo",
+    "蒂华纳时间"
+  ],
+  [
+    "America/Vancouver",
+    "(GMT-07:00) 北美太平洋时间 - 温哥华",
+    ["Canada/Pacific"],
+    "-bo{ezd30{-dc{f394o{-bo{falj0{-dc{fehko{-bo{fltz0{-dc{fpq0o{-bo{fx2f0{-dc{g168o{-bo{g8in0{-dc{gceoo{-bo{gjr30{-dc{gnn4o{-bo{guzj0{-dc{gyvko{-bo",
+    "温哥华时间"
+  ],
+  [
+    "America/Whitehorse",
+    "(GMT-07:00) 北美太平洋时间 - 怀特霍斯",
+    ["Canada/Yukon"],
+    "-bo{ezd30{-dc{f394o{-bo{falj0{-dc{fehko{-bo{fltz0{-dc{fpq0o{-bo{fx2f0{-dc{g168o{-bo{g8in0{-dc{gceoo{-bo{gjr30{-dc{gnn4o{-bo{guzj0{-dc{gyvko{-bo",
+    "怀特霍斯时间"
+  ],
+  ["America/Belize", "(GMT-06:00) 北美中部标准时间 - 伯利兹", [], "-a0", "伯利兹时间"],
+  [
+    "America/Boise",
+    "(GMT-06:00) 北美山区时间 - 博伊西",
+    [],
+    "-a0{ezd1c{-bo{f3930{-a0{falhc{-bo{fehj0{-a0{fltxc{-bo{fppz0{-a0{fx2dc{-bo{g1670{-a0{g8ilc{-bo{gcen0{-a0{gjr1c{-bo{gnn30{-a0{guzhc{-bo{gyvj0{-a0",
+    "博伊西时间"
+  ],
+  [
+    "America/Cambridge_Bay",
+    "(GMT-06:00) 北美山区时间 - 剑桥湾",
+    [],
+    "-a0{ezd1c{-bo{f3930{-a0{falhc{-bo{fehj0{-a0{fltxc{-bo{fppz0{-a0{fx2dc{-bo{g1670{-a0{g8ilc{-bo{gcen0{-a0{gjr1c{-bo{gnn30{-a0{guzhc{-bo{gyvj0{-a0",
+    "剑桥湾时间"
+  ],
+  [
+    "America/Chihuahua",
+    "(GMT-06:00) 墨西哥太平洋时间 - 奇瓦瓦",
+    [],
+    "-a0{ez59c{-bo{f3wf0{-a0{fadpc{-bo{ffcn0{-a0{flm5c{-bo{fql30{-a0{fwulc{-bo{g1tj0{-a0{g8atc{-bo{gd1z0{-a0{gjj9c{-bo{goaf0{-a0{gurpc{-bo{gzqn0{-a0",
+    "奇瓦瓦时间"
+  ],
+  ["America/Costa_Rica", "(GMT-06:00) 北美中部标准时间 - 哥斯达黎加", [], "-a0", "哥斯达黎加时间"],
+  [
+    "America/Denver",
+    "(GMT-06:00) 北美山区时间 - 丹佛",
+    ["America/Shiprock", "Navajo", "US/Mountain"],
+    "-a0{ezd1c{-bo{f3930{-a0{falhc{-bo{fehj0{-a0{fltxc{-bo{fppz0{-a0{fx2dc{-bo{g1670{-a0{g8ilc{-bo{gcen0{-a0{gjr1c{-bo{gnn30{-a0{guzhc{-bo{gyvj0{-a0",
+    "丹佛时间"
+  ],
+  [
+    "America/Edmonton",
+    "(GMT-06:00) 北美山区时间 - 埃德蒙顿",
+    ["Canada/Mountain"],
+    "-a0{ezd1c{-bo{f3930{-a0{falhc{-bo{fehj0{-a0{fltxc{-bo{fppz0{-a0{fx2dc{-bo{g1670{-a0{g8ilc{-bo{gcen0{-a0{gjr1c{-bo{gnn30{-a0{guzhc{-bo{gyvj0{-a0",
+    "埃德蒙顿时间"
+  ],
+  ["America/El_Salvador", "(GMT-06:00) 北美中部标准时间 - 萨尔瓦多", [], "-a0", "萨尔瓦多时间"],
+  ["America/Guatemala", "(GMT-06:00) 北美中部标准时间 - 危地马拉", [], "-a0", "危地马拉时间"],
+  [
+    "America/Inuvik",
+    "(GMT-06:00) 北美山区时间 - 伊努维克",
+    [],
+    "-a0{ezd1c{-bo{f3930{-a0{falhc{-bo{fehj0{-a0{fltxc{-bo{fppz0{-a0{fx2dc{-bo{g1670{-a0{g8ilc{-bo{gcen0{-a0{gjr1c{-bo{gnn30{-a0{guzhc{-bo{gyvj0{-a0",
+    "伊努维克时间"
+  ],
+  ["America/Managua", "(GMT-06:00) 北美中部标准时间 - 马那瓜", [], "-a0", "尼加拉瓜时间"],
+  [
+    "America/Mazatlan",
+    "(GMT-06:00) 墨西哥太平洋时间 - 马萨特兰",
+    ["Mexico/BajaSur"],
+    "-a0{ez59c{-bo{f3wf0{-a0{fadpc{-bo{ffcn0{-a0{flm5c{-bo{fql30{-a0{fwulc{-bo{g1tj0{-a0{g8atc{-bo{gd1z0{-a0{gjj9c{-bo{goaf0{-a0{gurpc{-bo{gzqn0{-a0",
+    "马萨特兰时间"
+  ],
+  [
+    "America/Ojinaga",
+    "(GMT-06:00) 北美山区时间 - 奥希纳加",
+    [],
+    "-a0{ezd1c{-bo{f3930{-a0{falhc{-bo{fehj0{-a0{fltxc{-bo{fppz0{-a0{fx2dc{-bo{g1670{-a0{g8ilc{-bo{gcen0{-a0{gjr1c{-bo{gnn30{-a0{guzhc{-bo{gyvj0{-a0",
+    "奥希纳加时间"
+  ],
+  [
+    "America/Regina",
+    "(GMT-06:00) 北美中部标准时间 - 里贾纳",
+    ["Canada/East-Saskatchewan", "Canada/Saskatchewan"],
+    "-a0",
+    "里贾纳时间"
+  ],
+  [
+    "America/Swift_Current",
+    "(GMT-06:00) 北美中部标准时间 - 斯威夫特卡伦特",
+    [],
+    "-a0",
+    "斯威夫特卡伦特时间"
+  ],
+  ["America/Tegucigalpa", "(GMT-06:00) 北美中部标准时间 - 特古西加尔巴", [], "-a0", "洪都拉斯时间"],
+  [
+    "America/Yellowknife",
+    "(GMT-06:00) 北美山区时间 - 耶洛奈夫",
+    [],
+    "-a0{ezd1c{-bo{f3930{-a0{falhc{-bo{fehj0{-a0{fltxc{-bo{fppz0{-a0{fx2dc{-bo{g1670{-a0{g8ilc{-bo{gcen0{-a0{gjr1c{-bo{gnn30{-a0{guzhc{-bo{gyvj0{-a0",
+    "耶洛奈夫时间"
+  ],
+  [
+    "Pacific/Easter",
+    "(GMT-06:00) 复活节岛时间",
+    ["Chile/EasterIsland"],
+    "-a0{ewrio{-8c{f56t0{-a0{f7zyo{-8c{ffcd0{-a0{fk3io{-8c{fqkt0{-a0{fvbyo{-8c{g1t90{-a0{g6keo{-8c{gd1p0{-a0{ghsuo{-8c{goa50{-a0{gt1ao{-8c{gzqd0{-a0",
+    "复活节岛时间"
+  ],
+  ["Pacific/Galapagos", "(GMT-06:00) 加拉帕戈斯时间", [], "-a0", "加拉帕戈斯时间"],
+  [
+    "America/Atikokan",
+    "(GMT-05:00) 北美东部标准时间 - 阿蒂科肯",
+    ["America/Coral_Harbour"],
+    "-8c",
+    "阿蒂科肯时间"
+  ],
+  [
+    "America/Bahia_Banderas",
+    "(GMT-05:00) 北美中部时间 - 巴伊亚班德拉斯",
+    [],
+    "-8c{ez57o{-a0{f3wdc{-8c{fadno{-a0{ffclc{-8c{flm3o{-a0{fql1c{-8c{fwujo{-a0{g1thc{-8c{g8aro{-a0{gd1xc{-8c{gjj7o{-a0{goadc{-8c{gurno{-a0{gzqlc{-8c",
+    "巴伊亚班德拉斯时间"
+  ],
+  ["America/Bogota", "(GMT-05:00) 哥伦比亚标准时间", [], "-8c", "哥伦比亚时间"],
+  ["America/Cancun", "(GMT-05:00) 北美东部标准时间 - 坎昆", [], "-8c", "坎昆时间"],
+  [
+    "America/Chicago",
+    "(GMT-05:00) 北美中部时间 - 芝加哥",
+    ["CST", "US/Central"],
+    "-8c{ezczo{-a0{f391c{-8c{falfo{-a0{fehhc{-8c{fltvo{-a0{fppxc{-8c{fx2bo{-a0{g165c{-8c{g8ijo{-a0{gcelc{-8c{gjqzo{-a0{gnn1c{-8c{guzfo{-a0{gyvhc{-8c",
+    "芝加哥时间"
+  ],
+  ["America/Eirunepe", "(GMT-05:00) 阿克里标准时间 - 依伦尼贝", [], "-8c", "依伦尼贝时间"],
+  ["America/Guayaquil", "(GMT-05:00) 厄瓜多尔标准时间", [], "-8c", "厄瓜多尔时间"],
+  [
+    "America/Indiana/Knox",
+    "(GMT-05:00) 北美中部时间 - 印第安纳州诺克斯",
+    ["America/Knox_IN", "US/Indiana-Starke"],
+    "-8c{ezczo{-a0{f391c{-8c{falfo{-a0{fehhc{-8c{fltvo{-a0{fppxc{-8c{fx2bo{-a0{g165c{-8c{g8ijo{-a0{gcelc{-8c{gjqzo{-a0{gnn1c{-8c{guzfo{-a0{gyvhc{-8c",
+    "印第安纳州诺克斯时间"
+  ],
+  [
+    "America/Indiana/Tell_City",
+    "(GMT-05:00) 北美中部时间 - 印第安纳州特尔城",
+    [],
+    "-8c{ezczo{-a0{f391c{-8c{falfo{-a0{fehhc{-8c{fltvo{-a0{fppxc{-8c{fx2bo{-a0{g165c{-8c{g8ijo{-a0{gcelc{-8c{gjqzo{-a0{gnn1c{-8c{guzfo{-a0{gyvhc{-8c",
+    "印第安纳州特尔城时间"
+  ],
+  ["America/Jamaica", "(GMT-05:00) 北美东部标准时间 - 牙买加", ["Jamaica"], "-8c", "牙买加时间"],
+  ["America/Lima", "(GMT-05:00) 秘鲁标准时间", [], "-8c", "秘鲁时间"],
+  [
+    "America/Matamoros",
+    "(GMT-05:00) 北美中部时间 - 马塔莫罗斯",
+    [],
+    "-8c{ezczo{-a0{f391c{-8c{falfo{-a0{fehhc{-8c{fltvo{-a0{fppxc{-8c{fx2bo{-a0{g165c{-8c{g8ijo{-a0{gcelc{-8c{gjqzo{-a0{gnn1c{-8c{guzfo{-a0{gyvhc{-8c",
+    "马塔莫罗斯时间"
+  ],
+  [
+    "America/Menominee",
+    "(GMT-05:00) 北美中部时间 - 梅诺米尼",
+    [],
+    "-8c{ezczo{-a0{f391c{-8c{falfo{-a0{fehhc{-8c{fltvo{-a0{fppxc{-8c{fx2bo{-a0{g165c{-8c{g8ijo{-a0{gcelc{-8c{gjqzo{-a0{gnn1c{-8c{guzfo{-a0{gyvhc{-8c",
+    "梅诺米尼时间"
+  ],
+  [
+    "America/Merida",
+    "(GMT-05:00) 北美中部时间 - 梅里达",
+    [],
+    "-8c{ez57o{-a0{f3wdc{-8c{fadno{-a0{ffclc{-8c{flm3o{-a0{fql1c{-8c{fwujo{-a0{g1thc{-8c{g8aro{-a0{gd1xc{-8c{gjj7o{-a0{goadc{-8c{gurno{-a0{gzqlc{-8c",
+    "梅里达时间"
+  ],
+  [
+    "America/Mexico_City",
+    "(GMT-05:00) 北美中部时间 - 墨西哥城",
+    ["Mexico/General"],
+    "-8c{ez57o{-a0{f3wdc{-8c{fadno{-a0{ffclc{-8c{flm3o{-a0{fql1c{-8c{fwujo{-a0{g1thc{-8c{g8aro{-a0{gd1xc{-8c{gjj7o{-a0{goadc{-8c{gurno{-a0{gzqlc{-8c",
+    "墨西哥城时间"
+  ],
+  [
+    "America/Monterrey",
+    "(GMT-05:00) 北美中部时间 - 蒙特雷",
+    [],
+    "-8c{ez57o{-a0{f3wdc{-8c{fadno{-a0{ffclc{-8c{flm3o{-a0{fql1c{-8c{fwujo{-a0{g1thc{-8c{g8aro{-a0{gd1xc{-8c{gjj7o{-a0{goadc{-8c{gurno{-a0{gzqlc{-8c",
+    "蒙特雷时间"
+  ],
+  [
+    "America/North_Dakota/Beulah",
+    "(GMT-05:00) 北美中部时间 - 北达科他州比尤拉",
+    [],
+    "-8c{ezczo{-a0{f391c{-8c{falfo{-a0{fehhc{-8c{fltvo{-a0{fppxc{-8c{fx2bo{-a0{g165c{-8c{g8ijo{-a0{gcelc{-8c{gjqzo{-a0{gnn1c{-8c{guzfo{-a0{gyvhc{-8c",
+    "北达科他州比尤拉时间"
+  ],
+  [
+    "America/North_Dakota/Center",
+    "(GMT-05:00) 北美中部时间 - 北达科他州申特",
+    [],
+    "-8c{ezczo{-a0{f391c{-8c{falfo{-a0{fehhc{-8c{fltvo{-a0{fppxc{-8c{fx2bo{-a0{g165c{-8c{g8ijo{-a0{gcelc{-8c{gjqzo{-a0{gnn1c{-8c{guzfo{-a0{gyvhc{-8c",
+    "北达科他州申特时间"
+  ],
+  [
+    "America/North_Dakota/New_Salem",
+    "(GMT-05:00) 北美中部时间 - 北达科他州新塞勒姆",
+    [],
+    "-8c{ezczo{-a0{f391c{-8c{falfo{-a0{fehhc{-8c{fltvo{-a0{fppxc{-8c{fx2bo{-a0{g165c{-8c{g8ijo{-a0{gcelc{-8c{gjqzo{-a0{gnn1c{-8c{guzfo{-a0{gyvhc{-8c",
+    "北达科他州新塞勒姆时间"
+  ],
+  [
+    "America/Panama",
+    "(GMT-05:00) 北美东部标准时间 - 巴拿马",
+    ["America/Cayman"],
+    "-8c",
+    "巴拿马时间"
+  ],
+  [
+    "America/Rainy_River",
+    "(GMT-05:00) 北美中部时间 - 雷尼河",
+    [],
+    "-8c{ezczo{-a0{f391c{-8c{falfo{-a0{fehhc{-8c{fltvo{-a0{fppxc{-8c{fx2bo{-a0{g165c{-8c{g8ijo{-a0{gcelc{-8c{gjqzo{-a0{gnn1c{-8c{guzfo{-a0{gyvhc{-8c",
+    "雷尼河时间"
+  ],
+  [
+    "America/Rankin_Inlet",
+    "(GMT-05:00) 北美中部时间 - 兰今湾",
+    [],
+    "-8c{ezczo{-a0{f391c{-8c{falfo{-a0{fehhc{-8c{fltvo{-a0{fppxc{-8c{fx2bo{-a0{g165c{-8c{g8ijo{-a0{gcelc{-8c{gjqzo{-a0{gnn1c{-8c{guzfo{-a0{gyvhc{-8c",
+    "兰今湾时间"
+  ],
+  [
+    "America/Resolute",
+    "(GMT-05:00) 北美中部时间 - 雷索卢特",
+    [],
+    "-8c{ezczo{-a0{f391c{-8c{falfo{-a0{fehhc{-8c{fltvo{-a0{fppxc{-8c{fx2bo{-a0{g165c{-8c{g8ijo{-a0{gcelc{-8c{gjqzo{-a0{gnn1c{-8c{guzfo{-a0{gyvhc{-8c",
+    "雷索卢特时间"
+  ],
+  [
+    "America/Rio_Branco",
+    "(GMT-05:00) 阿克里标准时间 - 里奥布郎库",
+    ["America/Porto_Acre", "Brazil/Acre"],
+    "-8c",
+    "里奥布郎库时间"
+  ],
+  [
+    "America/Winnipeg",
+    "(GMT-05:00) 北美中部时间 - 温尼伯",
+    ["Canada/Central"],
+    "-8c{ezczo{-a0{f391c{-8c{falfo{-a0{fehhc{-8c{fltvo{-a0{fppxc{-8c{fx2bo{-a0{g165c{-8c{g8ijo{-a0{gcelc{-8c{gjqzo{-a0{gnn1c{-8c{guzfo{-a0{gyvhc{-8c",
+    "温尼伯时间"
+  ],
+  [
+    "America/Asuncion",
+    "(GMT-04:00) 巴拉圭时间",
+    [],
+    "-6o{ey9yo{-50{f3od0{-6o{f9q6o{-50{fewt0{-6o{fkymo{-50{fq590{-6o{fw72o{-50{g1lh0{-6o{g7fio{-50{gctx0{-6o{ginyo{-50{go2d0{-6o{gtweo{-50{gzat0{-6o",
+    "巴拉圭时间"
+  ],
+  ["America/Barbados", "(GMT-04:00) 大西洋标准时间 - 巴巴多斯", [], "-6o", "巴巴多斯时间"],
+  [
+    "America/Blanc-Sablon",
+    "(GMT-04:00) 大西洋标准时间 - 布兰克萨布隆",
+    [],
+    "-6o",
+    "布兰克萨布隆时间"
+  ],
+  ["America/Boa_Vista", "(GMT-04:00) 亚马逊标准时间 - 博阿维斯塔", [], "-6o", "博阿维斯塔时间"],
+  [
+    "America/Campo_Grande",
+    "(GMT-04:00) 亚马逊时间 - 大坎普",
+    [],
+    "-6o{eypio{-50{f2lh0{-6o{falao{-50{fdtx0{-6o",
+    "大坎普时间"
+  ],
+  ["America/Caracas", "(GMT-04:00) 委内瑞拉时间", [], "-6o", "委内瑞拉时间"],
+  [
+    "America/Cuiaba",
+    "(GMT-04:00) 亚马逊时间 - 库亚巴",
+    [],
+    "-6o{eypio{-50{f2lh0{-6o{falao{-50{fdtx0{-6o",
+    "库亚巴时间"
+  ],
+  [
+    "America/Curacao",
+    "(GMT-04:00) 大西洋标准时间 - 库拉索",
+    ["America/Aruba", "America/Kralendijk", "America/Lower_Princes"],
+    "-6o",
+    "库拉索时间"
+  ],
+  [
+    "America/Detroit",
+    "(GMT-04:00) 北美东部时间 - 底特律",
+    ["US/Michigan"],
+    "-6o{ezcy0{-8c{f38zo{-6o{fale0{-8c{fehfo{-6o{fltu0{-8c{fppvo{-6o{fx2a0{-8c{g163o{-6o{g8ii0{-8c{gcejo{-6o{gjqy0{-8c{gnmzo{-6o{guze0{-8c{gyvfo{-6o",
+    "底特律时间"
+  ],
+  [
+    "America/Grand_Turk",
+    "(GMT-04:00) 北美东部时间 - 大特克",
+    [],
+    "-6o{f38zo{-6o{fale0{-8c{fehfo{-6o{fltu0{-8c{fppvo{-6o{fx2a0{-8c{g163o{-6o{g8ii0{-8c{gcejo{-6o{gjqy0{-8c{gnmzo{-6o{guze0{-8c{gyvfo{-6o",
+    "特克斯和凯科斯群岛时间"
+  ],
+  ["America/Guyana", "(GMT-04:00) 圭亚那时间", [], "-6o", "圭亚那时间"],
+  [
+    "America/Havana",
+    "(GMT-04:00) 古巴时间",
+    ["Cuba"],
+    "-6o{ezcwc{-8c{f38wc{-6o{falcc{-8c{fehcc{-6o{fltsc{-8c{fppsc{-6o{fx28c{-8c{g160c{-6o{g8igc{-8c{gcegc{-6o{gjqwc{-8c{gnmwc{-6o{guzcc{-8c{gyvcc{-6o",
+    "古巴时间"
+  ],
+  [
+    "America/Indiana/Indianapolis",
+    "(GMT-04:00) 北美东部时间 - 印第安纳波利斯",
+    ["America/Fort_Wayne", "America/Indianapolis", "US/East-Indiana"],
+    "-6o{ezcy0{-8c{f38zo{-6o{fale0{-8c{fehfo{-6o{fltu0{-8c{fppvo{-6o{fx2a0{-8c{g163o{-6o{g8ii0{-8c{gcejo{-6o{gjqy0{-8c{gnmzo{-6o{guze0{-8c{gyvfo{-6o",
+    "印第安纳波利斯时间"
+  ],
+  [
+    "America/Indiana/Marengo",
+    "(GMT-04:00) 北美东部时间 - 印第安纳州马伦戈",
+    [],
+    "-6o{ezcy0{-8c{f38zo{-6o{fale0{-8c{fehfo{-6o{fltu0{-8c{fppvo{-6o{fx2a0{-8c{g163o{-6o{g8ii0{-8c{gcejo{-6o{gjqy0{-8c{gnmzo{-6o{guze0{-8c{gyvfo{-6o",
+    "印第安纳州马伦戈时间"
+  ],
+  [
+    "America/Indiana/Petersburg",
+    "(GMT-04:00) 北美东部时间 - 印第安纳州彼得斯堡",
+    [],
+    "-6o{ezcy0{-8c{f38zo{-6o{fale0{-8c{fehfo{-6o{fltu0{-8c{fppvo{-6o{fx2a0{-8c{g163o{-6o{g8ii0{-8c{gcejo{-6o{gjqy0{-8c{gnmzo{-6o{guze0{-8c{gyvfo{-6o",
+    "印第安纳州彼得斯堡时间"
+  ],
+  [
+    "America/Indiana/Vevay",
+    "(GMT-04:00) 北美东部时间 - 印第安纳州维维市",
+    [],
+    "-6o{ezcy0{-8c{f38zo{-6o{fale0{-8c{fehfo{-6o{fltu0{-8c{fppvo{-6o{fx2a0{-8c{g163o{-6o{g8ii0{-8c{gcejo{-6o{gjqy0{-8c{gnmzo{-6o{guze0{-8c{gyvfo{-6o",
+    "印第安纳州维维市时间"
+  ],
+  [
+    "America/Indiana/Vincennes",
+    "(GMT-04:00) 北美东部时间 - 印第安纳州温森斯",
+    [],
+    "-6o{ezcy0{-8c{f38zo{-6o{fale0{-8c{fehfo{-6o{fltu0{-8c{fppvo{-6o{fx2a0{-8c{g163o{-6o{g8ii0{-8c{gcejo{-6o{gjqy0{-8c{gnmzo{-6o{guze0{-8c{gyvfo{-6o",
+    "印第安纳州温森斯时间"
+  ],
+  [
+    "America/Indiana/Winamac",
+    "(GMT-04:00) 北美东部时间 - 印第安纳州威纳马克",
+    [],
+    "-6o{ezcy0{-8c{f38zo{-6o{fale0{-8c{fehfo{-6o{fltu0{-8c{fppvo{-6o{fx2a0{-8c{g163o{-6o{g8ii0{-8c{gcejo{-6o{gjqy0{-8c{gnmzo{-6o{guze0{-8c{gyvfo{-6o",
+    "印第安纳州威纳马克时间"
+  ],
+  [
+    "America/Iqaluit",
+    "(GMT-04:00) 北美东部时间 - 伊魁特",
+    [],
+    "-6o{ezcy0{-8c{f38zo{-6o{fale0{-8c{fehfo{-6o{fltu0{-8c{fppvo{-6o{fx2a0{-8c{g163o{-6o{g8ii0{-8c{gcejo{-6o{gjqy0{-8c{gnmzo{-6o{guze0{-8c{gyvfo{-6o",
+    "伊魁特时间"
+  ],
+  [
+    "America/Kentucky/Louisville",
+    "(GMT-04:00) 北美东部时间 - 路易斯维尔",
+    ["America/Louisville"],
+    "-6o{ezcy0{-8c{f38zo{-6o{fale0{-8c{fehfo{-6o{fltu0{-8c{fppvo{-6o{fx2a0{-8c{g163o{-6o{g8ii0{-8c{gcejo{-6o{gjqy0{-8c{gnmzo{-6o{guze0{-8c{gyvfo{-6o",
+    "路易斯维尔时间"
+  ],
+  [
+    "America/Kentucky/Monticello",
+    "(GMT-04:00) 北美东部时间 - 肯塔基州蒙蒂塞洛",
+    [],
+    "-6o{ezcy0{-8c{f38zo{-6o{fale0{-8c{fehfo{-6o{fltu0{-8c{fppvo{-6o{fx2a0{-8c{g163o{-6o{g8ii0{-8c{gcejo{-6o{gjqy0{-8c{gnmzo{-6o{guze0{-8c{gyvfo{-6o",
+    "肯塔基州蒙蒂塞洛时间"
+  ],
+  ["America/La_Paz", "(GMT-04:00) 玻利维亚标准时间", [], "-6o", "玻利维亚时间"],
+  ["America/Manaus", "(GMT-04:00) 亚马逊标准时间 - 马瑙斯", ["Brazil/West"], "-6o", "马瑙斯时间"],
+  ["America/Martinique", "(GMT-04:00) 大西洋标准时间 - 马提尼克", [], "-6o", "马提尼克时间"],
+  [
+    "America/Nassau",
+    "(GMT-04:00) 北美东部时间 - 拿骚",
+    [],
+    "-6o{ezcy0{-8c{f38zo{-6o{fale0{-8c{fehfo{-6o{fltu0{-8c{fppvo{-6o{fx2a0{-8c{g163o{-6o{g8ii0{-8c{gcejo{-6o{gjqy0{-8c{gnmzo{-6o{guze0{-8c{gyvfo{-6o",
+    "巴哈马时间"
+  ],
+  [
+    "America/New_York",
+    "(GMT-04:00) 北美东部时间 - 纽约",
+    ["US/Eastern"],
+    "-6o{ezcy0{-8c{f38zo{-6o{fale0{-8c{fehfo{-6o{fltu0{-8c{fppvo{-6o{fx2a0{-8c{g163o{-6o{g8ii0{-8c{gcejo{-6o{gjqy0{-8c{gnmzo{-6o{guze0{-8c{gyvfo{-6o",
+    "纽约时间"
+  ],
+  [
+    "America/Nipigon",
+    "(GMT-04:00) 北美东部时间 - 尼皮贡",
+    [],
+    "-6o{ezcy0{-8c{f38zo{-6o{fale0{-8c{fehfo{-6o{fltu0{-8c{fppvo{-6o{fx2a0{-8c{g163o{-6o{g8ii0{-8c{gcejo{-6o{gjqy0{-8c{gnmzo{-6o{guze0{-8c{gyvfo{-6o",
+    "尼皮贡时间"
+  ],
+  [
+    "America/Pangnirtung",
+    "(GMT-04:00) 北美东部时间 - 旁涅唐",
+    [],
+    "-6o{ezcy0{-8c{f38zo{-6o{fale0{-8c{fehfo{-6o{fltu0{-8c{fppvo{-6o{fx2a0{-8c{g163o{-6o{g8ii0{-8c{gcejo{-6o{gjqy0{-8c{gnmzo{-6o{guze0{-8c{gyvfo{-6o",
+    "旁涅唐时间"
+  ],
+  [
+    "America/Port-au-Prince",
+    "(GMT-04:00) 北美东部时间 - 太子港",
+    [],
+    "-6o{ezcy0{-8c{f38zo{-6o{fale0{-8c{fehfo{-6o{fltu0{-8c{fppvo{-6o{fx2a0{-8c{g163o{-6o{g8ii0{-8c{gcejo{-6o{gjqy0{-8c{gnmzo{-6o{guze0{-8c{gyvfo{-6o",
+    "海地时间"
+  ],
+  [
+    "America/Port_of_Spain",
+    "(GMT-04:00) 大西洋标准时间 - 西班牙港",
+    [
+      "America/Anguilla",
+      "America/Antigua",
+      "America/Dominica",
+      "America/Grenada",
+      "America/Guadeloupe",
+      "America/Marigot",
+      "America/Montserrat",
+      "America/St_Barthelemy",
+      "America/St_Kitts",
+      "America/St_Lucia",
+      "America/St_Thomas",
+      "America/St_Vincent",
+      "America/Tortola",
+      "America/Virgin"
+    ],
+    "-6o",
+    "特立尼达和多巴哥时间"
+  ],
+  ["America/Porto_Velho", "(GMT-04:00) 亚马逊标准时间 - 波多韦柳", [], "-6o", "波多韦柳时间"],
+  ["America/Puerto_Rico", "(GMT-04:00) 大西洋标准时间 - 波多黎各", ["PRT"], "-6o", "波多黎各时间"],
+  [
+    "America/Santiago",
+    "(GMT-04:00) 智利时间",
+    ["Chile/Continental"],
+    "-6o{ewrio{-50{f56t0{-6o{f7zyo{-50{ffcd0{-6o{fk3io{-50{fqkt0{-6o{fvbyo{-50{g1t90{-6o{g6keo{-50{gd1p0{-6o{ghsuo{-50{goa50{-6o{gt1ao{-50{gzqd0{-6o",
+    "智利时间"
+  ],
+  [
+    "America/Santo_Domingo",
+    "(GMT-04:00) 大西洋标准时间 - 圣多明各",
+    [],
+    "-6o",
+    "多米尼加共和国时间"
+  ],
+  [
+    "America/Thunder_Bay",
+    "(GMT-04:00) 北美东部时间 - 桑德贝",
+    [],
+    "-6o{ezcy0{-8c{f38zo{-6o{fale0{-8c{fehfo{-6o{fltu0{-8c{fppvo{-6o{fx2a0{-8c{g163o{-6o{g8ii0{-8c{gcejo{-6o{gjqy0{-8c{gnmzo{-6o{guze0{-8c{gyvfo{-6o",
+    "桑德贝时间"
+  ],
+  [
+    "America/Toronto",
+    "(GMT-04:00) 北美东部时间 - 多伦多",
+    ["America/Montreal", "Canada/Eastern"],
+    "-6o{ezcy0{-8c{f38zo{-6o{fale0{-8c{fehfo{-6o{fltu0{-8c{fppvo{-6o{fx2a0{-8c{g163o{-6o{g8ii0{-8c{gcejo{-6o{gjqy0{-8c{gnmzo{-6o{guze0{-8c{gyvfo{-6o",
+    "多伦多时间"
+  ],
+  ["America/Araguaina", "(GMT-03:00) 巴西利亚标准时间 - 阿拉瓜伊纳", [], "-50", "阿拉瓜伊纳时间"],
+  [
+    "America/Argentina/Buenos_Aires",
+    "(GMT-03:00) 阿根廷标准时间 - 布宜诺斯艾利斯",
+    ["America/Buenos_Aires"],
+    "-50",
+    "布宜诺斯艾利斯时间"
+  ],
+  [
+    "America/Argentina/Catamarca",
+    "(GMT-03:00) 阿根廷标准时间 - 卡塔马卡",
+    ["America/Argentina/ComodRivadavia", "America/Catamarca"],
+    "-50",
+    "卡塔马卡时间"
+  ],
+  [
+    "America/Argentina/Cordoba",
+    "(GMT-03:00) 阿根廷标准时间 - 科尔多瓦",
+    ["America/Cordoba", "America/Rosario"],
+    "-50",
+    "科尔多瓦时间"
+  ],
+  [
+    "America/Argentina/Jujuy",
+    "(GMT-03:00) 阿根廷标准时间 - 胡胡伊",
+    ["America/Jujuy"],
+    "-50",
+    "胡胡伊时间"
+  ],
+  [
+    "America/Argentina/La_Rioja",
+    "(GMT-03:00) 阿根廷标准时间 - 拉里奥哈",
+    [],
+    "-50",
+    "拉里奥哈时间"
+  ],
+  [
+    "America/Argentina/Mendoza",
+    "(GMT-03:00) 阿根廷标准时间 - 门多萨",
+    ["America/Mendoza"],
+    "-50",
+    "门多萨时间"
+  ],
+  [
+    "America/Argentina/Rio_Gallegos",
+    "(GMT-03:00) 阿根廷标准时间 - 里奥加耶戈斯",
+    [],
+    "-50",
+    "里奥加耶戈斯时间"
+  ],
+  ["America/Argentina/Salta", "(GMT-03:00) 阿根廷标准时间 - 萨尔塔", [], "-50", "萨尔塔时间"],
+  ["America/Argentina/San_Juan", "(GMT-03:00) 阿根廷标准时间 - 圣胡安", [], "-50", "圣胡安时间"],
+  ["America/Argentina/San_Luis", "(GMT-03:00) 阿根廷西部标准时间", [], "-50", "圣路易斯时间"],
+  ["America/Argentina/Tucuman", "(GMT-03:00) 阿根廷标准时间 - 图库曼", [], "-50", "图库曼时间"],
+  ["America/Argentina/Ushuaia", "(GMT-03:00) 阿根廷标准时间 - 乌斯怀亚", [], "-50", "乌斯怀亚时间"],
+  ["America/Bahia", "(GMT-03:00) 巴西利亚标准时间 - 巴伊亚", [], "-50", "巴伊亚时间"],
+  ["America/Belem", "(GMT-03:00) 巴西利亚标准时间 - 贝伦", [], "-50", "贝伦时间"],
+  ["America/Cayenne", "(GMT-03:00) 法属圭亚那标准时间", [], "-50", "法属圭亚那时间"],
+  ["America/Fortaleza", "(GMT-03:00) 巴西利亚标准时间 - 福塔雷萨", [], "-50", "福塔雷萨时间"],
+  [
+    "America/Glace_Bay",
+    "(GMT-03:00) 大西洋时间 - 格莱斯贝",
+    [],
+    "-50{ezcwc{-6o{f38y0{-50{falcc{-6o{fehe0{-50{fltsc{-6o{fppu0{-50{fx28c{-6o{g1620{-50{g8igc{-6o{gcei0{-50{gjqwc{-6o{gnmy0{-50{guzcc{-6o{gyve0{-50",
+    "格莱斯贝时间"
+  ],
+  [
+    "America/Goose_Bay",
+    "(GMT-03:00) 大西洋时间 - 古斯湾",
+    [],
+    "-50{ezcwc{-6o{f38y0{-50{falcc{-6o{fehe0{-50{fltsc{-6o{fppu0{-50{fx28c{-6o{g1620{-50{g8igc{-6o{gcei0{-50{gjqwc{-6o{gnmy0{-50{guzcc{-6o{gyve0{-50",
+    "古斯湾时间"
+  ],
+  [
+    "America/Halifax",
+    "(GMT-03:00) 大西洋时间 - 哈利法克斯",
+    ["Canada/Atlantic"],
+    "-50{ezcwc{-6o{f38y0{-50{falcc{-6o{fehe0{-50{fltsc{-6o{fppu0{-50{fx28c{-6o{g1620{-50{g8igc{-6o{gcei0{-50{gjqwc{-6o{gnmy0{-50{guzcc{-6o{gyve0{-50",
+    "哈利法克斯时间"
+  ],
+  ["America/Maceio", "(GMT-03:00) 巴西利亚标准时间 - 马塞约", [], "-50", "马塞约时间"],
+  [
+    "America/Moncton",
+    "(GMT-03:00) 大西洋时间 - 蒙克顿",
+    [],
+    "-50{ezcwc{-6o{f38y0{-50{falcc{-6o{fehe0{-50{fltsc{-6o{fppu0{-50{fx28c{-6o{g1620{-50{g8igc{-6o{gcei0{-50{gjqwc{-6o{gnmy0{-50{guzcc{-6o{gyve0{-50",
+    "蒙克顿时间"
+  ],
+  ["America/Montevideo", "(GMT-03:00) 乌拉圭标准时间", [], "-50", "乌拉圭时间"],
+  ["America/Paramaribo", "(GMT-03:00) 苏里南时间", [], "-50", "苏里南时间"],
+  ["America/Punta_Arenas", "(GMT-03:00) 蓬塔阿雷纳斯时间", [], "-50", "蓬塔阿雷纳斯时间"],
+  ["America/Recife", "(GMT-03:00) 巴西利亚标准时间 - 累西腓", [], "-50", "累西腓时间"],
+  ["America/Santarem", "(GMT-03:00) 巴西利亚标准时间 - 圣塔伦", [], "-50", "圣塔伦时间"],
+  [
+    "America/Sao_Paulo",
+    "(GMT-03:00) 巴西利亚时间",
+    ["BET", "Brazil/East"],
+    "-50{eyph0{-3c{f2lfc{-50{fal90{-3c{fdtvc{-50",
+    "圣保罗时间"
+  ],
+  [
+    "America/Thule",
+    "(GMT-03:00) 大西洋时间 - 图勒",
+    [],
+    "-50{ezcwc{-6o{f38y0{-50{falcc{-6o{fehe0{-50{fltsc{-6o{fppu0{-50{fx28c{-6o{g1620{-50{g8igc{-6o{gcei0{-50{gjqwc{-6o{gnmy0{-50{guzcc{-6o{gyve0{-50",
+    "图勒时间"
+  ],
+  ["Antarctica/Palmer", "(GMT-03:00) 帕默尔时间", [], "-50", "帕默尔时间"],
+  ["Antarctica/Rothera", "(GMT-03:00) 罗瑟拉时间", [], "-50", "罗瑟拉时间"],
+  [
+    "Atlantic/Bermuda",
+    "(GMT-03:00) 大西洋时间 - 百慕大",
+    [],
+    "-50{ezcwc{-6o{f38y0{-50{falcc{-6o{fehe0{-50{fltsc{-6o{fppu0{-50{fx28c{-6o{g1620{-50{g8igc{-6o{gcei0{-50{gjqwc{-6o{gnmy0{-50{guzcc{-6o{gyve0{-50",
+    "百慕大时间"
+  ],
+  [
+    "Atlantic/Stanley",
+    "(GMT-03:00) 福克兰群岛标准时间",
+    [],
+    "-50",
+    "福克兰群岛（马尔维纳斯群岛）时间"
+  ],
+  [
+    "America/St_Johns",
+    "(GMT-02:30) 纽芬兰时间",
+    ["CNT", "Canada/Newfoundland"],
+    "-46{ezcvi{-5u{f38x6{-46{falbi{-5u{fehd6{-46{fltri{-5u{fppt6{-46{fx27i{-5u{g1616{-46{g8ifi{-5u{gceh6{-46{gjqvi{-5u{gnmx6{-46{guzbi{-5u{gyvd6{-46",
+    "圣约翰斯时间"
+  ],
+  [
+    "America/Godthab",
+    "(GMT-02:00) 格陵兰岛西部时间",
+    [],
+    "-3c{ez4xo{-50{f3o9o{-3c{faddo{-50{ff4ho{-3c{fllto{-50{fqcxo{-3c{fwu9o{-50{g1ldo{-3c{g8aho{-50{gctto{-3c{gjixo{-50{go29o{-3c{gurdo{-50{gziho{-3c",
+    "努克时间"
+  ],
+  [
+    "America/Miquelon",
+    "(GMT-02:00) 圣皮埃尔和密克隆群岛时间",
+    [],
+    "-3c{ezcuo{-50{f38wc{-3c{falao{-50{fehcc{-3c{fltqo{-50{fppsc{-3c{fx26o{-50{g160c{-3c{g8ieo{-50{gcegc{-3c{gjquo{-50{gnmwc{-3c{guzao{-50{gyvcc{-3c",
+    "圣皮埃尔和密克隆群岛时间"
+  ],
+  [
+    "America/Noronha",
+    "(GMT-02:00) 费尔南多-迪诺罗尼亚岛标准时间",
+    ["Brazil/DeNoronha"],
+    "-3c",
+    "洛罗尼亚时间"
+  ],
+  ["Atlantic/South_Georgia", "(GMT-02:00) 南乔治亚岛时间", [], "-3c", "南乔治亚和南桑威奇群岛时间"],
+  ["Atlantic/Cape_Verde", "(GMT-01:00) 佛得角标准时间", [], "-1o", "佛得角时间"],
+  [
+    "Africa/Abidjan",
+    "(GMT+00:00) 格林尼治标准时间 - 阿比让",
+    [
+      "Africa/Bamako",
+      "Africa/Banjul",
+      "Africa/Conakry",
+      "Africa/Dakar",
+      "Africa/Freetown",
+      "Africa/Lome",
+      "Africa/Nouakchott",
+      "Africa/Ouagadougou",
+      "Africa/Timbuktu",
+      "Atlantic/St_Helena"
+    ],
+    "0",
+    "科特迪瓦时间"
+  ],
+  ["Africa/Accra", "(GMT+00:00) 格林尼治标准时间 - 阿克拉", [], "0", "加纳时间"],
+  ["Africa/Bissau", "(GMT+00:00) 格林尼治标准时间 - 比绍", [], "0", "几内亚比绍时间"],
+  ["Africa/Monrovia", "(GMT+00:00) 格林尼治标准时间 - 蒙罗维亚", [], "0", "利比里亚时间"],
+  [
+    "Africa/Sao_Tome",
+    "(GMT+00:00) 格林尼治标准时间 - 圣多美",
+    [],
+    "0{f141o{1o{fcdlo{0",
+    "圣多美和普林西比时间"
+  ],
+  ["America/Danmarkshavn", "(GMT+00:00) 格林尼治标准时间 - 丹马沙文", [], "0", "丹马沙文时间"],
+  [
+    "America/Scoresbysund",
+    "(GMT+00:00) 格陵兰岛东部时间",
+    [],
+    "0{ez4xo{-1o{f3o9o{0{faddo{-1o{ff4ho{0{fllto{-1o{fqcxo{0{fwu9o{-1o{g1ldo{0{g8aho{-1o{gctto{0{gjixo{-1o{go29o{0{gurdo{-1o{gziho{0",
+    "斯科列斯比桑德时间"
+  ],
+  [
+    "Atlantic/Azores",
+    "(GMT+00:00) 亚速尔群岛时间",
+    [],
+    "0{ez4xo{-1o{f3o9o{0{faddo{-1o{ff4ho{0{fllto{-1o{fqcxo{0{fwu9o{-1o{g1ldo{0{g8aho{-1o{gctto{0{gjixo{-1o{go29o{0{gurdo{-1o{gziho{0",
+    "亚速尔群岛时间"
+  ],
+  ["Atlantic/Reykjavik", "(GMT+00:00) 格林尼治标准时间 - 雷克雅未克", ["Iceland"], "0", "冰岛时间"],
+  [
+    "Etc/GMT",
+    "(GMT+00:00) 格林尼治标准时间",
+    [
+      "Etc/GMT+0",
+      "Etc/GMT-0",
+      "Etc/GMT0",
+      "Etc/Greenwich",
+      "GMT",
+      "GMT+0",
+      "GMT-0",
+      "GMT0",
+      "Greenwich"
+    ],
+    "0",
+    "GMT"
+  ],
+  ["UTC", "(GMT+00:00) 协调世界时", [], "0", "GMT"],
+  ["Africa/Algiers", "(GMT+01:00) 中欧标准时间 - 阿尔及尔", [], "1o", "阿尔及利亚时间"],
+  [
+    "Africa/Casablanca",
+    "(GMT+01:00) 摩洛哥时间",
+    [],
+    "1o{ez4zc{0{f3obc{1o{f56rc{0{f69nc{1o{fg7fc{0{fhabc{1o{fr0bc{0{fs37c{1o{g20zc{0{g33vc{1o{gctvc{0{ge4jc{1o{gnujc{0{goxfc{1o{gyv7c{0{gzy3c{1o",
+    "摩洛哥时间"
+  ],
+  [
+    "Africa/El_Aaiun",
+    "(GMT+01:00) 西撒哈拉时间",
+    [],
+    "1o{ez4zc{0{f3obc{1o{f56rc{0{f69nc{1o{fg7fc{0{fhabc{1o{fr0bc{0{fs37c{1o{g20zc{0{g33vc{1o{gctvc{0{ge4jc{1o{gnujc{0{goxfc{1o{gyv7c{0{gzy3c{1o",
+    "西撒哈拉时间"
+  ],
+  [
+    "Africa/Lagos",
+    "(GMT+01:00) 西部非洲标准时间 - 拉各斯",
+    [
+      "Africa/Bangui",
+      "Africa/Brazzaville",
+      "Africa/Douala",
+      "Africa/Kinshasa",
+      "Africa/Libreville",
+      "Africa/Luanda",
+      "Africa/Malabo",
+      "Africa/Niamey",
+      "Africa/Porto-Novo"
+    ],
+    "1o",
+    "尼日利亚时间"
+  ],
+  ["Africa/Ndjamena", "(GMT+01:00) 西部非洲标准时间 - 恩贾梅纳", [], "1o", "乍得时间"],
+  ["Africa/Tunis", "(GMT+01:00) 中欧标准时间 - 突尼斯", [], "1o", "突尼斯时间"],
+  [
+    "Atlantic/Canary",
+    "(GMT+01:00) 西欧时间 - 加那利",
+    [],
+    "1o{ez4xo{0{f3o9o{1o{faddo{0{ff4ho{1o{fllto{0{fqcxo{1o{fwu9o{0{g1ldo{1o{g8aho{0{gctto{1o{gjixo{0{go29o{1o{gurdo{0{gziho{1o",
+    "加那利时间"
+  ],
+  [
+    "Atlantic/Faroe",
+    "(GMT+01:00) 西欧时间 - 法罗",
+    ["Atlantic/Faeroe"],
+    "1o{ez4xo{0{f3o9o{1o{faddo{0{ff4ho{1o{fllto{0{fqcxo{1o{fwu9o{0{g1ldo{1o{g8aho{0{gctto{1o{gjixo{0{go29o{1o{gurdo{0{gziho{1o",
+    "法罗群岛时间"
+  ],
+  [
+    "Atlantic/Madeira",
+    "(GMT+01:00) 西欧时间 - 马德拉",
+    [],
+    "1o{ez4xo{0{f3o9o{1o{faddo{0{ff4ho{1o{fllto{0{fqcxo{1o{fwu9o{0{g1ldo{1o{g8aho{0{gctto{1o{gjixo{0{go29o{1o{gurdo{0{gziho{1o",
+    "马德拉时间"
+  ],
+  [
+    "Europe/Dublin",
+    "(GMT+01:00) 爱尔兰时间",
+    ["Eire"],
+    "1o{ez4xo{0{f3o9o{1o{faddo{0{ff4ho{1o{fllto{0{fqcxo{1o{fwu9o{0{g1ldo{1o{g8aho{0{gctto{1o{gjixo{0{go29o{1o{gurdo{0{gziho{1o",
+    "爱尔兰时间"
+  ],
+  [
+    "Europe/Lisbon",
+    "(GMT+01:00) 西欧时间 - 里斯本",
+    ["Portugal"],
+    "1o{ez4xo{0{f3o9o{1o{faddo{0{ff4ho{1o{fllto{0{fqcxo{1o{fwu9o{0{g1ldo{1o{g8aho{0{gctto{1o{gjixo{0{go29o{1o{gurdo{0{gziho{1o",
+    "葡萄牙时间"
+  ],
+  [
+    "Europe/London",
+    "(GMT+01:00) 英国时间",
+    ["Europe/Belfast", "Europe/Guernsey", "Europe/Isle_of_Man", "Europe/Jersey", "GB", "GB-Eire"],
+    "1o{ez4xo{0{f3o9o{1o{faddo{0{ff4ho{1o{fllto{0{fqcxo{1o{fwu9o{0{g1ldo{1o{g8aho{0{gctto{1o{gjixo{0{go29o{1o{gurdo{0{gziho{1o",
+    "英国时间"
+  ],
+  ["Africa/Cairo", "(GMT+02:00) 东欧标准时间 - 开罗", ["ART", "Egypt"], "3c", "埃及时间"],
+  [
+    "Africa/Ceuta",
+    "(GMT+02:00) 中欧时间 - 休达",
+    [],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "休达时间"
+  ],
+  [
+    "Africa/Johannesburg",
+    "(GMT+02:00) 南非标准时间",
+    ["Africa/Maseru", "Africa/Mbabane"],
+    "3c",
+    "南非时间"
+  ],
+  ["Africa/Khartoum", "(GMT+02:00) 中部非洲时间 - 喀土穆", [], "50{ez830{3c", "苏丹时间"],
+  [
+    "Africa/Maputo",
+    "(GMT+02:00) 中部非洲时间 - 马普托",
+    [
+      "Africa/Blantyre",
+      "Africa/Bujumbura",
+      "Africa/Gaborone",
+      "Africa/Harare",
+      "Africa/Kigali",
+      "Africa/Lubumbashi",
+      "Africa/Lusaka",
+      "CAT"
+    ],
+    "3c",
+    "莫桑比克时间"
+  ],
+  ["Africa/Tripoli", "(GMT+02:00) 东欧标准时间 - 的黎波里", ["Libya"], "3c", "利比亚时间"],
+  [
+    "Africa/Windhoek",
+    "(GMT+02:00) 中部非洲时间 - 温得和克",
+    [],
+    "1o{exepo{3c{eyz8o{3c",
+    "纳米比亚时间"
+  ],
+  [
+    "Antarctica/Troll",
+    "(GMT+02:00) 特罗尔时间",
+    [],
+    "3c{ez4xo{0{f3o9o{3c{faddo{0{ff4ho{3c{fllto{0{fqcxo{3c{fwu9o{0{g1ldo{3c{g8aho{0{gctto{3c{gjixo{0{go29o{3c{gurdo{0{gziho{3c",
+    "特罗尔时间"
+  ],
+  [
+    "Europe/Amsterdam",
+    "(GMT+02:00) 中欧时间 - 阿姆斯特丹",
+    [],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "荷兰时间"
+  ],
+  [
+    "Europe/Andorra",
+    "(GMT+02:00) 中欧时间 - 安道尔",
+    [],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "安道尔时间"
+  ],
+  [
+    "Europe/Belgrade",
+    "(GMT+02:00) 中欧时间 - 贝尔格莱德",
+    ["Europe/Ljubljana", "Europe/Podgorica", "Europe/Sarajevo", "Europe/Skopje", "Europe/Zagreb"],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "塞尔维亚时间"
+  ],
+  [
+    "Europe/Berlin",
+    "(GMT+02:00) 中欧时间 - 柏林",
+    [],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "德国时间"
+  ],
+  [
+    "Europe/Brussels",
+    "(GMT+02:00) 中欧时间 - 布鲁塞尔",
+    [],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "比利时时间"
+  ],
+  [
+    "Europe/Budapest",
+    "(GMT+02:00) 中欧时间 - 布达佩斯",
+    [],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "匈牙利时间"
+  ],
+  [
+    "Europe/Copenhagen",
+    "(GMT+02:00) 中欧时间 - 哥本哈根",
+    [],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "丹麦时间"
+  ],
+  [
+    "Europe/Gibraltar",
+    "(GMT+02:00) 中欧时间 - 直布罗陀",
+    [],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "直布罗陀时间"
+  ],
+  ["Europe/Kaliningrad", "(GMT+02:00) 东欧标准时间 - 加里宁格勒", [], "3c", "加里宁格勒时间"],
+  [
+    "Europe/Luxembourg",
+    "(GMT+02:00) 中欧时间 - 卢森堡",
+    [],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "卢森堡时间"
+  ],
+  [
+    "Europe/Madrid",
+    "(GMT+02:00) 中欧时间 - 马德里",
+    [],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "西班牙时间"
+  ],
+  [
+    "Europe/Malta",
+    "(GMT+02:00) 中欧时间 - 马耳他",
+    [],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "马耳他时间"
+  ],
+  [
+    "Europe/Monaco",
+    "(GMT+02:00) 中欧时间 - 摩纳哥",
+    [],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "摩纳哥时间"
+  ],
+  [
+    "Europe/Oslo",
+    "(GMT+02:00) 中欧时间 - 奥斯陆",
+    ["Arctic/Longyearbyen", "Atlantic/Jan_Mayen"],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "挪威时间"
+  ],
+  [
+    "Europe/Paris",
+    "(GMT+02:00) 中欧时间 - 巴黎",
+    ["ECT"],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "法国时间"
+  ],
+  [
+    "Europe/Prague",
+    "(GMT+02:00) 中欧时间 - 布拉格",
+    ["Europe/Bratislava"],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "捷克时间"
+  ],
+  [
+    "Europe/Rome",
+    "(GMT+02:00) 中欧时间 - 罗马",
+    ["Europe/San_Marino", "Europe/Vatican"],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "意大利时间"
+  ],
+  [
+    "Europe/Stockholm",
+    "(GMT+02:00) 中欧时间 - 斯德哥尔摩",
+    [],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "瑞典时间"
+  ],
+  [
+    "Europe/Tirane",
+    "(GMT+02:00) 中欧时间 - 地拉那",
+    [],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "阿尔巴尼亚时间"
+  ],
+  [
+    "Europe/Vienna",
+    "(GMT+02:00) 中欧时间 - 维也纳",
+    [],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "奥地利时间"
+  ],
+  [
+    "Europe/Warsaw",
+    "(GMT+02:00) 中欧时间 - 华沙",
+    ["Poland"],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "波兰时间"
+  ],
+  [
+    "Europe/Zurich",
+    "(GMT+02:00) 中欧时间 - 苏黎世",
+    ["Europe/Busingen", "Europe/Vaduz"],
+    "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
+    "瑞士时间"
+  ],
+  ["Africa/Juba", "(GMT+03:00) 东部非洲时间 - 朱巴", [], "50", "南苏丹时间"],
+  [
+    "Africa/Nairobi",
+    "(GMT+03:00) 东部非洲时间 - 内罗毕",
+    [
+      "Africa/Addis_Ababa",
+      "Africa/Asmara",
+      "Africa/Asmera",
+      "Africa/Dar_es_Salaam",
+      "Africa/Djibouti",
+      "Africa/Kampala",
+      "Africa/Mogadishu",
+      "EAT",
+      "Indian/Antananarivo",
+      "Indian/Comoro",
+      "Indian/Mayotte"
+    ],
+    "50",
+    "肯尼亚时间"
+  ],
+  ["Antarctica/Syowa", "(GMT+03:00) 昭和时间", [], "50", "昭和时间"],
+  [
+    "Asia/Amman",
+    "(GMT+03:00) 东欧时间 - 安曼",
+    [],
+    "50{ez2ko{3c{f3too{50{fab0o{3c{ff24o{50{fljgo{3c{fqako{50{fwzoo{3c{g1j0o{50{g884o{3c{gcz8o{50{gjgko{3c{go7oo{50{gup0o{3c{gzg4o{50",
+    "约旦时间"
+  ],
+  ["Asia/Baghdad", "(GMT+03:00) 阿拉伯标准时间 - 巴格达", [], "50", "伊拉克时间"],
+  [
+    "Asia/Beirut",
+    "(GMT+03:00) 东欧时间 - 贝鲁特",
+    [],
+    "50{ez4r0{3c{f3o4o{50{fad70{3c{ff4co{50{flln0{3c{fqcso{50{fwu30{3c{g1l8o{50{g8ab0{3c{gctoo{50{gjir0{3c{go24o{50{gur70{3c{gzico{50",
+    "黎巴嫩时间"
+  ],
+  [
+    "Asia/Damascus",
+    "(GMT+03:00) 东欧时间 - 大马士革",
+    [],
+    "50{ez2j0{3c{f3too{50{faaz0{3c{ff24o{50{fljf0{3c{fqako{50{fwzn0{3c{g1j0o{50{g8830{3c{gcrgo{50{gjgj0{3c{go7oo{50{guoz0{3c{gzg4o{50",
+    "叙利亚时间"
+  ],
+  [
+    "Asia/Famagusta",
+    "(GMT+03:00) 法马古斯塔时间",
+    [],
+    "50{ez4xo{3c{f3o9o{50{faddo{3c{ff4ho{50{fllto{3c{fqcxo{50{fwu9o{3c{g1ldo{50{g8aho{3c{gctto{50{gjixo{3c{go29o{50{gurdo{3c{gziho{50",
+    "法马古斯塔时间"
+  ],
+  [
+    "Asia/Gaza",
+    "(GMT+03:00) 东欧时间 - 加沙",
+    [],
+    "50{ez3oo{3c{f3n2c{50{fac4o{3c{ff24o{50{flkko{3c{fqako{50{fx0so{3c{g1j0o{50{g898o{3c{gcrgo{50{gjhoo{3c{go7oo{50{guq4o{3c{gzg4o{50",
+    "加沙时间"
+  ],
+  [
+    "Asia/Hebron",
+    "(GMT+03:00) 东欧时间 - 希伯伦",
+    [],
+    "50{ez3oo{3c{f3n2c{50{fac4o{3c{ff24o{50{flkko{3c{fqako{50{fx0so{3c{g1j0o{50{g898o{3c{gcrgo{50{gjhoo{3c{go7oo{50{guq4o{3c{gzg4o{50",
+    "希伯伦时间"
+  ],
+  [
+    "Asia/Jerusalem",
+    "(GMT+03:00) 以色列时间",
+    ["Asia/Tel_Aviv", "Israel"],
+    "50{ez4uc{3c{f3m00{50{fadac{3c{ff280{50{fllqc{3c{fqao0{50{fwu6c{3c{g1j40{50{g8aec{3c{gcrk0{50{gjiuc{3c{go000{50{gurac{3c{gzg80{50",
+    "以色列时间"
+  ],
+  [
+    "Asia/Nicosia",
+    "(GMT+03:00) 东欧时间 - 尼科西亚",
+    ["Europe/Nicosia"],
+    "50{ez4xo{3c{f3o9o{50{faddo{3c{ff4ho{50{fllto{3c{fqcxo{50{fwu9o{3c{g1ldo{50{g8aho{3c{gctto{50{gjixo{3c{go29o{50{gurdo{3c{gziho{50",
+    "尼科西亚时间"
+  ],
+  ["Asia/Qatar", "(GMT+03:00) 阿拉伯标准时间 - 卡塔尔", ["Asia/Bahrain"], "50", "卡塔尔时间"],
+  [
+    "Asia/Riyadh",
+    "(GMT+03:00) 阿拉伯标准时间 - 利雅得",
+    ["Asia/Aden", "Asia/Kuwait"],
+    "50",
+    "沙特阿拉伯时间"
+  ],
+  [
+    "Europe/Athens",
+    "(GMT+03:00) 东欧时间 - 雅典",
+    [],
+    "50{ez4xo{3c{f3o9o{50{faddo{3c{ff4ho{50{fllto{3c{fqcxo{50{fwu9o{3c{g1ldo{50{g8aho{3c{gctto{50{gjixo{3c{go29o{50{gurdo{3c{gziho{50",
+    "希腊时间"
+  ],
+  [
+    "Europe/Bucharest",
+    "(GMT+03:00) 东欧时间 - 布加勒斯特",
+    [],
+    "50{ez4xo{3c{f3o9o{50{faddo{3c{ff4ho{50{fllto{3c{fqcxo{50{fwu9o{3c{g1ldo{50{g8aho{3c{gctto{50{gjixo{3c{go29o{50{gurdo{3c{gziho{50",
+    "罗马尼亚时间"
+  ],
+  [
+    "Europe/Chisinau",
+    "(GMT+03:00) 东欧时间 - 基希讷乌",
+    ["Europe/Tiraspol"],
+    "50{ez4w0{3c{f3o80{50{fadc0{3c{ff4g0{50{flls0{3c{fqcw0{50{fwu80{3c{g1lc0{50{g8ag0{3c{gcts0{50{gjiw0{3c{go280{50{gurc0{3c{gzig0{50",
+    "摩尔多瓦时间"
+  ],
+  [
+    "Europe/Helsinki",
+    "(GMT+03:00) 东欧时间 - 赫尔辛基",
+    ["Europe/Mariehamn"],
+    "50{ez4xo{3c{f3o9o{50{faddo{3c{ff4ho{50{fllto{3c{fqcxo{50{fwu9o{3c{g1ldo{50{g8aho{3c{gctto{50{gjixo{3c{go29o{50{gurdo{3c{gziho{50",
+    "芬兰时间"
+  ],
+  ["Europe/Istanbul", "(GMT+03:00) 土耳其时间", ["Asia/Istanbul", "Turkey"], "50", "土耳其时间"],
+  [
+    "Europe/Kiev",
+    "(GMT+03:00) 东欧时间 - 基辅",
+    [],
+    "50{ez4xo{3c{f3o9o{50{faddo{3c{ff4ho{50{fllto{3c{fqcxo{50{fwu9o{3c{g1ldo{50{g8aho{3c{gctto{50{gjixo{3c{go29o{50{gurdo{3c{gziho{50",
+    "乌克兰时间"
+  ],
+  ["Europe/Kirov", "(GMT+03:00) 基洛夫时间", [], "50", "基洛夫时间"],
+  ["Europe/Minsk", "(GMT+03:00) 莫斯科标准时间 - 明斯克", [], "50", "白俄罗斯时间"],
+  ["Europe/Moscow", "(GMT+03:00) 莫斯科标准时间 - 莫斯科", ["W-SU"], "50", "莫斯科时间"],
+  [
+    "Europe/Riga",
+    "(GMT+03:00) 东欧时间 - 里加",
+    [],
+    "50{ez4xo{3c{f3o9o{50{faddo{3c{ff4ho{50{fllto{3c{fqcxo{50{fwu9o{3c{g1ldo{50{g8aho{3c{gctto{50{gjixo{3c{go29o{50{gurdo{3c{gziho{50",
+    "拉脱维亚时间"
+  ],
+  ["Europe/Simferopol", "(GMT+03:00) 莫斯科标准时间 - 辛菲罗波尔", [], "50", "辛菲罗波尔时间"],
+  [
+    "Europe/Sofia",
+    "(GMT+03:00) 东欧时间 - 索非亚",
+    [],
+    "50{ez4xo{3c{f3o9o{50{faddo{3c{ff4ho{50{fllto{3c{fqcxo{50{fwu9o{3c{g1ldo{50{g8aho{3c{gctto{50{gjixo{3c{go29o{50{gurdo{3c{gziho{50",
+    "保加利亚时间"
+  ],
+  [
+    "Europe/Tallinn",
+    "(GMT+03:00) 东欧时间 - 塔林",
+    [],
+    "50{ez4xo{3c{f3o9o{50{faddo{3c{ff4ho{50{fllto{3c{fqcxo{50{fwu9o{3c{g1ldo{50{g8aho{3c{gctto{50{gjixo{3c{go29o{50{gurdo{3c{gziho{50",
+    "爱沙尼亚时间"
+  ],
+  [
+    "Europe/Uzhgorod",
+    "(GMT+03:00) 东欧时间 - 乌日哥罗德",
+    [],
+    "50{ez4xo{3c{f3o9o{50{faddo{3c{ff4ho{50{fllto{3c{fqcxo{50{fwu9o{3c{g1ldo{50{g8aho{3c{gctto{50{gjixo{3c{go29o{50{gurdo{3c{gziho{50",
+    "乌日哥罗德时间"
+  ],
+  [
+    "Europe/Vilnius",
+    "(GMT+03:00) 东欧时间 - 维尔纽斯",
+    [],
+    "50{ez4xo{3c{f3o9o{50{faddo{3c{ff4ho{50{fllto{3c{fqcxo{50{fwu9o{3c{g1ldo{50{g8aho{3c{gctto{50{gjixo{3c{go29o{50{gurdo{3c{gziho{50",
+    "立陶宛时间"
+  ],
+  [
+    "Europe/Zaporozhye",
+    "(GMT+03:00) 东欧时间 - 扎波罗热",
+    [],
+    "50{ez4xo{3c{f3o9o{50{faddo{3c{ff4ho{50{fllto{3c{fqcxo{50{fwu9o{3c{g1ldo{50{g8aho{3c{gctto{50{gjixo{3c{go29o{50{gurdo{3c{gziho{50",
+    "扎波罗热时间"
+  ],
+  ["Asia/Baku", "(GMT+04:00) 阿塞拜疆标准时间", [], "6o", "阿塞拜疆时间"],
+  ["Asia/Dubai", "(GMT+04:00) 海湾标准时间", ["Asia/Muscat"], "6o", "阿拉伯联合酋长国时间"],
+  ["Asia/Tbilisi", "(GMT+04:00) 格鲁吉亚标准时间", [], "6o", "格鲁吉亚时间"],
+  ["Asia/Yerevan", "(GMT+04:00) 亚美尼亚标准时间", ["NET"], "6o", "亚美尼亚时间"],
+  ["Europe/Astrakhan", "(GMT+04:00) 阿斯特拉罕时间", [], "6o", "阿斯特拉罕时间"],
+  ["Europe/Samara", "(GMT+04:00) 萨马拉标准时间", [], "6o", "萨马拉时间"],
+  ["Europe/Saratov", "(GMT+04:00) 萨拉托夫时间", [], "6o", "萨拉托夫时间"],
+  ["Europe/Ulyanovsk", "(GMT+04:00) 乌里扬诺夫斯克时间", [], "6o", "乌里扬诺夫斯克时间"],
+  ["Europe/Volgograd", "(GMT+04:00) 伏尔加格勒标准时间", [], "50{fadac{6o", "伏尔加格勒时间"],
+  ["Indian/Mahe", "(GMT+04:00) 塞舌尔时间", [], "6o", "塞舌尔时间"],
+  ["Indian/Mauritius", "(GMT+04:00) 毛里求斯标准时间", [], "6o", "毛里求斯时间"],
+  ["Indian/Reunion", "(GMT+04:00) 留尼汪时间", [], "6o", "留尼汪时间"],
+  ["Asia/Kabul", "(GMT+04:30) 阿富汗时间", [], "7i", "阿富汗时间"],
+  [
+    "Asia/Tehran",
+    "(GMT+04:30) 伊朗时间",
+    ["Iran"],
+    "7i{exzki{5u{f3kq6{7i{f994i{5u{feua6{7i{fkioi{5u{fq3u6{7i{fvs8i{5u{g1ei6{7i{g72wi{5u{gco26{7i{gicgi{5u{gnxm6{7i{gtm0i{5u{gz766{7i",
+    "伊朗时间"
+  ],
+  ["Antarctica/Mawson", "(GMT+05:00) 莫森时间", [], "8c", "莫森时间"],
+  ["Asia/Aqtau", "(GMT+05:00) 哈萨克斯坦西部时间 - 阿克套", [], "8c", "阿克套时间"],
+  ["Asia/Aqtobe", "(GMT+05:00) 哈萨克斯坦西部时间 - 阿克托别", [], "8c", "阿克托别时间"],
+  ["Asia/Ashgabat", "(GMT+05:00) 土库曼斯坦标准时间", ["Asia/Ashkhabad"], "8c", "土库曼斯坦时间"],
+  ["Asia/Atyrau", "(GMT+05:00) 哈萨克斯坦西部时间 - 阿特劳", [], "8c", "阿特劳时间"],
+  ["Asia/Dushanbe", "(GMT+05:00) 塔吉克斯坦时间", [], "8c", "塔吉克斯坦时间"],
+  ["Asia/Karachi", "(GMT+05:00) 巴基斯坦标准时间", ["PLT"], "8c", "巴基斯坦时间"],
+  ["Asia/Oral", "(GMT+05:00) 哈萨克斯坦西部时间 - 乌拉尔", [], "8c", "乌拉尔时间"],
+  [
+    "Asia/Qyzylorda",
+    "(GMT+05:00) 哈萨克斯坦西部时间 - 克孜洛尔达",
+    [],
+    "a0{fc120{8c",
+    "克孜洛尔达时间"
+  ],
+  ["Asia/Samarkand", "(GMT+05:00) 乌兹别克斯坦标准时间 - 撒马尔罕", [], "8c", "撒马尔罕时间"],
+  ["Asia/Tashkent", "(GMT+05:00) 乌兹别克斯坦标准时间 - 塔什干", [], "8c", "乌兹别克斯坦时间"],
+  ["Asia/Yekaterinburg", "(GMT+05:00) 叶卡捷琳堡标准时间", [], "8c", "叶卡捷琳堡时间"],
+  ["Indian/Kerguelen", "(GMT+05:00) 法属南方和南极领地时间", [], "8c", "法属南部领地时间"],
+  ["Indian/Maldives", "(GMT+05:00) 马尔代夫时间", [], "8c", "马尔代夫时间"],
+  ["Asia/Colombo", "(GMT+05:30) 印度时间 - 科伦坡", [], "96", "斯里兰卡时间"],
+  ["Asia/Kolkata", "(GMT+05:30) 印度时间 - 加尔各答", ["Asia/Calcutta"], "96", "印度时间"],
+  ["Asia/Kathmandu", "(GMT+05:45) 尼泊尔时间", ["Asia/Katmandu"], "9l", "尼泊尔时间"],
+  ["Antarctica/Vostok", "(GMT+06:00) 沃斯托克时间", [], "a0", "沃斯托克时间"],
+  ["Asia/Almaty", "(GMT+06:00) 哈萨克斯坦东部时间 - 阿拉木图", [], "a0", "阿拉木图时间"],
+  ["Asia/Bishkek", "(GMT+06:00) 吉尔吉斯斯坦时间", [], "a0", "吉尔吉斯斯坦时间"],
+  ["Asia/Dhaka", "(GMT+06:00) 孟加拉标准时间", ["Asia/Dacca", "BST"], "a0", "孟加拉国时间"],
+  ["Asia/Omsk", "(GMT+06:00) 鄂木斯克标准时间", [], "a0", "鄂木斯克时间"],
+  ["Asia/Qostanay", "(GMT+06:00) 哈萨克斯坦东部时间 - 库斯塔奈", [], "a0", "库斯塔奈时间"],
+  ["Asia/Thimphu", "(GMT+06:00) 不丹时间", ["Asia/Thimbu"], "a0", "不丹时间"],
+  ["Asia/Urumqi", "(GMT+06:00) 乌鲁木齐时间", ["Asia/Kashgar"], "a0", "乌鲁木齐时间"],
+  ["Indian/Chagos", "(GMT+06:00) 印度洋时间", [], "a0", "英属印度洋领地时间"],
+  ["Asia/Yangon", "(GMT+06:30) 缅甸时间", ["Asia/Rangoon"], "au", "缅甸时间"],
+  ["Indian/Cocos", "(GMT+06:30) 科科斯群岛时间", [], "au", "科科斯（基林）群岛时间"],
+  ["Antarctica/Davis", "(GMT+07:00) 戴维斯时间", [], "bo", "戴维斯时间"],
+  [
+    "Asia/Bangkok",
+    "(GMT+07:00) 中南半岛时间 - 曼谷",
+    ["Asia/Phnom_Penh", "Asia/Vientiane"],
+    "bo",
+    "泰国时间"
+  ],
+  ["Asia/Barnaul", "(GMT+07:00) 巴尔瑙尔时间", [], "bo", "巴尔瑙尔时间"],
+  ["Asia/Ho_Chi_Minh", "(GMT+07:00) 中南半岛时间 - 胡志明市", ["Asia/Saigon"], "bo", "越南时间"],
+  ["Asia/Hovd", "(GMT+07:00) 科布多标准时间", [], "bo", "科布多时间"],
+  ["Asia/Jakarta", "(GMT+07:00) 印度尼西亚西部时间 - 雅加达", [], "bo", "雅加达时间"],
+  [
+    "Asia/Krasnoyarsk",
+    "(GMT+07:00) 克拉斯诺亚尔斯克标准时间 - 克拉斯诺亚尔斯克",
+    [],
+    "bo",
+    "克拉斯诺亚尔斯克时间"
+  ],
+  [
+    "Asia/Novokuznetsk",
+    "(GMT+07:00) 克拉斯诺亚尔斯克标准时间 - 新库兹涅茨克",
+    [],
+    "bo",
+    "新库兹涅茨克时间"
+  ],
+  ["Asia/Novosibirsk", "(GMT+07:00) 新西伯利亚标准时间", [], "bo", "诺沃西比尔斯克时间"],
+  ["Asia/Pontianak", "(GMT+07:00) 印度尼西亚西部时间 - 坤甸", [], "bo", "坤甸时间"],
+  ["Asia/Tomsk", "(GMT+07:00) 托木斯克时间", [], "bo", "托木斯克时间"],
+  ["Indian/Christmas", "(GMT+07:00) 圣诞岛时间", [], "bo", "圣诞岛时间"],
+  ["Antarctica/Casey", "(GMT+08:00) 澳大利亚西部标准时间 - 卡塞", [], "ic{f38cc{dc", "卡塞时间"],
+  ["Asia/Brunei", "(GMT+08:00) 文莱达鲁萨兰时间", [], "dc", "文莱时间"],
+  ["Asia/Choibalsan", "(GMT+08:00) 乔巴山标准时间", [], "dc", "乔巴山时间"],
+  ["Asia/Hong_Kong", "(GMT+08:00) 香港标准时间", ["Hongkong"], "dc", "香港时间"],
+  ["Asia/Irkutsk", "(GMT+08:00) 伊尔库茨克标准时间", [], "dc", "伊尔库茨克时间"],
+  ["Asia/Kuala_Lumpur", "(GMT+08:00) 马来西亚时间 - 吉隆坡", [], "dc", "马来西亚时间"],
+  ["Asia/Kuching", "(GMT+08:00) 马来西亚时间 - 古晋", [], "dc", "古晋时间"],
+  ["Asia/Macau", "(GMT+08:00) 中国标准时间 - 澳门", ["Asia/Macao"], "dc", "澳门时间"],
+  ["Asia/Makassar", "(GMT+08:00) 印度尼西亚中部时间", ["Asia/Ujung_Pandang"], "dc", "望加锡时间"],
+  ["Asia/Manila", "(GMT+08:00) 菲律宾标准时间", [], "dc", "菲律宾时间"],
+  [
+    "Asia/Shanghai",
+    "(GMT+08:00) 中国标准时间 - 上海",
+    ["Asia/Chongqing", "Asia/Chungking", "Asia/Harbin", "CTT", "PRC"],
+    "dc",
+    "中国时间"
+  ],
+  ["Asia/Singapore", "(GMT+08:00) 新加坡标准时间", ["Singapore"], "dc", "新加坡时间"],
+  ["Asia/Taipei", "(GMT+08:00) 台北标准时间", ["ROC"], "dc", "台湾时间"],
+  ["Asia/Ulaanbaatar", "(GMT+08:00) 乌兰巴托标准时间", ["Asia/Ulan_Bator"], "dc", "乌兰巴托时间"],
+  [
+    "Australia/Perth",
+    "(GMT+08:00) 澳大利亚西部标准时间 - 珀斯",
+    ["Australia/West"],
+    "dc",
+    "珀斯时间"
+  ],
+  ["Australia/Eucla", "(GMT+08:45) 澳大利亚中西部标准时间", [], "el", "尤克拉时间"],
+  ["Asia/Chita", "(GMT+09:00) 雅库茨克标准时间 - 赤塔", [], "f0", "赤塔时间"],
+  ["Asia/Dili", "(GMT+09:00) 东帝汶时间", [], "f0", "东帝汶时间"],
+  ["Asia/Jayapura", "(GMT+09:00) 印度尼西亚东部时间", [], "f0", "查亚普拉时间"],
+  ["Asia/Khandyga", "(GMT+09:00) 雅库茨克标准时间 - 汉德加", [], "f0", "汉德加时间"],
+  ["Asia/Pyongyang", "(GMT+09:00) 韩国标准时间 - 平壤", [], "e6{f4xd0{f0", "朝鲜时间"],
+  ["Asia/Seoul", "(GMT+09:00) 韩国标准时间 - 首尔", ["ROK"], "f0", "韩国时间"],
+  ["Asia/Tokyo", "(GMT+09:00) 日本标准时间", ["JST", "Japan"], "f0", "日本时间"],
+  ["Asia/Yakutsk", "(GMT+09:00) 雅库茨克标准时间 - 雅库茨克", [], "f0", "雅库茨克时间"],
+  ["Pacific/Palau", "(GMT+09:00) 帕劳时间", [], "f0", "帕劳时间"],
+  [
+    "Australia/Adelaide",
+    "(GMT+09:30) 澳大利亚中部时间 - 阿德莱德",
+    ["Australia/South"],
+    "fu{ey9fi{hi{f3vni{fu{f9pni{hi{ffbvi{fu{fky3i{hi{fqkbi{fu{fw6ji{hi{g1sri{fu{g7ezi{hi{gd17i{fu{ginfi{hi{go9ni{fu{gtvvi{hi{gzpvi{fu",
+    "阿德莱德时间"
+  ],
+  [
+    "Australia/Broken_Hill",
+    "(GMT+09:30) 澳大利亚中部时间 - 布罗肯希尔",
+    ["Australia/Yancowinna"],
+    "fu{ey9fi{hi{f3vni{fu{f9pni{hi{ffbvi{fu{fky3i{hi{fqkbi{fu{fw6ji{hi{g1sri{fu{g7ezi{hi{gd17i{fu{ginfi{hi{go9ni{fu{gtvvi{hi{gzpvi{fu",
+    "布罗肯希尔时间"
+  ],
+  [
+    "Australia/Darwin",
+    "(GMT+09:30) 澳大利亚中部标准时间",
+    ["ACT", "Australia/North"],
+    "fu",
+    "达尔文时间"
+  ],
+  ["Antarctica/DumontDUrville", "(GMT+10:00) 迪蒙迪尔维尔时间", [], "go", "迪蒙迪尔维尔时间"],
+  ["Asia/Ust-Nera", "(GMT+10:00) 海参崴标准时间 - 乌斯内拉", [], "go", "乌斯内拉时间"],
+  [
+    "Asia/Vladivostok",
+    "(GMT+10:00) 海参崴标准时间 - 符拉迪沃斯托克",
+    [],
+    "go",
+    "符拉迪沃斯托克时间"
+  ],
+  [
+    "Australia/Brisbane",
+    "(GMT+10:00) 澳大利亚东部标准时间 - 布里斯班",
+    ["Australia/Queensland"],
+    "go",
+    "布里斯班时间"
+  ],
+  [
+    "Australia/Currie",
+    "(GMT+10:00) 澳大利亚东部时间 - 库利",
+    [],
+    "go{ey9eo{ic{f3vmo{go{f9pmo{ic{ffbuo{go{fky2o{ic{fqkao{go{fw6io{ic{g1sqo{go{g7eyo{ic{gd16o{go{gineo{ic{go9mo{go{gtvuo{ic{gzpuo{go",
+    "库利时间"
+  ],
+  [
+    "Australia/Hobart",
+    "(GMT+10:00) 澳大利亚东部时间 - 霍巴特",
+    ["Australia/Tasmania"],
+    "go{ey9eo{ic{f3vmo{go{f9pmo{ic{ffbuo{go{fky2o{ic{fqkao{go{fw6io{ic{g1sqo{go{g7eyo{ic{gd16o{go{gineo{ic{go9mo{go{gtvuo{ic{gzpuo{go",
+    "霍巴特时间"
+  ],
+  ["Australia/Lindeman", "(GMT+10:00) 澳大利亚东部标准时间 - 林德曼", [], "go", "林德曼时间"],
+  [
+    "Australia/Melbourne",
+    "(GMT+10:00) 澳大利亚东部时间 - 墨尔本",
+    ["Australia/Victoria"],
+    "go{ey9eo{ic{f3vmo{go{f9pmo{ic{ffbuo{go{fky2o{ic{fqkao{go{fw6io{ic{g1sqo{go{g7eyo{ic{gd16o{go{gineo{ic{go9mo{go{gtvuo{ic{gzpuo{go",
+    "墨尔本时间"
+  ],
+  [
+    "Australia/Sydney",
+    "(GMT+10:00) 澳大利亚东部时间 - 悉尼",
+    ["AET", "Australia/ACT", "Australia/Canberra", "Australia/NSW"],
+    "go{ey9eo{ic{f3vmo{go{f9pmo{ic{ffbuo{go{fky2o{ic{fqkao{go{fw6io{ic{g1sqo{go{g7eyo{ic{gd16o{go{gineo{ic{go9mo{go{gtvuo{ic{gzpuo{go",
+    "悉尼时间"
+  ],
+  [
+    "Pacific/Chuuk",
+    "(GMT+10:00) 楚克时间",
+    ["Pacific/Truk", "Pacific/Yap"],
+    "go",
+    "特鲁克群岛时间"
+  ],
+  ["Pacific/Guam", "(GMT+10:00) 查莫罗时间", ["Pacific/Saipan"], "go", "关岛时间"],
+  ["Pacific/Port_Moresby", "(GMT+10:00) 巴布亚新几内亚时间", [], "go", "莫尔兹比港时间"],
+  [
+    "Australia/Lord_Howe",
+    "(GMT+10:30) 豪勋爵岛时间",
+    ["Australia/LHI"],
+    "hi{ey9du{ic{f3vl0{hi{f9plu{ic{ffbt0{hi{fky1u{ic{fqk90{hi{fw6hu{ic{g1sp0{hi{g7exu{ic{gd150{hi{gindu{ic{go9l0{hi{gtvtu{ic{gzpt0{hi",
+    "豪勋爵时间"
+  ],
+  ["Antarctica/Macquarie", "(GMT+11:00) 麦夸里岛时间", [], "ic", "麦格理时间"],
+  ["Asia/Magadan", "(GMT+11:00) 马加丹标准时间", [], "ic", "马加丹时间"],
+  ["Asia/Sakhalin", "(GMT+11:00) 库页岛标准时间", [], "ic", "萨哈林时间"],
+  ["Asia/Srednekolymsk", "(GMT+11:00) 中科雷姆斯克时间", [], "ic", "中科雷姆斯克时间"],
+  ["Pacific/Bougainville", "(GMT+11:00) 布干维尔时间", [], "ic", "布干维尔时间"],
+  ["Pacific/Efate", "(GMT+11:00) 瓦努阿图标准时间", [], "ic", "瓦努阿图时间"],
+  ["Pacific/Guadalcanal", "(GMT+11:00) 所罗门群岛时间", ["SST"], "ic", "所罗门群岛时间"],
+  ["Pacific/Kosrae", "(GMT+11:00) 科斯雷时间", [], "ic", "库赛埃时间"],
+  ["Pacific/Norfolk", "(GMT+11:00) 诺福克岛时间", [], "ic", "诺福克岛时间"],
+  ["Pacific/Noumea", "(GMT+11:00) 新喀里多尼亚标准时间", [], "ic", "新喀里多尼亚时间"],
+  ["Pacific/Pohnpei", "(GMT+11:00) 波纳佩时间", ["Pacific/Ponape"], "ic", "波纳佩岛时间"],
+  ["Asia/Anadyr", "(GMT+12:00) 阿纳德尔标准时间", [], "k0", "阿纳德尔时间"],
+  ["Asia/Kamchatka", "(GMT+12:00) 彼得罗巴甫洛夫斯克-堪察加标准时间", [], "k0", "堪察加时间"],
+  [
+    "Pacific/Auckland",
+    "(GMT+12:00) 新西兰时间",
+    ["Antarctica/McMurdo", "Antarctica/South_Pole", "NST", "NZ"],
+    "k0{ey1jc{lo{f3vjc{k0{f9hrc{lo{ffbrc{k0{fkq7c{lo{fqk7c{k0{fvync{lo{g1snc{k0{g773c{lo{gd13c{k0{gifjc{lo{go9jc{k0{gtnzc{lo{gzprc{k0",
+    "新西兰时间"
+  ],
+  [
+    "Pacific/Fiji",
+    "(GMT+12:00) 斐济时间",
+    [],
+    "k0{ezc7c{lo{f1hzc{k0{faknc{lo{fcqfc{k0{flt3c{lo{fo6nc{k0{fx1jc{lo{fzf3c{k0{g8hrc{lo{ganjc{k0{gjq7c{lo{glvzc{k0{guync{lo{gx4fc{k0",
+    "斐济时间"
+  ],
+  ["Pacific/Funafuti", "(GMT+12:00) 图瓦卢时间", [], "k0", "图瓦卢时间"],
+  ["Pacific/Kwajalein", "(GMT+12:00) 马绍尔群岛时间 - 夸贾林", ["Kwajalein"], "k0", "夸贾林时间"],
+  ["Pacific/Majuro", "(GMT+12:00) 马绍尔群岛时间 - 马朱罗", [], "k0", "马绍尔群岛时间"],
+  ["Pacific/Nauru", "(GMT+12:00) 瑙鲁时间", [], "k0", "瑙鲁时间"],
+  ["Pacific/Tarawa", "(GMT+12:00) 吉尔伯特群岛时间", [], "k0", "塔拉瓦时间"],
+  ["Pacific/Wake", "(GMT+12:00) 威克岛时间", [], "k0", "威克时间"],
+  ["Pacific/Wallis", "(GMT+12:00) 瓦利斯和富图纳时间", [], "k0", "瓦利斯和富图纳时间"],
+  [
+    "Pacific/Chatham",
+    "(GMT+12:45) 查坦时间",
+    ["NZ-CHAT"],
+    "l9{ey1jc{mx{f3vjc{l9{f9hrc{mx{ffbrc{l9{fkq7c{mx{fqk7c{l9{fvync{mx{g1snc{l9{g773c{mx{gd13c{l9{gifjc{mx{go9jc{l9{gtnzc{mx{gzprc{l9",
+    "查塔姆时间"
+  ],
+  [
+    "Pacific/Apia",
+    "(GMT+13:00) 阿皮亚时间",
+    ["MIT"],
+    "lo{ey1jc{nc{f3vjc{lo{f9hrc{nc{ffbrc{lo{fkq7c{nc{fqk7c{lo{fvync{nc{g1snc{lo{g773c{nc{gd13c{lo{gifjc{nc{go9jc{lo{gtnzc{nc{gzprc{lo",
+    "萨摩亚时间"
+  ],
+  ["Pacific/Enderbury", "(GMT+13:00) 菲尼克斯群岛时间", [], "lo", "恩德伯里时间"],
+  ["Pacific/Fakaofo", "(GMT+13:00) 托克劳时间", [], "lo", "托克劳时间"],
+  ["Pacific/Tongatapu", "(GMT+13:00) 汤加标准时间", [], "lo", "汤加时间"],
+  ["Pacific/Kiritimati", "(GMT+14:00) 莱恩群岛时间", [], "nc", "基里地马地岛时间"]
+]
