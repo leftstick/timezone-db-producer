@@ -1,6 +1,6 @@
 const fs = require('fs')
-const googleZh = require('./google_zh.json')
-const googleEn = require('./google_en.json')
+const googleZh = require('./raw/google_zh.json')
+const googleEn = require('./raw/google_en.json')
 
 const langEn = {}
 const canonicals = []

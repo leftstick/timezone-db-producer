@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "处理生成时区数据库",
   "scripts": {
-    "start": ""
+    "start": "node timezone"
   },
   "repository": {
     "type": "git",
