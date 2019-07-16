@@ -26,7 +26,7 @@
 yarn start
 ```
 
-> 生成数据库文件`timezone_v2.json`
+> 生成数据库文件`timezone_v3.json`
 
 ## 惨
 
