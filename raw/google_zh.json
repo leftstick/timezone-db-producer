@@ -68,7 +68,13 @@
     "亚库塔特时间"
   ],
   ["Pacific/Pitcairn", "(GMT-08:00) 皮特凯恩时间", [], "-dc", "皮特凯恩群岛时间"],
-  ["America/Creston", "(GMT-07:00) 北美山区标准时间 - 克雷斯顿", [], "-bo", "克雷斯顿时间"],
+  [
+    "America/Creston",
+    "(GMT-07:00) 北美山区标准时间 - 克雷斯顿",
+    [],
+    "-bo",
+    "克雷斯顿时间"
+  ],
   [
     "America/Dawson",
     "(GMT-07:00) 北美太平洋时间 - 道森",
@@ -83,7 +89,13 @@
     "-bo",
     "道森克里克时间"
   ],
-  ["America/Fort_Nelson", "(GMT-07:00) 北美山区标准时间 - 纳尔逊堡", [], "-bo", "纳尔逊堡时间"],
+  [
+    "America/Fort_Nelson",
+    "(GMT-07:00) 北美山区标准时间 - 纳尔逊堡",
+    [],
+    "-bo",
+    "纳尔逊堡时间"
+  ],
   ["America/Hermosillo", "(GMT-07:00) 墨西哥太平洋标准时间", [], "-bo", "埃莫西约时间"],
   [
     "America/Los_Angeles",
@@ -142,7 +154,13 @@
     "-a0{ez59c{-bo{f3wf0{-a0{fadpc{-bo{ffcn0{-a0{flm5c{-bo{fql30{-a0{fwulc{-bo{g1tj0{-a0{g8atc{-bo{gd1z0{-a0{gjj9c{-bo{goaf0{-a0{gurpc{-bo{gzqn0{-a0",
     "奇瓦瓦时间"
   ],
-  ["America/Costa_Rica", "(GMT-06:00) 北美中部标准时间 - 哥斯达黎加", [], "-a0", "哥斯达黎加时间"],
+  [
+    "America/Costa_Rica",
+    "(GMT-06:00) 北美中部标准时间 - 哥斯达黎加",
+    [],
+    "-a0",
+    "哥斯达黎加时间"
+  ],
   [
     "America/Denver",
     "(GMT-06:00) 北美山区时间 - 丹佛",
@@ -157,8 +175,20 @@
     "-a0{ezd1c{-bo{f3930{-a0{falhc{-bo{fehj0{-a0{fltxc{-bo{fppz0{-a0{fx2dc{-bo{g1670{-a0{g8ilc{-bo{gcen0{-a0{gjr1c{-bo{gnn30{-a0{guzhc{-bo{gyvj0{-a0",
     "埃德蒙顿时间"
   ],
-  ["America/El_Salvador", "(GMT-06:00) 北美中部标准时间 - 萨尔瓦多", [], "-a0", "萨尔瓦多时间"],
-  ["America/Guatemala", "(GMT-06:00) 北美中部标准时间 - 危地马拉", [], "-a0", "危地马拉时间"],
+  [
+    "America/El_Salvador",
+    "(GMT-06:00) 北美中部标准时间 - 萨尔瓦多",
+    [],
+    "-a0",
+    "萨尔瓦多时间"
+  ],
+  [
+    "America/Guatemala",
+    "(GMT-06:00) 北美中部标准时间 - 危地马拉",
+    [],
+    "-a0",
+    "危地马拉时间"
+  ],
   [
     "America/Inuvik",
     "(GMT-06:00) 北美山区时间 - 伊努维克",
@@ -195,7 +225,13 @@
     "-a0",
     "斯威夫特卡伦特时间"
   ],
-  ["America/Tegucigalpa", "(GMT-06:00) 北美中部标准时间 - 特古西加尔巴", [], "-a0", "洪都拉斯时间"],
+  [
+    "America/Tegucigalpa",
+    "(GMT-06:00) 北美中部标准时间 - 特古西加尔巴",
+    [],
+    "-a0",
+    "洪都拉斯时间"
+  ],
   [
     "America/Yellowknife",
     "(GMT-06:00) 北美山区时间 - 耶洛奈夫",
@@ -234,7 +270,13 @@
     "-8c{ezczo{-a0{f391c{-8c{falfo{-a0{fehhc{-8c{fltvo{-a0{fppxc{-8c{fx2bo{-a0{g165c{-8c{g8ijo{-a0{gcelc{-8c{gjqzo{-a0{gnn1c{-8c{guzfo{-a0{gyvhc{-8c",
     "芝加哥时间"
   ],
-  ["America/Eirunepe", "(GMT-05:00) 阿克里标准时间 - 依伦尼贝", [], "-8c", "依伦尼贝时间"],
+  [
+    "America/Eirunepe",
+    "(GMT-05:00) 阿克里标准时间 - 依伦尼贝",
+    [],
+    "-8c",
+    "依伦尼贝时间"
+  ],
   ["America/Guayaquil", "(GMT-05:00) 厄瓜多尔标准时间", [], "-8c", "厄瓜多尔时间"],
   [
     "America/Indiana/Knox",
@@ -250,7 +292,13 @@
     "-8c{ezczo{-a0{f391c{-8c{falfo{-a0{fehhc{-8c{fltvo{-a0{fppxc{-8c{fx2bo{-a0{g165c{-8c{g8ijo{-a0{gcelc{-8c{gjqzo{-a0{gnn1c{-8c{guzfo{-a0{gyvhc{-8c",
     "印第安纳州特尔城时间"
   ],
-  ["America/Jamaica", "(GMT-05:00) 北美东部标准时间 - 牙买加", ["Jamaica"], "-8c", "牙买加时间"],
+  [
+    "America/Jamaica",
+    "(GMT-05:00) 北美东部标准时间 - 牙买加",
+    ["Jamaica"],
+    "-8c",
+    "牙买加时间"
+  ],
   ["America/Lima", "(GMT-05:00) 秘鲁标准时间", [], "-8c", "秘鲁时间"],
   [
     "America/Matamoros",
@@ -357,7 +405,13 @@
     "-6o{ey9yo{-50{f3od0{-6o{f9q6o{-50{fewt0{-6o{fkymo{-50{fq590{-6o{fw72o{-50{g1lh0{-6o{g7fio{-50{gctx0{-6o{ginyo{-50{go2d0{-6o{gtweo{-50{gzat0{-6o",
     "巴拉圭时间"
   ],
-  ["America/Barbados", "(GMT-04:00) 大西洋标准时间 - 巴巴多斯", [], "-6o", "巴巴多斯时间"],
+  [
+    "America/Barbados",
+    "(GMT-04:00) 大西洋标准时间 - 巴巴多斯",
+    [],
+    "-6o",
+    "巴巴多斯时间"
+  ],
   [
     "America/Blanc-Sablon",
     "(GMT-04:00) 大西洋标准时间 - 布兰克萨布隆",
@@ -365,7 +419,13 @@
     "-6o",
     "布兰克萨布隆时间"
   ],
-  ["America/Boa_Vista", "(GMT-04:00) 亚马逊标准时间 - 博阿维斯塔", [], "-6o", "博阿维斯塔时间"],
+  [
+    "America/Boa_Vista",
+    "(GMT-04:00) 亚马逊标准时间 - 博阿维斯塔",
+    [],
+    "-6o",
+    "博阿维斯塔时间"
+  ],
   [
     "America/Campo_Grande",
     "(GMT-04:00) 亚马逊时间 - 大坎普",
@@ -474,8 +534,20 @@
     "肯塔基州蒙蒂塞洛时间"
   ],
   ["America/La_Paz", "(GMT-04:00) 玻利维亚标准时间", [], "-6o", "玻利维亚时间"],
-  ["America/Manaus", "(GMT-04:00) 亚马逊标准时间 - 马瑙斯", ["Brazil/West"], "-6o", "马瑙斯时间"],
-  ["America/Martinique", "(GMT-04:00) 大西洋标准时间 - 马提尼克", [], "-6o", "马提尼克时间"],
+  [
+    "America/Manaus",
+    "(GMT-04:00) 亚马逊标准时间 - 马瑙斯",
+    ["Brazil/West"],
+    "-6o",
+    "马瑙斯时间"
+  ],
+  [
+    "America/Martinique",
+    "(GMT-04:00) 大西洋标准时间 - 马提尼克",
+    [],
+    "-6o",
+    "马提尼克时间"
+  ],
   [
     "America/Nassau",
     "(GMT-04:00) 北美东部时间 - 拿骚",
@@ -533,8 +605,20 @@
     "-6o",
     "特立尼达和多巴哥时间"
   ],
-  ["America/Porto_Velho", "(GMT-04:00) 亚马逊标准时间 - 波多韦柳", [], "-6o", "波多韦柳时间"],
-  ["America/Puerto_Rico", "(GMT-04:00) 大西洋标准时间 - 波多黎各", ["PRT"], "-6o", "波多黎各时间"],
+  [
+    "America/Porto_Velho",
+    "(GMT-04:00) 亚马逊标准时间 - 波多韦柳",
+    [],
+    "-6o",
+    "波多韦柳时间"
+  ],
+  [
+    "America/Puerto_Rico",
+    "(GMT-04:00) 大西洋标准时间 - 波多黎各",
+    ["PRT"],
+    "-6o",
+    "波多黎各时间"
+  ],
   [
     "America/Santiago",
     "(GMT-04:00) 智利时间",
@@ -563,7 +647,13 @@
     "-6o{ezcy0{-8c{f38zo{-6o{fale0{-8c{fehfo{-6o{fltu0{-8c{fppvo{-6o{fx2a0{-8c{g163o{-6o{g8ii0{-8c{gcejo{-6o{gjqy0{-8c{gnmzo{-6o{guze0{-8c{gyvfo{-6o",
     "多伦多时间"
   ],
-  ["America/Araguaina", "(GMT-03:00) 巴西利亚标准时间 - 阿拉瓜伊纳", [], "-50", "阿拉瓜伊纳时间"],
+  [
+    "America/Araguaina",
+    "(GMT-03:00) 巴西利亚标准时间 - 阿拉瓜伊纳",
+    [],
+    "-50",
+    "阿拉瓜伊纳时间"
+  ],
   [
     "America/Argentina/Buenos_Aires",
     "(GMT-03:00) 阿根廷标准时间 - 布宜诺斯艾利斯",
@@ -613,15 +703,51 @@
     "-50",
     "里奥加耶戈斯时间"
   ],
-  ["America/Argentina/Salta", "(GMT-03:00) 阿根廷标准时间 - 萨尔塔", [], "-50", "萨尔塔时间"],
-  ["America/Argentina/San_Juan", "(GMT-03:00) 阿根廷标准时间 - 圣胡安", [], "-50", "圣胡安时间"],
-  ["America/Argentina/San_Luis", "(GMT-03:00) 阿根廷西部标准时间", [], "-50", "圣路易斯时间"],
-  ["America/Argentina/Tucuman", "(GMT-03:00) 阿根廷标准时间 - 图库曼", [], "-50", "图库曼时间"],
-  ["America/Argentina/Ushuaia", "(GMT-03:00) 阿根廷标准时间 - 乌斯怀亚", [], "-50", "乌斯怀亚时间"],
+  [
+    "America/Argentina/Salta",
+    "(GMT-03:00) 阿根廷标准时间 - 萨尔塔",
+    [],
+    "-50",
+    "萨尔塔时间"
+  ],
+  [
+    "America/Argentina/San_Juan",
+    "(GMT-03:00) 阿根廷标准时间 - 圣胡安",
+    [],
+    "-50",
+    "圣胡安时间"
+  ],
+  [
+    "America/Argentina/San_Luis",
+    "(GMT-03:00) 阿根廷西部标准时间",
+    [],
+    "-50",
+    "圣路易斯时间"
+  ],
+  [
+    "America/Argentina/Tucuman",
+    "(GMT-03:00) 阿根廷标准时间 - 图库曼",
+    [],
+    "-50",
+    "图库曼时间"
+  ],
+  [
+    "America/Argentina/Ushuaia",
+    "(GMT-03:00) 阿根廷标准时间 - 乌斯怀亚",
+    [],
+    "-50",
+    "乌斯怀亚时间"
+  ],
   ["America/Bahia", "(GMT-03:00) 巴西利亚标准时间 - 巴伊亚", [], "-50", "巴伊亚时间"],
   ["America/Belem", "(GMT-03:00) 巴西利亚标准时间 - 贝伦", [], "-50", "贝伦时间"],
   ["America/Cayenne", "(GMT-03:00) 法属圭亚那标准时间", [], "-50", "法属圭亚那时间"],
-  ["America/Fortaleza", "(GMT-03:00) 巴西利亚标准时间 - 福塔雷萨", [], "-50", "福塔雷萨时间"],
+  [
+    "America/Fortaleza",
+    "(GMT-03:00) 巴西利亚标准时间 - 福塔雷萨",
+    [],
+    "-50",
+    "福塔雷萨时间"
+  ],
   [
     "America/Glace_Bay",
     "(GMT-03:00) 大西洋时间 - 格莱斯贝",
@@ -714,7 +840,13 @@
     "-3c",
     "洛罗尼亚时间"
   ],
-  ["Atlantic/South_Georgia", "(GMT-02:00) 南乔治亚岛时间", [], "-3c", "南乔治亚和南桑威奇群岛时间"],
+  [
+    "Atlantic/South_Georgia",
+    "(GMT-02:00) 南乔治亚岛时间",
+    [],
+    "-3c",
+    "南乔治亚和南桑威奇群岛时间"
+  ],
   ["Atlantic/Cape_Verde", "(GMT-01:00) 佛得角标准时间", [], "-1o", "佛得角时间"],
   [
     "Africa/Abidjan",
@@ -744,7 +876,13 @@
     "0{f141o{1o{fcdlo{0",
     "圣多美和普林西比时间"
   ],
-  ["America/Danmarkshavn", "(GMT+00:00) 格林尼治标准时间 - 丹马沙文", [], "0", "丹马沙文时间"],
+  [
+    "America/Danmarkshavn",
+    "(GMT+00:00) 格林尼治标准时间 - 丹马沙文",
+    [],
+    "0",
+    "丹马沙文时间"
+  ],
   [
     "America/Scoresbysund",
     "(GMT+00:00) 格陵兰岛东部时间",
@@ -759,7 +897,13 @@
     "0{ez4xo{-1o{f3o9o{0{faddo{-1o{ff4ho{0{fllto{-1o{fqcxo{0{fwu9o{-1o{g1ldo{0{g8aho{-1o{gctto{0{gjixo{-1o{go29o{0{gurdo{-1o{gziho{0",
     "亚速尔群岛时间"
   ],
-  ["Atlantic/Reykjavik", "(GMT+00:00) 格林尼治标准时间 - 雷克雅未克", ["Iceland"], "0", "冰岛时间"],
+  [
+    "Atlantic/Reykjavik",
+    "(GMT+00:00) 格林尼治标准时间 - 雷克雅未克",
+    ["Iceland"],
+    "0",
+    "冰岛时间"
+  ],
   [
     "Etc/GMT",
     "(GMT+00:00) 格林尼治标准时间",
@@ -850,7 +994,14 @@
   [
     "Europe/London",
     "(GMT+01:00) 英国时间",
-    ["Europe/Belfast", "Europe/Guernsey", "Europe/Isle_of_Man", "Europe/Jersey", "GB", "GB-Eire"],
+    [
+      "Europe/Belfast",
+      "Europe/Guernsey",
+      "Europe/Isle_of_Man",
+      "Europe/Jersey",
+      "GB",
+      "GB-Eire"
+    ],
     "1o{ez4xo{0{f3o9o{1o{faddo{0{ff4ho{1o{fllto{0{fqcxo{1o{fwu9o{0{g1ldo{1o{g8aho{0{gctto{1o{gjixo{0{go29o{1o{gurdo{0{gziho{1o",
     "英国时间"
   ],
@@ -886,7 +1037,13 @@
     "3c",
     "莫桑比克时间"
   ],
-  ["Africa/Tripoli", "(GMT+02:00) 东欧标准时间 - 的黎波里", ["Libya"], "3c", "利比亚时间"],
+  [
+    "Africa/Tripoli",
+    "(GMT+02:00) 东欧标准时间 - 的黎波里",
+    ["Libya"],
+    "3c",
+    "利比亚时间"
+  ],
   [
     "Africa/Windhoek",
     "(GMT+02:00) 中部非洲时间 - 温得和克",
@@ -918,7 +1075,13 @@
   [
     "Europe/Belgrade",
     "(GMT+02:00) 中欧时间 - 贝尔格莱德",
-    ["Europe/Ljubljana", "Europe/Podgorica", "Europe/Sarajevo", "Europe/Skopje", "Europe/Zagreb"],
+    [
+      "Europe/Ljubljana",
+      "Europe/Podgorica",
+      "Europe/Sarajevo",
+      "Europe/Skopje",
+      "Europe/Zagreb"
+    ],
     "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
     "塞尔维亚时间"
   ],
@@ -957,7 +1120,13 @@
     "3c{ez4xo{1o{f3o9o{3c{faddo{1o{ff4ho{3c{fllto{1o{fqcxo{3c{fwu9o{1o{g1ldo{3c{g8aho{1o{gctto{3c{gjixo{1o{go29o{3c{gurdo{1o{gziho{3c",
     "直布罗陀时间"
   ],
-  ["Europe/Kaliningrad", "(GMT+02:00) 东欧标准时间 - 加里宁格勒", [], "3c", "加里宁格勒时间"],
+  [
+    "Europe/Kaliningrad",
+    "(GMT+02:00) 东欧标准时间 - 加里宁格勒",
+    [],
+    "3c",
+    "加里宁格勒时间"
+  ],
   [
     "Europe/Luxembourg",
     "(GMT+02:00) 中欧时间 - 卢森堡",
@@ -1127,7 +1296,13 @@
     "50{ez4xo{3c{f3o9o{50{faddo{3c{ff4ho{50{fllto{3c{fqcxo{50{fwu9o{3c{g1ldo{50{g8aho{3c{gctto{50{gjixo{3c{go29o{50{gurdo{3c{gziho{50",
     "尼科西亚时间"
   ],
-  ["Asia/Qatar", "(GMT+03:00) 阿拉伯标准时间 - 卡塔尔", ["Asia/Bahrain"], "50", "卡塔尔时间"],
+  [
+    "Asia/Qatar",
+    "(GMT+03:00) 阿拉伯标准时间 - 卡塔尔",
+    ["Asia/Bahrain"],
+    "50",
+    "卡塔尔时间"
+  ],
   [
     "Asia/Riyadh",
     "(GMT+03:00) 阿拉伯标准时间 - 利雅得",
@@ -1163,7 +1338,13 @@
     "50{ez4xo{3c{f3o9o{50{faddo{3c{ff4ho{50{fllto{3c{fqcxo{50{fwu9o{3c{g1ldo{50{g8aho{3c{gctto{50{gjixo{3c{go29o{50{gurdo{3c{gziho{50",
     "芬兰时间"
   ],
-  ["Europe/Istanbul", "(GMT+03:00) 土耳其时间", ["Asia/Istanbul", "Turkey"], "50", "土耳其时间"],
+  [
+    "Europe/Istanbul",
+    "(GMT+03:00) 土耳其时间",
+    ["Asia/Istanbul", "Turkey"],
+    "50",
+    "土耳其时间"
+  ],
   [
     "Europe/Kiev",
     "(GMT+03:00) 东欧时间 - 基辅",
@@ -1181,7 +1362,13 @@
     "50{ez4xo{3c{f3o9o{50{faddo{3c{ff4ho{50{fllto{3c{fqcxo{50{fwu9o{3c{g1ldo{50{g8aho{3c{gctto{50{gjixo{3c{go29o{50{gurdo{3c{gziho{50",
     "拉脱维亚时间"
   ],
-  ["Europe/Simferopol", "(GMT+03:00) 莫斯科标准时间 - 辛菲罗波尔", [], "50", "辛菲罗波尔时间"],
+  [
+    "Europe/Simferopol",
+    "(GMT+03:00) 莫斯科标准时间 - 辛菲罗波尔",
+    [],
+    "50",
+    "辛菲罗波尔时间"
+  ],
   [
     "Europe/Sofia",
     "(GMT+03:00) 东欧时间 - 索非亚",
@@ -1218,14 +1405,26 @@
     "扎波罗热时间"
   ],
   ["Asia/Baku", "(GMT+04:00) 阿塞拜疆标准时间", [], "6o", "阿塞拜疆时间"],
-  ["Asia/Dubai", "(GMT+04:00) 海湾标准时间", ["Asia/Muscat"], "6o", "阿拉伯联合酋长国时间"],
+  [
+    "Asia/Dubai",
+    "(GMT+04:00) 海湾标准时间",
+    ["Asia/Muscat"],
+    "6o",
+    "阿拉伯联合酋长国时间"
+  ],
   ["Asia/Tbilisi", "(GMT+04:00) 格鲁吉亚标准时间", [], "6o", "格鲁吉亚时间"],
   ["Asia/Yerevan", "(GMT+04:00) 亚美尼亚标准时间", ["NET"], "6o", "亚美尼亚时间"],
   ["Europe/Astrakhan", "(GMT+04:00) 阿斯特拉罕时间", [], "6o", "阿斯特拉罕时间"],
   ["Europe/Samara", "(GMT+04:00) 萨马拉标准时间", [], "6o", "萨马拉时间"],
   ["Europe/Saratov", "(GMT+04:00) 萨拉托夫时间", [], "6o", "萨拉托夫时间"],
   ["Europe/Ulyanovsk", "(GMT+04:00) 乌里扬诺夫斯克时间", [], "6o", "乌里扬诺夫斯克时间"],
-  ["Europe/Volgograd", "(GMT+04:00) 伏尔加格勒标准时间", [], "50{fadac{6o", "伏尔加格勒时间"],
+  [
+    "Europe/Volgograd",
+    "(GMT+04:00) 伏尔加格勒标准时间",
+    [],
+    "50{fadac{6o",
+    "伏尔加格勒时间"
+  ],
   ["Indian/Mahe", "(GMT+04:00) 塞舌尔时间", [], "6o", "塞舌尔时间"],
   ["Indian/Mauritius", "(GMT+04:00) 毛里求斯标准时间", [], "6o", "毛里求斯时间"],
   ["Indian/Reunion", "(GMT+04:00) 留尼汪时间", [], "6o", "留尼汪时间"],
@@ -1240,7 +1439,13 @@
   ["Antarctica/Mawson", "(GMT+05:00) 莫森时间", [], "8c", "莫森时间"],
   ["Asia/Aqtau", "(GMT+05:00) 哈萨克斯坦西部时间 - 阿克套", [], "8c", "阿克套时间"],
   ["Asia/Aqtobe", "(GMT+05:00) 哈萨克斯坦西部时间 - 阿克托别", [], "8c", "阿克托别时间"],
-  ["Asia/Ashgabat", "(GMT+05:00) 土库曼斯坦标准时间", ["Asia/Ashkhabad"], "8c", "土库曼斯坦时间"],
+  [
+    "Asia/Ashgabat",
+    "(GMT+05:00) 土库曼斯坦标准时间",
+    ["Asia/Ashkhabad"],
+    "8c",
+    "土库曼斯坦时间"
+  ],
   ["Asia/Atyrau", "(GMT+05:00) 哈萨克斯坦西部时间 - 阿特劳", [], "8c", "阿特劳时间"],
   ["Asia/Dushanbe", "(GMT+05:00) 塔吉克斯坦时间", [], "8c", "塔吉克斯坦时间"],
   ["Asia/Karachi", "(GMT+05:00) 巴基斯坦标准时间", ["PLT"], "8c", "巴基斯坦时间"],
@@ -1252,20 +1457,56 @@
     "a0{fc120{8c",
     "克孜洛尔达时间"
   ],
-  ["Asia/Samarkand", "(GMT+05:00) 乌兹别克斯坦标准时间 - 撒马尔罕", [], "8c", "撒马尔罕时间"],
-  ["Asia/Tashkent", "(GMT+05:00) 乌兹别克斯坦标准时间 - 塔什干", [], "8c", "乌兹别克斯坦时间"],
+  [
+    "Asia/Samarkand",
+    "(GMT+05:00) 乌兹别克斯坦标准时间 - 撒马尔罕",
+    [],
+    "8c",
+    "撒马尔罕时间"
+  ],
+  [
+    "Asia/Tashkent",
+    "(GMT+05:00) 乌兹别克斯坦标准时间 - 塔什干",
+    [],
+    "8c",
+    "乌兹别克斯坦时间"
+  ],
   ["Asia/Yekaterinburg", "(GMT+05:00) 叶卡捷琳堡标准时间", [], "8c", "叶卡捷琳堡时间"],
-  ["Indian/Kerguelen", "(GMT+05:00) 法属南方和南极领地时间", [], "8c", "法属南部领地时间"],
+  [
+    "Indian/Kerguelen",
+    "(GMT+05:00) 法属南方和南极领地时间",
+    [],
+    "8c",
+    "法属南部领地时间"
+  ],
   ["Indian/Maldives", "(GMT+05:00) 马尔代夫时间", [], "8c", "马尔代夫时间"],
   ["Asia/Colombo", "(GMT+05:30) 印度时间 - 科伦坡", [], "96", "斯里兰卡时间"],
-  ["Asia/Kolkata", "(GMT+05:30) 印度时间 - 加尔各答", ["Asia/Calcutta"], "96", "印度时间"],
+  [
+    "Asia/Kolkata",
+    "(GMT+05:30) 印度时间 - 加尔各答",
+    ["Asia/Calcutta"],
+    "96",
+    "印度时间"
+  ],
   ["Asia/Kathmandu", "(GMT+05:45) 尼泊尔时间", ["Asia/Katmandu"], "9l", "尼泊尔时间"],
   ["Antarctica/Vostok", "(GMT+06:00) 沃斯托克时间", [], "a0", "沃斯托克时间"],
   ["Asia/Almaty", "(GMT+06:00) 哈萨克斯坦东部时间 - 阿拉木图", [], "a0", "阿拉木图时间"],
   ["Asia/Bishkek", "(GMT+06:00) 吉尔吉斯斯坦时间", [], "a0", "吉尔吉斯斯坦时间"],
-  ["Asia/Dhaka", "(GMT+06:00) 孟加拉标准时间", ["Asia/Dacca", "BST"], "a0", "孟加拉国时间"],
+  [
+    "Asia/Dhaka",
+    "(GMT+06:00) 孟加拉标准时间",
+    ["Asia/Dacca", "BST"],
+    "a0",
+    "孟加拉国时间"
+  ],
   ["Asia/Omsk", "(GMT+06:00) 鄂木斯克标准时间", [], "a0", "鄂木斯克时间"],
-  ["Asia/Qostanay", "(GMT+06:00) 哈萨克斯坦东部时间 - 库斯塔奈", [], "a0", "库斯塔奈时间"],
+  [
+    "Asia/Qostanay",
+    "(GMT+06:00) 哈萨克斯坦东部时间 - 库斯塔奈",
+    [],
+    "a0",
+    "库斯塔奈时间"
+  ],
   ["Asia/Thimphu", "(GMT+06:00) 不丹时间", ["Asia/Thimbu"], "a0", "不丹时间"],
   ["Asia/Urumqi", "(GMT+06:00) 乌鲁木齐时间", ["Asia/Kashgar"], "a0", "乌鲁木齐时间"],
   ["Indian/Chagos", "(GMT+06:00) 印度洋时间", [], "a0", "英属印度洋领地时间"],
@@ -1280,7 +1521,13 @@
     "泰国时间"
   ],
   ["Asia/Barnaul", "(GMT+07:00) 巴尔瑙尔时间", [], "bo", "巴尔瑙尔时间"],
-  ["Asia/Ho_Chi_Minh", "(GMT+07:00) 中南半岛时间 - 胡志明市", ["Asia/Saigon"], "bo", "越南时间"],
+  [
+    "Asia/Ho_Chi_Minh",
+    "(GMT+07:00) 中南半岛时间 - 胡志明市",
+    ["Asia/Saigon"],
+    "bo",
+    "越南时间"
+  ],
   ["Asia/Hovd", "(GMT+07:00) 科布多标准时间", [], "bo", "科布多时间"],
   ["Asia/Jakarta", "(GMT+07:00) 印度尼西亚西部时间 - 雅加达", [], "bo", "雅加达时间"],
   [
@@ -1301,7 +1548,13 @@
   ["Asia/Pontianak", "(GMT+07:00) 印度尼西亚西部时间 - 坤甸", [], "bo", "坤甸时间"],
   ["Asia/Tomsk", "(GMT+07:00) 托木斯克时间", [], "bo", "托木斯克时间"],
   ["Indian/Christmas", "(GMT+07:00) 圣诞岛时间", [], "bo", "圣诞岛时间"],
-  ["Antarctica/Casey", "(GMT+08:00) 澳大利亚西部标准时间 - 卡塞", [], "ic{f38cc{dc", "卡塞时间"],
+  [
+    "Antarctica/Casey",
+    "(GMT+08:00) 澳大利亚西部标准时间 - 卡塞",
+    [],
+    "ic{f38cc{dc",
+    "卡塞时间"
+  ],
   ["Asia/Brunei", "(GMT+08:00) 文莱达鲁萨兰时间", [], "dc", "文莱时间"],
   ["Asia/Choibalsan", "(GMT+08:00) 乔巴山标准时间", [], "dc", "乔巴山时间"],
   ["Asia/Hong_Kong", "(GMT+08:00) 香港标准时间", ["Hongkong"], "dc", "香港时间"],
@@ -1309,18 +1562,30 @@
   ["Asia/Kuala_Lumpur", "(GMT+08:00) 马来西亚时间 - 吉隆坡", [], "dc", "马来西亚时间"],
   ["Asia/Kuching", "(GMT+08:00) 马来西亚时间 - 古晋", [], "dc", "古晋时间"],
   ["Asia/Macau", "(GMT+08:00) 中国标准时间 - 澳门", ["Asia/Macao"], "dc", "澳门时间"],
-  ["Asia/Makassar", "(GMT+08:00) 印度尼西亚中部时间", ["Asia/Ujung_Pandang"], "dc", "望加锡时间"],
+  [
+    "Asia/Makassar",
+    "(GMT+08:00) 印度尼西亚中部时间",
+    ["Asia/Ujung_Pandang"],
+    "dc",
+    "望加锡时间"
+  ],
   ["Asia/Manila", "(GMT+08:00) 菲律宾标准时间", [], "dc", "菲律宾时间"],
   [
     "Asia/Shanghai",
-    "(GMT+08:00) 中国标准时间 - 上海",
+    "(GMT+08:00) 中国标准时间 - 北京、上海、重庆、哈尔滨",
     ["Asia/Chongqing", "Asia/Chungking", "Asia/Harbin", "CTT", "PRC"],
     "dc",
     "中国时间"
   ],
   ["Asia/Singapore", "(GMT+08:00) 新加坡标准时间", ["Singapore"], "dc", "新加坡时间"],
   ["Asia/Taipei", "(GMT+08:00) 台北标准时间", ["ROC"], "dc", "台湾时间"],
-  ["Asia/Ulaanbaatar", "(GMT+08:00) 乌兰巴托标准时间", ["Asia/Ulan_Bator"], "dc", "乌兰巴托时间"],
+  [
+    "Asia/Ulaanbaatar",
+    "(GMT+08:00) 乌兰巴托标准时间",
+    ["Asia/Ulan_Bator"],
+    "dc",
+    "乌兰巴托时间"
+  ],
   [
     "Australia/Perth",
     "(GMT+08:00) 澳大利亚西部标准时间 - 珀斯",
@@ -1359,7 +1624,13 @@
     "fu",
     "达尔文时间"
   ],
-  ["Antarctica/DumontDUrville", "(GMT+10:00) 迪蒙迪尔维尔时间", [], "go", "迪蒙迪尔维尔时间"],
+  [
+    "Antarctica/DumontDUrville",
+    "(GMT+10:00) 迪蒙迪尔维尔时间",
+    [],
+    "go",
+    "迪蒙迪尔维尔时间"
+  ],
   ["Asia/Ust-Nera", "(GMT+10:00) 海参崴标准时间 - 乌斯内拉", [], "go", "乌斯内拉时间"],
   [
     "Asia/Vladivostok",
@@ -1389,7 +1660,13 @@
     "go{ey9eo{ic{f3vmo{go{f9pmo{ic{ffbuo{go{fky2o{ic{fqkao{go{fw6io{ic{g1sqo{go{g7eyo{ic{gd16o{go{gineo{ic{go9mo{go{gtvuo{ic{gzpuo{go",
     "霍巴特时间"
   ],
-  ["Australia/Lindeman", "(GMT+10:00) 澳大利亚东部标准时间 - 林德曼", [], "go", "林德曼时间"],
+  [
+    "Australia/Lindeman",
+    "(GMT+10:00) 澳大利亚东部标准时间 - 林德曼",
+    [],
+    "go",
+    "林德曼时间"
+  ],
   [
     "Australia/Melbourne",
     "(GMT+10:00) 澳大利亚东部时间 - 墨尔本",
@@ -1432,7 +1709,13 @@
   ["Pacific/Noumea", "(GMT+11:00) 新喀里多尼亚标准时间", [], "ic", "新喀里多尼亚时间"],
   ["Pacific/Pohnpei", "(GMT+11:00) 波纳佩时间", ["Pacific/Ponape"], "ic", "波纳佩岛时间"],
   ["Asia/Anadyr", "(GMT+12:00) 阿纳德尔标准时间", [], "k0", "阿纳德尔时间"],
-  ["Asia/Kamchatka", "(GMT+12:00) 彼得罗巴甫洛夫斯克-堪察加标准时间", [], "k0", "堪察加时间"],
+  [
+    "Asia/Kamchatka",
+    "(GMT+12:00) 彼得罗巴甫洛夫斯克-堪察加标准时间",
+    [],
+    "k0",
+    "堪察加时间"
+  ],
   [
     "Pacific/Auckland",
     "(GMT+12:00) 新西兰时间",
@@ -1448,7 +1731,13 @@
     "斐济时间"
   ],
   ["Pacific/Funafuti", "(GMT+12:00) 图瓦卢时间", [], "k0", "图瓦卢时间"],
-  ["Pacific/Kwajalein", "(GMT+12:00) 马绍尔群岛时间 - 夸贾林", ["Kwajalein"], "k0", "夸贾林时间"],
+  [
+    "Pacific/Kwajalein",
+    "(GMT+12:00) 马绍尔群岛时间 - 夸贾林",
+    ["Kwajalein"],
+    "k0",
+    "夸贾林时间"
+  ],
   ["Pacific/Majuro", "(GMT+12:00) 马绍尔群岛时间 - 马朱罗", [], "k0", "马绍尔群岛时间"],
   ["Pacific/Nauru", "(GMT+12:00) 瑙鲁时间", [], "k0", "瑙鲁时间"],
   ["Pacific/Tarawa", "(GMT+12:00) 吉尔伯特群岛时间", [], "k0", "塔拉瓦时间"],

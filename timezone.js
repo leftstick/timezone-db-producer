@@ -6,7 +6,7 @@ const langEn = {}
 const canonicals = []
 
 googleEn.forEach(g => {
-  langEn[g[0]] = g[1].replace(/\(.*\)/, '').trim()
+  langEn[g[0]] = g[1].replace(/\(.*?\)/, '').trim()
 })
 
 googleZh.forEach(g => {
@@ -17,11 +17,11 @@ googleZh.forEach(g => {
       .slice(1, -1)
       .substring(3),
     enDisplayName: langEn[g[0]],
-    zhDisplayName: g[1].replace(/\(.*\)/, '').trim(),
+    zhDisplayName: g[1].replace(/\(.*?\)/, '').trim(),
     aliases: g[2]
   })
 })
 
-fs.writeFileSync('./timezone_v2.json', JSON.stringify(canonicals, null, 2), {
+fs.writeFileSync('./timezone_v3.json', JSON.stringify(canonicals, null, 2), {
   encoding: 'utf8'
 })
