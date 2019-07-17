@@ -35,7 +35,10 @@ public class TimeZoneExample {
 
 而且你还会发现，叫`中国标准时间`的`id`有好多个，`Asia/Harbin`、`Asia/Taipei`、`Asia/Chongqing`、`Asia/Chungking`、`Asia/Macao`、`Asia/Macau`，但是`Asia/Hong_kong`反而叫`香港时间`。。。。
 
-我就问你看到这，难受不难受？理解不理解？如果对于这么一堆奇怪的`id`不甚理解，又想听听故事的，不妨看看[Windows 时区设置中给出了北京、重庆、乌鲁木齐和香港，北京因为是首都，其它几个是什么原因呢？](https://www.zhihu.com/question/20052268/answer/13815835)；[为何计算机里面只有上海重庆时间没有北京时间？](https://www.zhihu.com/question/278932712)
+我就问你看到这，难受不难受？理解不理解？如果对于这么一堆奇怪的`id`不甚理解，又想听听故事的，不妨看看:
+
+- [Windows 时区设置中给出了北京、重庆、乌鲁木齐和香港，北京因为是首都，其它几个是什么原因呢？](https://www.zhihu.com/question/20052268/answer/13815835)
+- [为何计算机里面只有上海重庆时间没有北京时间？](https://www.zhihu.com/question/278932712)
 
 然后话说回来，这个`id` 到底能拿来干嘛？
 
