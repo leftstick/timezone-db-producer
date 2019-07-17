@@ -16,16 +16,16 @@ import java.util.stream.Collectors;
 
 public class TimeZoneExample {
 
-	public static void main(String[] args) {
+  public static void main(String[] args) {
 
-		String[] ids = TimeZone.getAvailableIDs();
+  String[] ids = TimeZone.getAvailableIDs();
 
-		List<TimeZone> zones = Arrays.asList(ids).stream().map(id -> TimeZone.getTimeZone(id)).collect(Collectors.toList());
+    List<TimeZone> zones = Arrays.asList(ids).stream().map(id -> TimeZone.getTimeZone(id)).collect(Collectors.toList());
 
-		for (TimeZone zone : zones) {
-			System.out.println(zone.getID() + " - " + zone.getDisplayName()); // something like: Asia/Shanghai - China Standard Time
-		}
-	}
+    for (TimeZone zone : zones) {
+      System.out.println(zone.getID() + " - " + zone.getDisplayName()); // something like: Asia/Shanghai - China Standard Time
+    }
+  }
 }
 ```
 
